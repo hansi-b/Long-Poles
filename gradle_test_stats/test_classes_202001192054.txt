@@ -1,0 +1,2334 @@
+>>> Test class org.gradle.caching.internal.packaging.impl.RelativePathParserTest	1714
+>>> Gradle Test Executor 2907	1732
+>>> Test class org.gradle.caching.internal.packaging.impl.TarBuildCacheEntryPackerPermissionTest	4111
+>>> Gradle Test Executor 2903	4157
+>>> Test class org.gradle.api.internal.coerce.StringToEnumTransformerTest	1960
+>>> Test class org.gradle.api.specs.SpecsTest	339
+>>> Gradle Test Executor 2904	2321
+>>> Test class org.gradle.api.specs.OrSpecTest	217
+>>> Gradle Test Executor 2911	258
+>>> Test class org.gradle.internal.build.event.DefaultBuildEventsListenerRegistryTest	4765
+>>> Gradle Test Executor 2902	4807
+>>> Test class org.gradle.internal.FactoriesTest	2059
+>>> Test class org.gradle.internal.CastTest	138
+>>> Test class org.gradle.internal.resources.ExclusiveAccessResourceLockTest	630
+>>> Test class org.gradle.internal.TryTest	156
+>>> Test class org.gradle.internal.exceptions.DefaultMultiCauseExceptionTest	397
+>>> Test class org.gradle.internal.time.TimeFormattingTest	103
+>>> Test class org.gradle.internal.work.DefaultWorkerLeaseServiceTest	285
+>>> Test class org.gradle.internal.FileUtilsTest	197
+>>> Test class org.gradle.internal.operations.CurrentBuildOperationPreservingRunnableTest	96
+>>> Test class org.gradle.internal.buildoption.CommandLineOptionConfigurationTest	1325
+>>> Test class org.gradle.internal.buildoption.StringBuildOptionTest	296
+>>> Gradle Test Executor 2901	1672
+>>> Test class org.gradle.internal.buildoption.BuildOptionTest	1713
+>>> Test class org.gradle.internal.buildoption.ListBuildOptionTest	274
+>>> Gradle Test Executor 2909	2012
+>>> Test class org.gradle.api.specs.NotSpecTest	194
+>>> Gradle Test Executor 2914	232
+>>> Test class org.gradle.api.specs.AndSpecTest	1593
+>>> Gradle Test Executor 2912	1613
+>>> Test class org.gradle.caching.internal.packaging.impl.TarBuildCacheEntryPackerTest	5000
+>>> Gradle Test Executor 2905	5043
+>>> Test class org.gradle.internal.ActionsTest	981
+>>> Test class org.gradle.internal.concurrent.CompositeStoppableTest	1987
+>>> Test class org.gradle.internal.classloader.ConfigurableClassLoaderHierarchyHasherTest	520
+>>> Test class org.gradle.internal.classloader.TransformingClassLoaderTest	37
+>>> Test class org.gradle.internal.resources.SharedResourceLeaseRegistryTest	969
+>>> Test class org.gradle.internal.resources.DefaultResourceLockCoordinationServiceTest	308
+>>> Test class org.gradle.internal.service.DefaultServiceRegistryConcurrencyTest	540
+>>> Test class org.gradle.internal.exceptions.ValueCollectingDiagnosticsVisitorTest	19
+>>> Test class org.gradle.internal.time.DefaultTimerTest	47
+>>> Test class org.gradle.internal.buildoption.EnumBuildOptionTest	1383
+>>> Test class org.gradle.internal.buildoption.BooleanBuildOptionTest	251
+>>> Gradle Test Executor 2913	1668
+>>> Test class org.gradle.internal.buildoption.EnabledOnlyBooleanBuildOptionTest	1191
+>>> Test class org.gradle.internal.buildoption.BooleanCommandLineOptionConfigurationTest	51
+>>> Gradle Test Executor 2915	1265
+>>> Test class org.gradle.caching.internal.packaging.impl.PackerDirectoryUtilTest	1479
+>>> Gradle Test Executor 2916	1492
+>>> Test class org.gradle.api.plugins.antlr.internal.antlr2.MetadataExtracterTest	1445
+>>> Gradle Test Executor 2917	1483
+>>> Test class org.gradle.internal.work.DefaultWorkerLeaseServiceWorkerLeaseTest	2812
+>>> Test class org.gradle.internal.operations.DefaultBuildOperationListenerManagerTest	135
+>>> Test class org.gradle.internal.concurrent.DefaultExecutorFactoryTest	12791
+>>> Test class org.gradle.internal.resources.AbstractResourceLockRegistryTest	278
+>>> Test class org.gradle.internal.operations.DefaultBuildOperationExecutorParallelExecutionTest	2946
+>>> Test class org.gradle.internal.BiActionsTest	35
+>>> Test class org.gradle.internal.MutableActionSetTest	56
+>>> Test class org.gradle.internal.classloader.ClasspathUtilTest	276
+>>> Test class org.gradle.internal.classloader.MultiParentClassLoaderTest	648
+>>> Test class org.gradle.internal.io.LinePerThreadBufferingOutputStreamTest	354
+>>> Test class org.gradle.internal.id.CompositeIdGeneratorTest	66
+>>> Test class org.gradle.internal.graph.CachingDirectedGraphWalkerTest	389
+>>> Test class org.gradle.internal.hash.HashUtilTest	669
+>>> Test class org.gradle.internal.ErroringActionTest	15
+>>> Test class org.gradle.api.plugins.antlr.AntlrPluginTest	7029
+>>> Gradle Test Executor 2919	7049
+>>> Test class org.gradle.caching.internal.controller.service.StoreTargetTest	2101
+>>> Gradle Test Executor 2922	2124
+>>> Test class org.gradle.caching.local.internal.DirectoryBuildCacheServiceFactoryTest	3435
+>>> Test class org.gradle.caching.internal.controller.service.LoadTargetTest	165
+>>> Gradle Test Executor 2921	3613
+>>> Test class org.gradle.internal.reflect.DirectInstantiatorCacheTest	47
+>>> Test class org.gradle.internal.SpecsTest	32
+>>> Test class org.gradle.util.PathTest	65
+>>> Test class org.gradle.internal.service.DefaultServiceRegistryTest	2681
+>>> Test class org.gradle.internal.io.StreamByteBufferTest	10352
+>>> Test class org.gradle.util.SetSystemPropertiesTest	220
+>>> Gradle Test Executor 2910	12682
+>>> Test class org.gradle.internal.TransformersTest	166
+>>> Test class org.gradle.internal.concurrent.ServiceLifecycleTest	7805
+>>> Test class org.gradle.internal.id.LongIdGeneratorTest	332
+>>> Test class org.gradle.internal.MutableBooleanTest	33
+>>> Test class org.gradle.internal.util.NumberUtilTest	56
+>>> Test class org.gradle.internal.resources.AbstractTrackedResourceLockTest	202
+>>> Test class org.gradle.internal.PairTest	133
+>>> Test class org.gradle.internal.jvm.JvmTest	1211
+>>> Test class org.gradle.internal.reflect.DirectInstantiatorTest	166
+>>> Test class org.gradle.internal.work.DefaultWorkerLeaseServiceProjectLockTest	1762
+>>> Test class org.gradle.internal.classpath.DefaultClassPathTest	93
+>>> Test class org.gradle.internal.os.OperatingSystemTest	291
+>>> Test class org.gradle.internal.operations.MultipleBuildOperationFailuresTest	148
+>>> Test class org.gradle.util.internal.LimitedDescriptionTest	26
+>>> Test class org.gradle.internal.operations.CurrentBuildOperationRefTest	72
+>>> Test class org.gradle.util.GradleVersionTest	275
+>>> Test class org.gradle.api.JavaVersionSpec	141
+>>> Gradle Test Executor 2906	18515
+>>> Test class org.gradle.internal.classloader.FilteringClassLoaderTest	1116
+>>> Test class org.gradle.internal.service.ServiceLocatorTest	2770
+>>> Test class org.gradle.internal.classloader.ClassLoaderUtilsTest	79
+>>> Test class org.gradle.internal.exceptions.FormattingDiagnosticsVisitorTest	56
+>>> Test class org.gradle.internal.time.MonotonicClockTest	87
+>>> Test class org.gradle.internal.io.ClassLoaderObjectInputStreamTest	680
+>>> Test class org.gradle.internal.process.ArgWriterTest	272
+>>> Test class org.gradle.internal.SystemPropertiesTest	7
+>>> Test class org.gradle.internal.util.TrieTest	34
+>>> Test class org.gradle.api.plugins.antlr.internal.AntlrSpecFactoryTest	5656
+>>> Gradle Test Executor 2923	5678
+>>> Test class org.gradle.caching.local.internal.DirectoryBuildCacheServiceTest	3927
+>>> Test class org.gradle.caching.internal.controller.DefaultBuildCacheControllerTest	1493
+>>> Gradle Test Executor 2924	5438
+>>> Test class org.gradle.caching.internal.origin.OriginMetadataFactoryTest	4234
+>>> Gradle Test Executor 2925	4274
+>>> Test class org.gradle.internal.jvm.AppleJvmTest	330
+>>> Test class org.gradle.internal.MutableReferenceTest	39
+>>> Test class org.gradle.internal.work.DefaultConditionalExecutionQueueTest	1485
+>>> Test class org.gradle.internal.ImmutableActionSetTest	308
+>>> Test class org.gradle.util.GUtilTest	260
+>>> Test class org.gradle.util.GFileUtilsTest	1532
+>>> Test class org.gradle.api.internal.cache.StringInternerTest	136
+>>> Gradle Test Executor 2908	22851
+>>> Test class org.gradle.buildinit.plugins.internal.GitIgnoreGeneratorTest	3502
+>>> Test class org.gradle.buildinit.plugins.internal.modifiers.NamesTest	124
+>>> Test class org.gradle.buildinit.plugins.internal.TemplateValueTest	33
+>>> Test class org.gradle.profile.ProfileReportRendererTest	3092
+>>> Test class org.gradle.profile.BuildProfileTest	106
+>>> Gradle Test Executor 2927	3230
+>>> Test class org.gradle.profile.TaskExecutionTest	2188
+>>> Gradle Test Executor 2928	2213
+>>> Test class org.gradle.internal.operations.MaxWorkersTest	4296
+>>> Test class org.gradle.internal.operations.DefaultBuildOperationQueueTest	1721
+>>> Test class org.gradle.internal.classloader.CachingClassLoaderTest	195
+>>> Test class org.gradle.internal.classloader.DefaultClassLoaderFactoryTest	858
+>>> Test class org.gradle.internal.classloader.VisitableURLClassLoaderTest	121
+>>> Test class org.gradle.internal.io.SkipFirstTextStreamTest	73
+>>> Test class org.gradle.internal.id.UniqueIdTest	173
+>>> Test class org.gradle.internal.util.PropertiesUtilsTest	266
+>>> Test class org.gradle.internal.hash.HashValueTest	40
+>>> Test class org.gradle.internal.DescribablesTest	174
+>>> Test class org.gradle.internal.reflect.JavaMethodTest	104
+>>> Test class org.gradle.internal.IoActionsTest	438
+>>> Test class org.gradle.util.CollectionUtilsTest	779
+>>> Test class org.gradle.api.internal.DocumentationRegistryTest	62
+>>> Gradle Test Executor 2918	21881
+>>> Test class org.gradle.buildinit.plugins.internal.modifiers.BuildInitTestFrameworkTest	2170
+>>> Test class org.gradle.buildinit.plugins.internal.SimpleTemplateOperationSpec	3485
+>>> Test class org.gradle.buildinit.plugins.internal.ProjectLayoutSetupRegistrySpec	283
+>>> Test class org.gradle.buildinit.plugins.internal.NamespaceBuilderTest	65
+>>> Test class org.gradle.buildinit.plugins.internal.PackageNameBuilderTest	90
+>>> Test class org.gradle.buildinit.plugins.internal.TemplateOperationFactorySpec	2335
+>>> Test class org.gradle.buildinit.plugins.internal.modifiers.BuildInitBuildScriptDslTest	2488
+>>> Test class org.gradle.buildinit.plugins.internal.ConditionalTemplateOperationSpec	321
+>>> Test class org.gradle.buildinit.plugins.internal.maven.MavenProjectXmlWriterTest	96
+>>> Test class org.gradle.buildinit.plugins.internal.maven.MavenProjectsCreatorSpec	5833
+>>> Test class org.gradle.buildinit.plugins.internal.BuildScriptBuilderKotlinTest	1673
+>>> Test class org.gradle.buildinit.plugins.internal.BuildScriptBuilderGroovyTest	1674
+>>> Test class org.gradle.buildinit.plugins.internal.TemplateFactoryTest	707
+>>> Test class org.gradle.buildinit.plugins.WrapperPluginSpec	5101
+>>> Gradle Test Executor 2930	9056
+>>> Test class org.gradle.profile.ProjectProfileTest	2625
+>>> Gradle Test Executor 2932	2647
+>>> Test class org.gradle.profile.CompositeOperationTest	3172
+>>> Gradle Test Executor 2934	3198
+>>> Test class org.gradle.cli.ProjectPropertiesCommandLineConverterTest	2570
+>>> Test class org.gradle.cli.ParsedCommandLineOptionSpec	93
+>>> Gradle Test Executor 2933	2690
+>>> Test class org.gradle.cli.ParsedCommandLineTest	1701
+>>> Test class org.gradle.cli.SystemPropertiesCommandLineConverterTest	1900
+>>> Gradle Test Executor 2936	1921
+>>> Test class org.gradle.buildinit.plugins.BuildInitPluginSpec	5567
+>>> Gradle Test Executor 2926	15094
+>>> Test class org.gradle.buildinit.tasks.InitBuildSpec	4080
+>>> Gradle Test Executor 2929	11001
+>>> Test class org.gradle.cli.AbstractPropertiesCommandLineConverterTest	1454
+>>> Gradle Test Executor 2935	3187
+>>> Test class org.gradle.cli.CommandLineParserTest	2789
+>>> Gradle Test Executor 2940	2809
+>>> Test class org.gradle.api.tasks.wrapper.WrapperTest	8736
+>>> Gradle Test Executor 2931	13347
+>>> Test class org.gradle.api.plugins.quality.TargetJdkSpec	2591
+>>> Gradle Test Executor 2941	2618
+>>> Test class org.gradle.composite.internal.DefaultRootBuildStateTest	4662
+>>> Gradle Test Executor 2942	4701
+>>> Test class org.gradle.api.plugins.quality.CodeNarcPluginTest	9221
+>>> Test class org.gradle.api.plugins.quality.CheckstyleTest	348
+>>> Gradle Test Executor 2937	9592
+>>> Test class org.gradle.api.plugins.quality.CheckstylePluginTest	10190
+>>> Gradle Test Executor 2939	10214
+>>> Test class org.gradle.api.plugins.quality.PmdPluginTest	10483
+>>> Test class org.gradle.api.plugins.quality.CodenarcTest	142
+>>> Gradle Test Executor 2938	10654
+>>> Test class org.gradle.composite.internal.DefaultIncludedBuildTest	4430
+>>> Gradle Test Executor 2943	4450
+>>> Test class org.gradle.composite.internal.DefaultIncludedBuildRegistryTest	6181
+>>> Gradle Test Executor 2944	6203
+>>> Test class org.gradle.composite.internal.DefaultNestedBuildTest	3710
+>>> Gradle Test Executor 2945	3732
+>>> Test class org.gradle.internal.typeconversion.ErrorHandlingNotationParserTest	1877
+>>> Test class org.gradle.internal.typeconversion.NotationConverterToNotationParserAdapterTest	1876
+>>> Test class org.gradle.internal.typeconversion.CharSequenceNotationConverterTest	2175
+>>> Test class org.gradle.internal.installation.CurrentGradleInstallationLocatorTest	1450
+>>> Test class org.gradle.model.internal.core.ModelTypeJavaTest	168
+>>> Test class org.gradle.api.file.RelativePathSpockTest	43
+>>> Test class org.gradle.api.reflect.TypeOfTest	107
+>>> Test class org.gradle.initialization.UserHomeInitScriptFinderTest	166
+>>> Gradle Test Executor 2947	3677
+>>> Test class org.gradle.StartParameterTest	1228
+>>> Test class org.gradle.architecture.test.KotlinCompatibilityTest	40506
+>>> Gradle Test Executor 2920	40522
+>>> Test class org.gradle.groovy.scripts.internal.BuildScriptDataSerializerTest	2216
+>>> Test class org.gradle.groovy.scripts.StringScriptSourceTest	131
+>>> Test class org.gradle.groovy.scripts.DefaultScriptCompilerFactoryTest	4134
+>>> Test class org.gradle.internal.filewatch.DefaultFileWatcherEventListenerTest	612
+>>> Test class org.gradle.internal.service.scopes.DefaultGradleUserHomeScopeServiceRegistryTest	447
+>>> Test class org.gradle.internal.typeconversion.TypedNotationConverterTest	106
+>>> Test class org.gradle.internal.typeconversion.EnumFromCharSequenceNotationParserSpec	201
+>>> Test class org.gradle.internal.buildevents.TaskExecutionStatisticsReporterTest	104
+>>> Test class org.gradle.groovy.scripts.internal.BuildScriptTransformerSpec	3121
+>>> Test class org.gradle.groovy.scripts.internal.DefaultScriptRunnerFactoryTest	4736
+>>> Test class org.gradle.groovy.scripts.TextResourceScriptSourceTest	723
+>>> Test class org.gradle.internal.fingerprint.impl.DefaultFileCollectionSnapshotterTest	3035
+>>> Test class org.gradle.internal.filewatch.jdk7.WatchServiceRegistrarTest	728
+>>> Test class org.gradle.internal.work.DefaultAsyncWorkTrackerTest	1109
+>>> Test class org.gradle.internal.service.scopes.VirtualFileSystemServicesTest	1272
+>>> Test class org.gradle.internal.typeconversion.ClosureToSpecNotationConverterTest	59
+>>> Test class org.gradle.internal.operations.logging.LoggingBuildOperationProgressBroadcasterTest	1130
+>>> Test class org.gradle.internal.typeconversion.DefaultTypeConverterTest	485
+>>> Test class org.gradle.internal.buildevents.BuildExceptionReporterTest	863
+>>> Test class org.gradle.groovy.scripts.internal.DefaultScriptCompilationHandlerTest	3511
+>>> Test class org.gradle.groovy.scripts.CachingScriptSourceTest	59
+>>> Test class org.gradle.internal.fingerprint.classpath.impl.ClasspathFingerprintCompareStrategyTest	412
+>>> Test class org.gradle.internal.scan.config.BuildScanConfigManagerTest	1690
+>>> Test class org.gradle.internal.filewatch.jdk7.WatchPointsRegistryTest	723
+>>> Test class org.gradle.internal.installation.GradleRuntimeShadedJarDetectorTest	407
+>>> Test class org.gradle.internal.operations.logging.DefaultBuildOperationLoggerTest	297
+>>> Test class org.gradle.internal.resource.local.GroupedAndNamedUniqueFileStoreTest	504
+>>> Test class org.gradle.internal.graph.DirectedGraphRendererTest	242
+>>> Test class org.gradle.internal.vfs.RoutingVirtualFileSystemTest	627
+>>> Test class org.gradle.internal.typeconversion.MapNotationConverterTest	194
+>>> Test class org.gradle.internal.resource.local.UniquePathKeyFileStoreTest	399
+>>> Test class org.gradle.internal.progress.SimpleProgressFormatterTest	39
+>>> Test class org.gradle.internal.exceptions.LocationAwareExceptionTest	223
+>>> Test class org.gradle.internal.fingerprint.impl.FileSystemSnapshotBuilderTest	515
+>>> Test class org.gradle.internal.progress.DefaultBuildOperationExecutorTest	1996
+>>> Test class org.gradle.api.AllGradleExceptionsTest	288
+>>> Test class org.gradle.initialization.CompositeInitScriptFinderTest	77
+>>> Gradle Test Executor 2949	3492
+>>> Test class org.gradle.api.internal.project.ant.AntLoggingAdapterTest	1976
+>>> Test class org.gradle.api.tasks.util.PatternSetTest	691
+>>> Test class org.gradle.initialization.DistributionInitScriptFinderTest	225
+>>> Gradle Test Executor 2950	5263
+>>> Test class org.gradle.internal.typeconversion.TypeFilteringNotationConverterTest	2527
+>>> Test class org.gradle.model.internal.core.ModelTypeTest	1847
+>>> Test class org.gradle.api.file.RelativePathTest	164
+>>> Test class org.gradle.api.tasks.util.internal.PatternSpecFactoryTest	280
+>>> Test class org.gradle.initialization.BuildLayoutParametersTest	712
+>>> Gradle Test Executor 2955	5558
+>>> Test class org.gradle.internal.locking.NoOpDependencyLockingProviderTest	2337
+>>> Test class org.gradle.internal.resolve.ModuleVersionResolveExceptionTest	230
+>>> Test class org.gradle.internal.locking.LockFileReaderWriterTest	3094
+>>> Test class org.gradle.internal.locking.DefaultDependencyLockingProviderTest	5392
+>>> Test class org.gradle.internal.locking.LockEntryFilterFactoryTest	220
+>>> Test class org.gradle.internal.locking.DefaultDependencyLockingHandlerTest	279
+>>> Test class org.gradle.internal.resolve.result.DefaultResourceAwareResolveResultTest	44
+>>> Test class org.gradle.internal.resolve.result.DefaultBuildableArtifactSetResolveResultTest	133
+>>> Test class org.gradle.internal.resolve.result.DefaultBuildableComponentResolveResultTest	512
+>>> Test class org.gradle.internal.resolve.ArtifactNotFoundExceptionTest	83
+>>> Test class org.gradle.internal.resolve.result.DefaultBuildableTypedResolveResultTest	90
+>>> Test class org.gradle.internal.resolve.result.DefaultBuildableArtifactResolveResultTest	2172
+>>> Test class org.gradle.internal.resolve.result.DefaultBuildableComponentIdResolveResultTest	228
+>>> Test class org.gradle.internal.resolve.ModuleVersionNotFoundExceptionTest	1688
+>>> Test class org.gradle.internal.rules.DefaultRuleActionValidatorTest	100
+>>> Test class org.gradle.internal.resource.transfer.ProgressLoggingExternalResourceAccessorTest	219
+>>> Test class org.gradle.internal.resource.transport.DefaultExternalResourceRepositoryTest	142
+>>> Test class org.gradle.internal.component.local.model.OpaqueComponentArtifactIdentifierTest	57
+>>> Test class org.gradle.internal.component.local.model.DefaultLocalComponentMetadataTest	865
+>>> Test class org.gradle.internal.component.local.model.DefaultLibraryBinaryIdentifierTest	44
+>>> Test class org.gradle.api.plugins.HelpTasksPluginSpec	10383
+>>> Test class org.gradle.api.reporting.model.ReportNodeTest	122
+>>> Test class org.gradle.api.reporting.components.internal.ComponentReportRendererTest	2322
+>>> Test class org.gradle.api.tasks.diagnostics.AbstractReportTaskTest	753
+>>> Test class org.gradle.api.tasks.diagnostics.internal.TaskDetailsFactoryTest	142
+>>> Test class org.gradle.api.tasks.diagnostics.internal.insight.DependencyResultSorterSpec	602
+>>> Test class org.gradle.api.tasks.diagnostics.internal.graph.DependencyGraphRendererSpec	128
+>>> Test class org.gradle.api.tasks.diagnostics.internal.TextReportRendererSpec	118
+>>> Test class org.gradle.api.tasks.diagnostics.DependencyReportTaskTest	1999
+>>> Gradle Test Executor 2956	16609
+>>> Test class org.gradle.api.reporting.model.internal.ModelNodeRendererTest	3216
+>>> Test class org.gradle.api.reporting.components.internal.SourceSetRendererTest	1117
+>>> Test class org.gradle.api.reporting.components.internal.ComponentRendererTest	2367
+>>> Test class org.gradle.api.tasks.diagnostics.internal.SingleProjectTaskReportModelTest	794
+>>> Test class org.gradle.api.tasks.diagnostics.internal.ReportGeneratorTest	5082
+>>> Test class org.gradle.api.tasks.diagnostics.internal.graph.nodes.RenderableUnresolvedDependencyResultTest	77
+>>> Test class org.gradle.api.tasks.diagnostics.internal.dsl.DependencyResultSpecTest	635
+>>> Test class org.gradle.internal.xml.XmlTransformerTest	1803
+>>> Test class org.gradle.BuildResultTest	4
+>>> Test class org.gradle.execution.TaskPathProjectEvaluatorTest	38
+>>> Test class org.gradle.internal.fingerprint.classpath.impl.DefaultClasspathFingerprinterTest	1846
+>>> Test class org.gradle.internal.xml.SimpleXmlWriterSpec	1291
+>>> Test class org.gradle.internal.classpath.DefaultCachedClasspathTransformerTest	457
+>>> Test class org.gradle.internal.operations.logging.DefaultBuildOperationLoggerFactoryTest	136
+>>> Test class org.gradle.tooling.provider.model.internal.DefaultToolingModelBuilderRegistryTest	326
+>>> Test class org.gradle.execution.TaskNameResolvingBuildConfigurationActionSpec	398
+>>> Test class org.gradle.execution.DryRunBuildExecutionActionTest	170
+>>> Test class org.gradle.internal.action.InstantiatingActionTest	2390
+>>> Test class org.gradle.internal.resource.local.PathNormalisingKeyFileStoreTest	310
+>>> Test class org.gradle.internal.progress.PercentageProgressFormatterTest	14
+>>> Test class org.gradle.internal.xml.XmlValidationTest	63
+>>> Test class org.gradle.execution.TaskNameResolverTest	337
+>>> Test class org.gradle.execution.taskgraph.DefaultTaskExecutionGraphSpec	6901
+>>> Test class org.gradle.execution.commandline.CommandLineTaskConfigurerSpec	3245
+>>> Test class org.gradle.execution.plan.DefaultPlanExecutorTest	712
+>>> Test class org.gradle.execution.DefaultBuildConfigurationActionExecuterTest	203
+>>> Test class org.gradle.execution.TaskSelectorTest	748
+>>> Test class org.gradle.execution.taskpath.TaskPathResolverTest	160
+>>> Test class org.gradle.groovy.scripts.internal.FileCacheBackedScriptClassCompilerTest	6468
+>>> Test class org.gradle.configuration.internal.DefaultListenerBuildOperationDecoratorTest	751
+>>> Test class org.gradle.configuration.ScriptPluginFactorySelectorTest	157
+>>> Test class org.gradle.configuration.project.PluginsProjectConfigureActionsTest	457
+>>> Test class org.gradle.configuration.DefaultInitScriptProcessorTest	86
+>>> Test class org.gradle.cache.internal.GradleUserHomeCleanupServiceTest	459
+>>> Test class org.gradle.cache.internal.WrapperDistributionCleanupActionTest	420
+>>> Test class org.gradle.plugin.internal.DefaultPluginIdTest	88
+>>> Test class org.gradle.caching.configuration.internal.DefaultBuildCacheConfigurationTest	468
+>>> Test class org.gradle.execution.plan.DefaultExecutionPlanParallelTest	10503
+>>> Test class org.gradle.execution.DefaultTasksBuildExecutionActionTest	54
+>>> Test class org.gradle.execution.taskpath.ResolvedTaskPathTest	23
+>>> Test class org.gradle.configuration.BuildOperationScriptPluginTest	345
+>>> Test class org.gradle.configuration.DefaultProjectsPreparerTest	125
+>>> Test class org.gradle.execution.plan.DefaultExecutionPlanTest	5129
+>>> Test class org.gradle.configuration.project.LifecycleProjectEvaluatorTest	334
+>>> Test class org.gradle.configuration.DefaultImportsReaderTest	118
+>>> Test class org.gradle.execution.ExcludedTaskFilteringBuildConfigurationActionTest	627
+>>> Test class org.gradle.cache.internal.UsedGradleVersionsFromGradleUserHomeCachesTest	284
+>>> Test class org.gradle.cache.internal.HeapProportionalCacheSizerTest	40
+>>> Test class org.gradle.cache.internal.DefaultGeneratedGradleJarCacheTest	159
+>>> Test class org.gradle.caching.internal.controller.BuildCacheControllerFactoryTest	346
+>>> Test class org.gradle.execution.DefaultCancellableOperationManagerTest	1495
+>>> Test class org.gradle.configuration.DefaultScriptPluginFactoryTest	1014
+>>> Test class org.gradle.configuration.project.BuildScriptProcessorTest	75
+>>> Test class org.gradle.configuration.project.DefaultProjectConfigurationActionContainerTest	40
+>>> Test class org.gradle.groovy.scripts.DefaultScriptTest	7455
+>>> Test class org.gradle.internal.file.JarCacheTest	291
+>>> Test class org.gradle.process.internal.worker.DefaultWorkerProcessSpec	2522
+>>> Test class org.gradle.process.internal.JavaExecHandleBuilderTest	220
+>>> Test class org.gradle.internal.html.SimpleHtmlWriterTest	486
+>>> Test class org.gradle.util.DiffUtilTest	140
+>>> Test class org.gradle.util.SwapperTest	53
+>>> Test class org.gradle.util.LineBufferingOutputStreamTest	96
+>>> Test class org.gradle.internal.typeconversion.NotationParserBuilderSpec	293
+>>> Test class org.gradle.internal.typeconversion.TimeUnitsParserTest	122
+>>> Test class org.gradle.internal.buildevents.BuildResultLoggerTest	211
+>>> Test class org.gradle.process.internal.DefaultExecActionFactoryTest	6398
+>>> Test class org.gradle.util.ports.FixedAvailablePortAllocatorTest	741
+>>> Test class org.gradle.invocation.DefaultGradleSpec	2014
+>>> Test class org.gradle.reporting.TabsRendererTest	480
+>>> Test class org.gradle.api.internal.ConfigureByMapActionTest	122
+>>> Test class org.gradle.cache.internal.VersionSpecificCacheCleanupActionTest	384
+>>> Test class org.gradle.internal.fingerprint.impl.AbsolutePathFileCollectionFingerprinterTest	1069
+>>> Test class org.gradle.internal.featurelifecycle.ScriptUsageLocationReporterTest	318
+>>> Test class org.gradle.cache.internal.DefaultCrossBuildInMemoryCacheFactoryTest	431
+>>> Test class org.gradle.plugin.use.internal.PluginRequestCollectorTest	77
+>>> Test class org.gradle.process.internal.JvmOptionsTest	262
+>>> Test class org.gradle.api.internal.file.archive.ZipCopyActionTest	913
+>>> Test class org.gradle.process.internal.DefaultExecHandleBuilderTest	94
+>>> Test class org.gradle.internal.operations.notify.BuildOperationNotificationBridgeTest	626
+>>> Test class org.gradle.internal.scopeids.PersistentScopeIdLoaderTest	993
+>>> Test class org.gradle.internal.cleanup.DefaultBuildOutputCleanupRegistryTest	62
+>>> Test class org.gradle.api.internal.file.archive.ZipFileTreeTest	1434
+>>> Test class org.gradle.api.internal.file.UnionFileCollectionTest	127
+>>> Test class org.gradle.api.internal.file.BaseDirFileResolverSpec	224
+>>> Test class org.gradle.internal.resource.local.DefaultPathKeyFileStoreTest	680
+>>> Test class org.gradle.internal.authentication.DefaultAuthenticationContainerTest	275
+>>> Test class org.gradle.deployment.internal.DefaultDeploymentRegistryTest	409
+>>> Test class org.gradle.util.DisconnectableInputStreamTest	2717
+>>> Test class org.gradle.util.NameValidatorTest	513
+>>> Test class org.gradle.util.StageTest	32
+>>> Test class org.gradle.util.TextUtilTest	70
+>>> Test class org.gradle.execution.SelectedTaskExecutionActionTest	813
+>>> Test class org.gradle.util.ports.ReservedPortRangeTest	188
+>>> Test class org.gradle.execution.commandline.CommandLineTaskParserSpec	330
+>>> Test class org.gradle.api.internal.file.AbstractFileCollectionTest	2022
+>>> Test class org.gradle.execution.DefaultBuildWorkExecutorTest	94
+>>> Test class org.gradle.api.file.FileCollectionSymlinkTest	463
+>>> Test class org.gradle.api.internal.file.AbstractFileTreeTest	190
+>>> Test class org.gradle.api.internal.file.CalculatedTaskInputFileCollectionTest	39
+>>> Test class org.gradle.api.internal.file.archive.compression.ArchiversTest	64
+>>> Test class org.gradle.api.internal.file.BasicFileResolverTest	47
+>>> Test class org.gradle.execution.plan.TaskNodeFactoryTest	297
+>>> Test class org.gradle.api.internal.file.copy.CopySpecMatchingTest	259
+>>> Test class org.gradle.api.internal.file.copy.FileCopyActionTest	44
+>>> Test class org.gradle.api.internal.file.CompositeFileTreeTest	279
+>>> Test class org.gradle.api.internal.file.copy.CopyFileVisitorImplTest	248
+>>> Test class org.gradle.execution.taskpath.ProjectFinderByTaskPathTest	488
+>>> Test class org.gradle.api.internal.file.CompositeFileCollectionTest	308
+>>> Test class org.gradle.api.internal.file.copy.CopyActionExecuterTest	228
+>>> Test class org.gradle.api.internal.file.CachingTaskInputFileCollectionTest	45
+>>> Test class org.gradle.api.internal.file.MaybeCompressedFileResourceTest	24
+>>> Test class org.gradle.api.internal.file.UnionFileTreeTest	41
+>>> Test class org.gradle.api.internal.file.copy.LineFilterTest	102
+>>> Test class org.gradle.api.internal.file.copy.RenamingCopyActionTest	73
+>>> Test class org.gradle.api.internal.collections.IterationOrderRetainingSetElementSourceTest	423
+>>> Test class org.gradle.api.internal.file.copy.DefaultCopySpecResolutionTest	340
+>>> Test class org.gradle.api.internal.collections.SortedSetElementSourceTest	122
+>>> Test class org.gradle.api.internal.file.copy.NormalizingCopyActionDecoratorTest	160
+>>> Test class org.gradle.api.internal.MutationGuardsTest	23
+>>> Test class org.gradle.api.internal.changedetection.state.DefaultFileAccessTimeJournalTest	167
+>>> Test class org.gradle.api.internal.collections.ListElementSourceTest	338
+>>> Test class org.gradle.api.internal.changedetection.state.ZipHasherTest	147
+>>> Test class org.gradle.api.internal.changedetection.state.CachingResourceHasherTest	152
+>>> Test class org.gradle.api.internal.resources.FileCollectionBackedTextResourceTest	248
+>>> Test class org.gradle.api.internal.DefaultDomainObjectSetTest	894
+>>> Test class org.gradle.testfixtures.ProjectBuilderTest	2393
+>>> Test class org.gradle.configuration.GradleLauncherMetaDataTest	43
+>>> Test class org.gradle.configuration.project.ConfigureActionsProjectEvaluatorTest	170
+>>> Test class org.gradle.configuration.project.DelayedConfigurationActionsTest	53
+>>> Test class org.gradle.api.internal.resources.FileCollectionBackedTarArchiveTextResourceTest	1004
+>>> Test class org.gradle.cache.internal.VersionSpecificCacheDirectoryScannerTest	149
+>>> Test class org.gradle.api.internal.plugins.DefaultObjectConfigurationActionTest	127
+>>> Test class org.gradle.cache.internal.DefaultCacheScopeMappingTest	479
+>>> Test class org.gradle.api.internal.resources.FileCollectionBackedZipArchiveTextResourceTest	1689
+>>> Test class org.gradle.cache.internal.DefaultFileContentCacheFactoryTest	333
+>>> Test class org.gradle.api.internal.plugins.RuleSourceApplicationTest	650
+>>> Test class org.gradle.api.internal.artifacts.DefaultExcludeRuleContainerTest	18
+>>> Test class org.gradle.api.internal.artifacts.publish.DefaultPublishArtifactTest	57
+>>> Test class org.gradle.caching.internal.controller.impl.DefaultBuildCacheCommandFactoryTest	638
+>>> Test class org.gradle.api.internal.artifacts.BundlingRulesTest	126
+>>> Test class org.gradle.api.internal.artifacts.dependencies.DefaultDependencyConstraintTest	77
+>>> Test class org.gradle.process.internal.worker.request.RequestSerializerTest	320
+>>> Test class org.gradle.api.internal.model.DefaultObjectFactoryTest	276
+>>> Test class org.gradle.process.internal.streams.ExecOutputHandleRunnerTest	70
+>>> Test class org.gradle.util.internal.ArgumentsSplitterTest	44
+>>> Test class org.gradle.util.VersionNumberTest	92
+>>> Test class org.gradle.internal.resolve.caching.ComponentMetadataSupplierRuleExecutorTest	3800
+>>> Test class org.gradle.internal.rules.DefaultRuleActionAdapterTest	204
+>>> Test class org.gradle.internal.resolve.caching.ComponentMetadataRuleExecutorTest	4835
+>>> Test class org.gradle.internal.component.model.AttributeSelectionUtilsTest	1912
+>>> Test class org.gradle.internal.rules.ClosureBackedRuleActionTest	132
+>>> Test class org.gradle.internal.resource.local.CompositeLocallyAvailableResourceFinderTest	93
+>>> Test class org.gradle.internal.resource.transfer.ResourceOperationTest	134
+>>> Test class org.gradle.internal.resource.cached.DefaultCachedExternalResourceIndexTest	152
+>>> Test class org.gradle.internal.component.local.model.ComponentFileArtifactIdentifierTest	19
+>>> Test class org.gradle.internal.component.local.model.OpaqueComponentIdentifierTest	35
+>>> Test class org.gradle.internal.resource.local.LazyLocallyAvailableResourceCandidatesTest	784
+>>> Test class org.gradle.internal.component.external.model.IvyDependencyDescriptorTest	1218
+>>> Test class org.gradle.internal.resource.transfer.DefaultCacheAwareExternalResourceAccessorTest	900
+>>> Test class org.gradle.internal.resource.cached.AbstractCachedIndexTest	312
+>>> Test class org.gradle.internal.component.model.AttributeConfigurationSelectorTest	1415
+>>> Test class org.gradle.internal.component.local.model.DefaultLibraryComponentSelectorTest	232
+>>> Test class org.gradle.internal.component.external.model.DefaultMutableMavenModuleResolveMetadataTest	833
+>>> Test class org.gradle.internal.component.local.model.RootLocalComponentMetadataTest	895
+>>> Test class org.gradle.internal.component.external.model.DirectDependencyMetadataRulesTest	876
+>>> Test class org.gradle.internal.component.model.DefaultIvyArtifactNameTest	45
+>>> Test class org.gradle.internal.component.external.model.PreferJavaRuntimeVariantTest	86
+>>> Test class org.gradle.api.internal.artifacts.DefaultModuleVersionIdentifierSpec	7
+>>> Test class org.gradle.api.internal.artifacts.ResolvedConfigurationIdentifierSpec	9
+>>> Test class org.gradle.internal.component.model.LocalComponentDependencyMetadataTest	1199
+>>> Test class org.gradle.internal.component.external.model.DefaultIvyModulePublishMetadataTest	155
+>>> Test class org.gradle.api.internal.artifacts.transform.TransformationMatchingSpec	159
+>>> Test class org.gradle.internal.component.external.model.DefaultIvyModuleResolveMetadataTest	744
+>>> Test class org.gradle.internal.component.external.model.VariantFilesMetadataRulesTest	1125
+>>> Test class org.gradle.api.internal.artifacts.transform.TransformationNodeSpec	988
+>>> Test class org.gradle.internal.component.external.model.DefaultMutableIvyModuleResolveMetadataTest	514
+>>> Test class org.gradle.internal.component.external.model.DefaultModuleComponentSelectorTest	202
+>>> Test class org.gradle.internal.component.external.model.DefaultModuleComponentIdentifierTest	79
+>>> Test class org.gradle.internal.component.external.model.DefaultModuleComponentArtifactMetadataTest	151
+>>> Test class org.gradle.caching.MapBasedBuildCacheServiceTest	234
+>>> Test class org.gradle.api.internal.artifacts.DefaultComponentSelectionTest	44
+>>> Test class org.gradle.api.internal.artifacts.mvnsettings.DefaultLocalMavenRepositoryLocatorTest	736
+>>> Test class org.gradle.api.internal.artifacts.result.DefaultArtifactResolutionResultTest	65
+>>> Test class org.gradle.internal.component.external.ivypublish.DefaultIvyModuleDescriptorWriterTest	749
+>>> Test class org.gradle.api.internal.artifacts.repositories.DefaultRepositoryContentDescriptorTest	293
+>>> Test class org.gradle.api.internal.artifacts.metadata.ComponentArtifactIdentifierSerializerTest	126
+>>> Test class org.gradle.api.internal.artifacts.repositories.resolver.DependenciesMetadataAdapterOnGradleMetadataTest	250
+>>> Test class org.gradle.api.internal.artifacts.repositories.resolver.DependenciesMetadataAdapterOnPomMetadataTest	66
+>>> Test class org.gradle.api.internal.artifacts.repositories.resolver.DependenciesMetadataAdapterOnIvyMetadataTest	136
+>>> Test class org.gradle.api.internal.artifacts.transform.TransformingAsyncArtifactListenerTest	1108
+>>> Test class org.gradle.api.internal.artifacts.transform.ChainedTransformerTest	54
+>>> Test class org.gradle.api.internal.artifacts.transform.CacheableInvocationTest	60
+>>> Test class org.gradle.api.internal.artifacts.result.DefaultComponentArtifactsResultTest	51
+>>> Test class org.gradle.api.internal.artifacts.verification.serializer.DependencyVerificationsXmlReaderTest	1376
+>>> Test class org.gradle.api.internal.artifacts.repositories.AbstractArtifactRepositoryChangingNameAfterContainerInclusion	2742
+>>> Test class org.gradle.api.internal.artifacts.repositories.transport.NetworkingIssueVerifierTest	74
+>>> Test class org.gradle.api.internal.artifacts.DefaultImmutableModuleIdentifierFactoryTest	29
+>>> Test class org.gradle.api.internal.artifacts.repositories.resolver.IvyResolverTest	614
+>>> Test class org.gradle.api.internal.artifacts.repositories.resolver.MavenUniqueSnapshotExternalResourceArtifactResolverTest	121
+>>> Test class org.gradle.api.internal.artifacts.repositories.resolver.IvyResourcePatternTest	98
+>>> Test class org.gradle.api.internal.artifacts.repositories.resolver.MavenResolverTest	298
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.result.StreamingResolutionResultBuilderTest	818
+>>> Test class org.gradle.api.internal.artifacts.transform.DefaultTransformerInvocationFactoryTest	4792
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.result.DefaultResolutionResultBuilderSpec	211
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.result.DefaultComponentSelectionReasonTest	45
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.artifact.CompositeResolvedArtifactSetTest	126
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.LatestModuleConflictResolverTest	192
+>>> Test class org.gradle.api.internal.artifacts.repositories.DefaultMavenLocalRepositoryTest	981
+>>> Test class org.gradle.api.internal.artifacts.transform.DefaultVariantTransformRegistryTest	842
+>>> Test class org.gradle.api.internal.artifacts.repositories.DefaultIvyArtifactRepositoryTest	1101
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.DefaultArtifactCacheLockingManagerTest	331
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.result.ComponentSelectionReasonSerializerTest	88
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.result.ComponentResultSerializerTest	61
+>>> Test class org.gradle.api.internal.artifacts.transform.AttributeMatchingVariantSelectorSpec	1388
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.artifact.ArtifactBackedResolvedVariantTest	207
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.artifact.DefaultVisitedArtifactResultsTest	66
+>>> Test class org.gradle.api.internal.artifacts.result.DefaultResolutionResultTest	373
+>>> Test class org.gradle.api.internal.artifacts.DefaultPublishArtifactSetTest	180
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.excludes.factories.NormalizingExcludeFactoryTest	723
+>>> Test class org.gradle.api.internal.artifacts.repositories.resolver.MavenVersionListerTest	558
+>>> Test class org.gradle.api.internal.artifacts.repositories.resolver.ResourceVersionListerTest	199
+>>> Test class org.gradle.api.internal.artifacts.repositories.resolver.MavenUniqueSnapshotComponentIdentifierTest	28
+>>> Test class org.gradle.api.internal.artifacts.repositories.AbstractAuthenticationSupportedRepositoryTest	358
+>>> Test class org.gradle.api.internal.artifacts.repositories.transport.RepositoryTransportFactoryTest	150
+>>> Test class org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepositoryTest	282
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.DefaultIvyExtraInfoTest	26
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.result.CachingDependencyResultFactoryTest	51
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.result.ComponentSelectorSerializerTest	286
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.graph.builder.NodeStateTest	1671
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.store.DefaultBinaryStoreTest	162
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.artifact.LocalFileDependencyBackedArtifactSetTest	305
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.ErrorHandlingArtifactResolverTest	127
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.ResolveIvyFactoryTest	746
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.strategy.DefaultVersionComparatorTest	154
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.strategy.UnionVersionSelectorTest	168
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.graph.selectors.SelectorStateResolverTest	5820
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.ComponentSelectionRulesProcessorTest	436
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.graph.conflicts.DefaultConflictHandlerTest	528
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.store.ResolutionResultsStoreFactoryTest	189
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.DependencyGraphBuilderTest	2049
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.parser.GradlePomModuleDescriptorParserBomTest	839
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.verification.writer.PgpKeyGrouperTest	805
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.strategy.VersionRangeSelectorTest	74
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.strategy.ExactVersionSelectorTest	45
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.DefaultMetadataProviderTest	835
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.ConnectionFailureRepositoryBlacklisterTest	36
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.parser.IvyXmlModuleDescriptorParserTest	1376
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.parser.GradleModuleMetadataParserTest	715
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.parser.GradlePomModuleDescriptorParserTest	1638
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ArtifactTypeTest	13
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.moduleconverter.DefaultLocalComponentMetadataBuilderTest	131
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.parser.IvyModuleResolveMetadataBuilderTest	1162
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.moduleconverter.dependencies.ExternalModuleDependencyDescriptorFactoryTest	117
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.dependencysubstitution.DefaultDependencyResolveDetailsSpec	37
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolutionstrategy.DefaultResolutionStrategySpec	365
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.NamespaceIdTest	50
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.DefaultLenientConfigurationTest	208
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.RepositoryChainArtifactResolverTest	825
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.projectmodule.DefaultProjectDependencyPublicationResolverTest	310
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ErrorHandlingConfigurationResolverTest	483
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.moduleconverter.dependencies.DefaultExcludeRuleConverterTest	117
+>>> Test class org.gradle.api.internal.artifacts.DefaultModuleIdentifierSpec	23
+>>> Test class org.gradle.api.internal.artifacts.DefaultResolvedArtifactTest	64
+>>> Test class org.gradle.api.internal.artifacts.dsl.ComponentMetadataRuleContainerTest	177
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.dependencysubstitution.DefaultDependencySubstitutionsSpec	286
+>>> Test class org.gradle.api.internal.artifacts.dsl.ComponentModuleMetadataContainerTest	57
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.IvyUtilTest	90
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolutionstrategy.DefaultComponentSelectionRulesTest	181
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.CacheLayoutTest	32
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.modulecache.artifacts.DefaultModuleArtifactCacheTest	269
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ShortCircuitEmptyConfigurationResolverSpec	323
+>>> Test class org.gradle.api.internal.artifacts.DefaultArtifactRepositoryContainerTest	130
+>>> Test class org.gradle.api.internal.artifacts.dsl.PublishArtifactNotationParserFactoryTest	1338
+>>> Test class org.gradle.api.internal.artifacts.query.DefaultArtifactResolutionQueryTest	378
+>>> Test class org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandlerTest	502
+>>> Test class org.gradle.api.internal.artifacts.dsl.DefaultComponentMetadataProcessorTest	573
+>>> Test class org.gradle.api.internal.artifacts.configurations.DefaultConfigurationPublicationsTest	351
+>>> Test class org.gradle.api.internal.artifacts.dsl.DefaultRepositoryHandlerTest	568
+>>> Test class org.gradle.api.internal.artifacts.dsl.dependencies.ModuleFactoryDelegateTest	1069
+>>> Test class org.gradle.api.internal.artifacts.configurations.ConfigurationsTest	36
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.excludes.simple.DefaultCompositeExcludeTest	8713
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.graph.conflicts.ConflictContainerTest	109
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.store.CachedStoreFactoryTest	69
+>>> Test class org.gradle.api.internal.artifacts.configurations.DefaultConfigurationSpec	1645
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.DependencyResolverIdentifierTest	104
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.strategy.VersionParserTest	55
+>>> Test class org.gradle.api.internal.artifacts.DefaultResolvedDependencySpec	217
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.strategy.LatestVersionSelectorTest	71
+>>> Test class org.gradle.api.internal.artifacts.dependencies.DefaultResolvedVersionConstraintTest	43
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.strategy.DefaultVersionSelectorSchemeTest	107
+>>> Test class org.gradle.api.internal.attributes.DefaultDisambiguationRuleChainTest	111
+>>> Test class org.gradle.api.internal.notations.ModuleIdentifierNotationConverterTest	43
+>>> Gradle Test Executor 2954	34917
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.DefaultVersionedComponentChooserTest	673
+>>> Test class org.gradle.api.internal.artifacts.configurations.TasksFromDependentProjectsTest	1691
+>>> Test class org.gradle.api.internal.artifacts.DefaultModuleVersionSelectorTest	31
+>>> Test class org.gradle.api.internal.artifacts.dependencies.DefaultMutableVersionConstraintTest	43
+>>> Test class org.gradle.api.internal.attributes.DefaultCompatibilityRuleChainTest	184
+>>> Test class org.gradle.api.internal.notations.ProjectDependencyFactoryTest	66
+>>> Test class org.gradle.api.internal.notations.DependencyStringNotationConverterTest	173
+>>> Gradle Test Executor 2952	38539
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.parser.PomReaderTest	1296
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.parser.data.MavenDependencyKeyTest	14
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.BaseModuleComponentRepositoryTest	111
+>>> Test class org.gradle.api.tasks.diagnostics.internal.dependencies.AsciiDependencyReportRendererTest	624
+>>> Test class org.gradle.api.tasks.diagnostics.ProjectReportTaskTest	631
+>>> Gradle Test Executor 2958	14576
+>>> Test class org.gradle.api.internal.DynamicModulesClassPathProviderTest	339
+>>> Test class org.gradle.api.internal.plugins.DefaultPluginContainerTest	2556
+>>> Test class org.gradle.api.internal.artifacts.DefaultProjectComponentIdentifierTest	23
+>>> Test class org.gradle.api.internal.artifacts.publish.ArchivePublishArtifactTest	284
+>>> Test class org.gradle.api.internal.artifacts.dependencies.DefaultExternalModuleDependencySpec	376
+>>> Test class org.gradle.api.internal.artifacts.dependencies.ClientModuleDependencySpec	104
+>>> Test class org.gradle.api.internal.DefaultPolymorphicNamedEntityInstantiatorTest	99
+>>> Test class org.gradle.api.internal.AbstractNamedDomainObjectContainerTest	311
+>>> Test class org.gradle.api.internal.classpath.DefaultModuleRegistryTest	3366
+>>> Test class org.gradle.api.internal.DefaultPolymorphicDomainObjectContainerTest	1782
+>>> Test class org.gradle.api.internal.attributes.DefaultAttributeContainerTest	76
+>>> Test class org.gradle.api.internal.project.ProjectStateInternalSpec	88
+>>> Test class org.gradle.api.internal.DefaultPolymorphicDomainObjectContainerBaseTest	573
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.projectmodule.ProjectDependencyResolverTest	192
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.moduleconverter.dependencies.ProjectDependencyDescriptorFactoryTest	1435
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.moduleconverter.dependencies.DefaultDependencyDescriptorFactoryTest	62
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.dependencysubstitution.ModuleSelectorStringNotationConverterTest	83
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolutionstrategy.ModuleForcingResolveRuleSpec	57
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.DefaultUnresolvedDependencySpec	25
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.modulecache.ModuleMetadataStoreTest	186
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.DefaultIvyContextManagerTest	449
+>>> Test class org.gradle.api.internal.artifacts.DependencyManagementGlobalScopeServicesTest	9
+>>> Test class org.gradle.api.internal.artifacts.type.DefaultArtifactTypeRegistryTest	413
+>>> Test class org.gradle.api.internal.artifacts.dsl.ModuleVersionSelectorParsersTest	67
+>>> Test class org.gradle.api.internal.artifacts.dsl.DefaultArtifactHandlerTest	228
+>>> Test class org.gradle.internal.locking.DependencyLockingArtifactVisitorTest	2753
+>>> Test class org.gradle.internal.locking.DependencyLockingNotationConverterTest	101
+>>> Test class org.gradle.internal.resolve.result.DefaultBuildableModuleVersionListingResolveResultTest	261
+>>> Test class org.gradle.api.internal.artifacts.dsl.DefaultComponentMetadataHandlerTest	569
+>>> Test class org.gradle.api.internal.artifacts.DependencyManagementBuildScopeServicesTest	34
+>>> Test class org.gradle.internal.resolve.result.DefaultBuildableModuleComponentMetaDataResolveResultTest	192
+>>> Test class org.gradle.api.internal.artifacts.configurations.TasksFromProjectDependenciesTest	326
+>>> Test class org.gradle.api.internal.artifacts.DefaultResolvedDependencyTest	217
+>>> Test class org.gradle.api.internal.artifacts.ModuleComponentSelectorSerializerTest	23
+>>> Test class org.gradle.api.internal.attributes.EmptySchemaTest	16
+>>> Test class org.gradle.api.internal.notations.DependencyMapNotationConverterTest	102
+>>> Test class org.gradle.api.internal.notations.DependencyClassPathNotationConverterTest	247
+>>> Gradle Test Executor 2953	41969
+>>> Test class org.gradle.internal.resolve.caching.CrossBuildCachingRuleExecutorTest	3626
+>>> Test class org.gradle.internal.rules.RuleSourceBackedRuleActionTest	394
+>>> Test class org.gradle.internal.rules.NoInputsRuleActionTest	59
+>>> Test class org.gradle.internal.resource.transfer.ProgressLoggingExternalResourceUploaderTest	505
+>>> Test class org.gradle.internal.resource.cached.DefaultArtifactResolutionCacheTest	503
+>>> Test class org.gradle.internal.component.local.model.MissingLocalArtifactMetadataTest	102
+>>> Test class org.gradle.internal.component.local.model.DefaultProjectComponentSelectorTest	121
+>>> Test class org.gradle.internal.component.local.model.DefaultProjectDependencyMetadataTest	72
+>>> Test class org.gradle.internal.component.model.ComponentAttributeMatcherTest	890
+>>> Test class org.gradle.internal.component.external.model.MavenDependencyDescriptorTest	701
+>>> Test class org.gradle.internal.component.external.model.DefaultMavenModuleResolveMetadataTest	326
+>>> Test class org.gradle.internal.component.external.model.DependencyConstraintMetadataRulesTest	659
+>>> Test class org.gradle.internal.component.external.model.DefaultModuleComponentArtifactIdentifierTest	66
+>>> Test class org.gradle.api.internal.artifacts.metadata.ComponentArtifactMetadataSerializerTest	125
+>>> Test class org.gradle.api.internal.artifacts.transform.ConsumerProvidedVariantFinderTest	1147
+>>> Test class org.gradle.docs.releasefeatures.ReleaseFeaturesTest	2195
+>>> Gradle Test Executor 2961	2206
+>>> Test class org.gradle.docs.releasenotes.StaticReleaseNotesTest	2832
+>>> Gradle Test Executor 2962	2853
+>>> Test class org.gradle.docs.releasenotes.FunctionalReleaseNotesTest	2413
+>>> Gradle Test Executor 2965	2435
+>>> Test class org.gradle.api.internal.DefaultNamedDomainObjectListTest	1273
+>>> Test class org.gradle.api.internal.project.DeferredProjectConfigurationTest	141
+>>> Test class org.gradle.api.internal.project.DefaultProjectSpec	401
+>>> Test class org.gradle.api.internal.project.taskfactory.DefaultTaskClassInfoStoreTest	31
+>>> Test class org.gradle.api.internal.DefaultPolymorphicDomainObjectContainerDslTest	243
+>>> Test class org.gradle.api.internal.DefaultClassPathRegistryTest	10
+>>> Test class org.gradle.api.internal.tasks.DefaultTaskContainerTest	2687
+>>> Test class org.gradle.api.internal.tasks.PublicTaskSpecificationTest	20
+>>> Test class org.gradle.api.internal.tasks.properties.DefaultPropertyWalkerTest	479
+>>> Test class org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuterTest	28
+>>> Test class org.gradle.api.internal.tasks.execution.DefaultTaskCacheabilityResolverTest	114
+>>> Test class org.gradle.api.internal.tasks.options.OptionReaderTest	248
+>>> Test class org.gradle.api.internal.tasks.userinput.DefaultUserInputHandlerTest	221
+>>> Test class org.gradle.api.internal.tasks.util.DefaultJavaForkOptionsTest	719
+>>> Test class org.gradle.api.internal.DependencyClassPathProviderTest	27
+>>> Test class org.gradle.api.internal.initialization.DefaultClassLoaderScopeTest	445
+>>> Test class org.gradle.api.reflect.TypeOfSpec	277
+>>> Test class org.gradle.process.internal.DefaultExecHandleSpec	22930
+>>> Test class org.gradle.util.StdinSwapperTest	17
+>>> Test class org.gradle.util.NameMatcherTest	71
+>>> Test class org.gradle.util.RelativePathUtilTest	18
+>>> Test class org.gradle.util.ports.ReleasingPortAllocatorTest	199
+>>> Test class org.gradle.api.file.ProjectCopySpecTest	392
+>>> Test class org.gradle.api.internal.FeaturePreviewsTest	60
+>>> Test class org.gradle.api.internal.file.archive.compression.URIBuilderTest	20
+>>> Test class org.gradle.api.internal.file.DefaultTemporaryFileProviderTest	52
+>>> Test class org.gradle.api.internal.file.BaseDirFileResolverTest	310
+>>> Test class org.gradle.api.tasks.bundling.TarTest	1760
+>>> Test class org.gradle.api.internal.file.CompositeFileTreeSpec	162
+>>> Test class org.gradle.api.internal.file.DefaultCompositeFileTreeTest	191
+>>> Test class org.gradle.api.internal.file.FileOrUriNotationConverterTest	185
+>>> Test class org.gradle.api.tasks.CopyTest	452
+>>> Test class org.gradle.api.internal.file.copy.SyncCopyActionDecoratorTest	75
+>>> Test class org.gradle.api.internal.file.copy.ChainingTransformerTest	127
+>>> Test class org.gradle.api.internal.file.copy.CopySpecBackedCopyActionProcessingStreamTest	67
+>>> Test class org.gradle.api.internal.file.copy.RegExpNameMapperTest	17
+>>> Test class org.gradle.initialization.DefaultSettingsTest	264
+>>> Test class org.gradle.initialization.LayoutCommandLineConverterTest	117
+>>> Test class org.gradle.initialization.ParallelOptionsCommandLineConverterTest	124
+>>> Test class org.gradle.api.internal.project.DefaultIsolatedAntBuilderTest	10581
+>>> Test class org.gradle.initialization.ProjectSpecsTest	201
+>>> Test class org.gradle.initialization.buildsrc.BuildSrcBuildListenerFactoryTest	191
+>>> Test class org.gradle.initialization.layout.ProjectCacheDirTest	88
+>>> Test class org.gradle.initialization.DefaultParallelismConfigurationManagerTest	61
+>>> Gradle Test Executor 2951	55485
+>>> Test class org.gradle.api.internal.file.DefaultSourceDirectorySetTest	1730
+>>> Test class org.gradle.api.internal.project.NewDefaultProjectTest	1294
+>>> Test class org.gradle.api.internal.collections.DefaultPendingSourceTest	41
+>>> Test class org.gradle.api.internal.collections.DefaultDomainObjectCollectionFactoryTest	172
+>>> Test class org.gradle.api.internal.changedetection.state.DefaultPreviousExecutionCacheAccessTest	51
+>>> Test class org.gradle.api.internal.DependencyInjectingServiceLoaderTest	58
+>>> Test class org.gradle.api.internal.resources.CharSourceBackedTextResourceTest	35
+>>> Test class org.gradle.api.internal.project.DefaultProjectStateRegistryTest	1042
+>>> Test class org.gradle.api.internal.PropertiesTransformerTest	76
+>>> Test class org.gradle.api.internal.component.DefaultComponentTypeRegistryTest	58
+>>> Test class org.gradle.api.internal.tasks.SnapshotTaskInputsBuildOperationResultTest	257
+>>> Test class org.gradle.util.ConcurrentSpecificationTest	17173
+>>> Test class org.gradle.util.MatchersTest	100
+>>> Test class org.gradle.reporting.HtmlReportRendererTest	296
+>>> Test class org.gradle.api.file.MicroBenchmarkPerformanceTest	690
+>>> Test class org.gradle.api.internal.file.archive.TarCopyActionSpec	740
+>>> Test class org.gradle.api.internal.plugins.DefaultPluginManagerTest	5252
+>>> Test class org.gradle.api.internal.artifacts.CachingDependencyResolveContextTest	113
+>>> Test class org.gradle.api.internal.artifacts.ProjectBackedModuleTest	117
+>>> Test class org.gradle.api.internal.artifacts.DefaultBuildIdentifierTest	17
+>>> Test class org.gradle.api.internal.artifacts.dependencies.DefaultSelfResolvingDependencyTest	103
+>>> Test class org.gradle.api.internal.file.archive.TarFileTreeTest	2756
+>>> Test class org.gradle.api.internal.file.CompositeFileCollectionSpec	647
+>>> Test class org.gradle.api.internal.file.DefaultProjectLayoutTest	493
+>>> Test class org.gradle.api.internal.artifacts.dependencies.DefaultProjectDependencyTest	1797
+>>> Test class org.gradle.api.internal.FactoryNamedDomainObjectContainerSpec	109
+>>> Test class org.gradle.api.internal.file.DefaultFileOperationsTest	657
+>>> Test class org.gradle.api.internal.file.RelativeFileTest	46
+>>> Test class org.gradle.api.internal.classpath.ManifestUtilTest	169
+>>> Test class org.gradle.api.internal.DefaultMutationGuardTest	200
+>>> Test class org.gradle.api.internal.file.copy.DuplicateHandlingCopyActionExecutorTest	514
+>>> Test class org.gradle.api.internal.attributes.DefaultImmutableAttributesFactoryTest	356
+>>> Test class org.gradle.api.internal.file.copy.FilterChainTest	183
+>>> Test class org.gradle.api.internal.file.copy.CopySpecActionImplTest	62
+>>> Test class org.gradle.api.internal.project.DefaultAntBuilderFactoryTest	255
+>>> Test class org.gradle.api.internal.file.copy.PathNotationConverterTest	150
+>>> Test class org.gradle.api.internal.file.copy.DefaultCopySpecTest	562
+>>> Test class org.gradle.api.internal.ClosureBackedActionTest	76
+>>> Test class org.gradle.api.internal.collections.DefaultCollectionEventRegisterSpec	67
+>>> Test class org.gradle.api.internal.changedetection.state.CachingFileHasherTest	408
+>>> Test class org.gradle.api.internal.changedetection.changes.DefaultTaskExecutionModeResolverTest	224
+>>> Test class org.gradle.api.internal.resources.StringBackedTextResourceTest	170
+>>> Test class org.gradle.api.internal.resources.ApiTextResourceAdapterTest	452
+>>> Test class org.gradle.api.internal.plugins.DefaultPluginRegistryTest	375
+>>> Test class org.gradle.api.internal.artifacts.TargetJvmVersionRulesTest	252
+>>> Test class org.gradle.api.internal.artifacts.publish.DecoratingPublishArtifactTest	61
+>>> Test class org.gradle.api.internal.project.DefaultAntBuilderTest	2699
+>>> Test class org.gradle.api.internal.artifacts.ExcludeRuleNotationConverterTest	59
+>>> Test class org.gradle.api.internal.artifacts.dependencies.DefaultDependencyArtifactTest	3
+>>> Test class org.gradle.api.internal.project.taskfactory.TaskFactoryTest	234
+>>> Test class org.gradle.api.internal.project.DefaultProjectRegistryTest	166
+>>> Test class org.gradle.api.internal.TypedDomainObjectContainerWrapperTest	387
+>>> Test class org.gradle.api.internal.DefaultDomainObjectCollectionTest	1003
+>>> Test class org.gradle.api.internal.DefaultNamedDomainObjectSetSpec	1833
+>>> Test class org.gradle.api.internal.DefaultNamedDomainObjectCollectionTest	1044
+>>> Test class org.gradle.api.internal.NestedConfigureAutoCreateNamedDomainObjectContainerSpec	259
+>>> Test class org.gradle.api.internal.attributes.DefaultMutableAttributeContainerTest	86
+>>> Test class org.gradle.api.plugins.ProjectReportsPluginTest	7202
+>>> Test class org.gradle.api.reporting.model.ModelReportParserTest	300
+>>> Test class org.gradle.api.reporting.components.internal.RendererUtilsTest	924
+>>> Test class org.gradle.api.tasks.diagnostics.internal.DefaultGroupTaskReportModelTest	301
+>>> Test class org.gradle.api.tasks.diagnostics.internal.TaskReportRendererTest	107
+>>> Test class org.gradle.api.tasks.diagnostics.internal.graph.nodes.AbstractRenderableDependencyResultSpec	58
+>>> Test class org.gradle.api.tasks.diagnostics.internal.dsl.DependencyResultSpecNotationParserSpec	559
+>>> Test class org.gradle.api.tasks.diagnostics.internal.text.DefaultTextReportBuilderTest	456
+>>> Test class org.gradle.api.tasks.diagnostics.BuildEnvironmentReportTaskTest	1433
+>>> Gradle Test Executor 2960	11368
+>>> Test class org.gradle.api.reporting.model.ModelReportNodeBuilderTest	2343
+>>> Test class org.gradle.api.reporting.components.internal.TypeAwareBinaryRendererTest	1971
+>>> Test class org.gradle.api.reporting.dependencies.internal.StrictDependencyResultSpecTest	1646
+>>> Test class org.gradle.api.tasks.diagnostics.internal.AggregateMultiProjectTaskReportModelTest	501
+>>> Test class org.gradle.api.tasks.diagnostics.internal.insight.DependencyInsightReporterSpec	463
+>>> Test class org.gradle.api.tasks.diagnostics.internal.graph.nodes.RenderableDependencyResultTest	84
+>>> Test class org.gradle.api.tasks.diagnostics.internal.PropertyReportRendererTest	170
+>>> Test class org.gradle.api.tasks.diagnostics.DependencyInsightReportTaskSpec	6239
+>>> Test class org.gradle.api.tasks.diagnostics.PropertyReportTaskTest	741
+>>> Gradle Test Executor 2966	14181
+>>> Test class org.gradle.api.internal.artifacts.transform.AbstractCachingTransformationWorkspaceProviderTest	2032
+>>> Test class org.gradle.api.internal.artifacts.transform.DefaultArtifactTransformsTest	866
+>>> Test class org.gradle.api.internal.artifacts.result.DefaultResolvedComponentResultTest	64
+>>> Test class org.gradle.api.internal.artifacts.verification.serializer.DependencyVerificationsXmlWriterTest	225
+>>> Test class org.gradle.api.internal.artifacts.repositories.DefaultBaseRepositoryFactoryTest	1066
+>>> Test class org.gradle.api.internal.artifacts.repositories.resolver.ComponentMetadataDetailsAdapterTest	112
+>>> Test class org.gradle.api.internal.artifacts.repositories.resolver.ExternalResourceResolverTest	398
+>>> Test class org.gradle.api.internal.artifacts.repositories.resolver.M2ResourcePatternTest	123
+>>> Test class org.gradle.api.internal.artifacts.repositories.DefaultMavenArtifactRepositoryTest	509
+>>> Test class org.gradle.api.internal.artifacts.repositories.transport.NetworkOperationBackOffAndRetryTest	88
+>>> Test class org.gradle.api.internal.artifacts.DefaultResolverResultsSpec	263
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.result.DependencyResultSerializerTest	120
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.result.ComponentIdentifierSerializerTest	71
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.artifact.DefaultArtifactSetTest	518
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.artifact.NoBuildDependenciesArtifactSetTest	54
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.excludes.factories.IntersectionsTest	487
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.graph.builder.ModuleSelectorsTest	413
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolveengine.graph.conflicts.DefaultCapabilitiesConflictHandlerTest	914
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.ResolverProviderComponentMetaDataResolverTest	326
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.CachingModuleComponentRepositoryTest	506
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.strategy.MavenVersionSelectorSchemeTest	60
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.strategy.SubVersionSelectorTest	68
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.ErrorHandlingModuleComponentRepositoryTest	4236
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.parser.PomReaderProfileTest	1369
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.parser.GradlePomModuleDescriptorParserProfileTest	816
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.parser.DisconnectedIvyXmlModuleDescriptorParserTest	1051
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.ivyresolve.CachedMetadataProviderTest	89
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.moduleconverter.DefaultRootComponentMetadataBuilderTest	257
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.moduleconverter.dependencies.DefaultLocalConfigurationMetadataBuilderTest	787
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.dependencysubstitution.DefaultDependencySubstitutionSpec	167
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.resolutionstrategy.DefaultCachePolicySpec	276
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.DefaultArtifactCacheMetadataTest	97
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.DefaultIvyModuleDescriptorTest	46
+>>> Test class org.gradle.api.internal.artifacts.ivyservice.modulecache.ModuleMetadataSerializerTest	484
+>>> Test class org.gradle.api.internal.artifacts.DefaultArtifactIdentifierTest	15
+>>> Test class org.gradle.api.internal.artifacts.ResolvedConfigurationIdentifierSerializerTest	11
+>>> Test class org.gradle.api.internal.artifacts.dsl.ComponentSelectorParsersTest	108
+>>> Test class org.gradle.api.internal.artifacts.dsl.CapabilityNotationParserFactoryTest	66
+>>> Test class org.gradle.api.internal.artifacts.dsl.ArtifactFileTest	12
+>>> Test class org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyConstraintHandlerTest	210
+>>> Test class org.gradle.api.internal.artifacts.configurations.DefaultConfigurationContainerSpec	571
+>>> Test class org.gradle.api.internal.tasks.DefaultTaskOutputsTest	1073
+>>> Test class org.gradle.api.internal.tasks.properties.annotations.NestedBeanAnnotationHandlerTest	140
+>>> Test class org.gradle.api.internal.project.ProjectFactoryTest	1737
+>>> Test class org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuterTest	1445
+>>> Test class org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuterTest	100
+>>> Test class org.gradle.api.internal.tasks.DefaultTaskDestroyablesTest	47
+>>> Test class org.gradle.api.internal.tasks.TaskMutatorTest	23
+>>> Test class org.gradle.api.internal.tasks.util.DefaultProcessForkOptionsTest	49
+>>> Test class org.gradle.api.internal.project.antbuilder.AntBuilderMemoryLeakTest	1557
+>>> Test class org.gradle.api.internal.tasks.DefaultTaskInputsTest	634
+>>> Test class org.gradle.api.internal.initialization.ClassLoaderIdsTest	20
+>>> Test class org.gradle.api.services.internal.DefaultBuildServicesRegistryTest	757
+>>> Test class org.gradle.plugins.ear.descriptor.internal.DefaultEarModuleTest	1964
+>>> Gradle Test Executor 2963	2000
+>>> Test class org.gradle.plugins.ear.EarTest	12556
+>>> Gradle Test Executor 2964	12589
+>>> Test class org.gradle.plugins.ear.descriptor.internal.DefaultDeploymentDescriptorTest	6888
+>>> Gradle Test Executor 2970	6917
+>>> Test class org.gradle.plugins.ear.EarPluginTest	17695
+>>> Gradle Test Executor 2968	17725
+>>> Test class org.gradle.api.internal.artifacts.configurations.DefaultConfigurationContainerTest	396
+>>> Test class org.gradle.api.internal.artifacts.component.DefaultComponentIdentifierFactoryTest	111
+>>> Test class org.gradle.api.internal.artifacts.dependencies.DefaultImmutableVersionConstraintTest	42
+>>> Test class org.gradle.api.internal.attributes.DefaultAttributesSchemaTest	1066
+>>> Test class org.gradle.api.internal.notations.ComponentIdentifierParserTest	22
+>>> Test class org.gradle.api.internal.runtimeshaded.RuntimeShadedJarCreatorTest	2009
+>>> Gradle Test Executor 2959	36264
+>>> Test class org.gradle.api.tasks.bundling.ZipTest	1754
+>>> Test class org.gradle.api.tasks.util.internal.CachingPatternSpecFactoryTest	171
+>>> Test class org.gradle.initialization.ProjectPropertySettingBuildLoaderTest	142
+>>> Test class org.gradle.initialization.exception.DefaultExceptionAnalyserTest	322
+>>> Test class org.gradle.initialization.InitScriptHandlerTest	80
+>>> Test class org.gradle.initialization.DefaultProjectDescriptorTest	118
+>>> Test class org.gradle.initialization.buildsrc.BuildSrcUpdateFactoryTest	148
+>>> Test class org.gradle.initialization.layout.BuildLayoutConfigurationTest	17
+>>> Test class org.gradle.api.internal.project.DefaultProjectTest	3940
+>>> Test class org.gradle.initialization.DefaultCommandLineConverterTest	373
+>>> Gradle Test Executor 2946	80920
+>>> Test class org.gradle.internal.execution.impl.OutputFilterUtilTest	4564
+>>> Test class org.gradle.internal.execution.history.changes.CachingChangeContainerTest	323
+>>> Test class org.gradle.internal.execution.history.changes.FingerprintCompareStrategyTest	682
+>>> Test class org.gradle.internal.execution.history.changes.LimitingChangeVisitorTest	39
+>>> Test class org.gradle.internal.execution.steps.CancelExecutionStepTest	384
+>>> Test class org.gradle.internal.execution.steps.StoreExecutionStateStepTest	2018
+>>> Test class org.gradle.internal.execution.steps.ValidateStepTest	253
+>>> Test class org.gradle.internal.execution.steps.SkipUpToDateStepTest	111
+>>> Gradle Test Executor 2967	8410
+>>> Test class org.gradle.internal.execution.history.impl.DefaultOutputFilesRepositoryTest	5531
+>>> Test class org.gradle.internal.execution.history.changes.NonIncrementalInputChangesTest	362
+>>> Test class org.gradle.internal.execution.history.changes.SummarizingChangeContainerTest	116
+>>> Test class org.gradle.internal.execution.steps.ExecuteStepTest	404
+>>> Test class org.gradle.internal.execution.steps.TimeoutStepTest	170
+>>> Test class org.gradle.internal.execution.steps.ResolveCachingStateStepTest	161
+>>> Test class org.gradle.internal.execution.steps.SkipEmptyWorkStepTest	153
+>>> Gradle Test Executor 2969	6932
+>>> Test class org.gradle.internal.execution.caching.impl.DefaultCachingStateBuilderTest	3339
+>>> Test class org.gradle.internal.execution.history.changes.DefaultFileChangeTest	272
+>>> Test class org.gradle.internal.execution.history.changes.ErrorHandlingChangeContainerTest	316
+>>> Test class org.gradle.internal.execution.steps.ResolveInputChangesStepTest	369
+>>> Test class org.gradle.internal.execution.steps.ResolveChangesStepTest	237
+>>> Test class org.gradle.internal.execution.steps.RecordOutputsStepTest	666
+>>> Test class org.gradle.internal.execution.steps.BroadcastChangingOutputsStepTest	66
+>>> Test class org.gradle.internal.execution.steps.CleanupOutputsStepTest	455
+>>> Gradle Test Executor 2971	5761
+>>> Test class org.gradle.internal.file.FilePathUtilTest	2096
+>>> Test class org.gradle.internal.file.impl.UnixDerivativeSymlinkDeleterTest	1002
+>>> Test class org.gradle.api.internal.file.pattern.FixedStepPathMatcherTest	208
+>>> Test class org.gradle.api.internal.file.pattern.RegExpPatternStepTest	38
+>>> Gradle Test Executor 2974	3381
+>>> Test class org.gradle.internal.file.impl.WindowsSymbolicLinkDeleterTest	2263
+>>> Test class org.gradle.internal.file.DefaultFileHierarchySetTest	678
+>>> Test class org.gradle.api.internal.file.pattern.PatternMatcherFactoryTest	665
+>>> Test class org.gradle.api.internal.file.pattern.HasSuffixPatternStepTest	49
+>>> Gradle Test Executor 2975	3676
+>>> Test class org.gradle.api.internal.project.taskfactory.AnnotationProcessingTaskFactoryTest	5252
+>>> Test class org.gradle.api.internal.CompositeDomainObjectSetTest	161
+>>> Test class org.gradle.api.internal.AbstractTaskSpec	108
+>>> Test class org.gradle.api.internal.tasks.DefaultRealizableTaskCollectionTest	869
+>>> Test class org.gradle.api.internal.tasks.TaskStateInternalTest	24
+>>> Test class org.gradle.api.internal.tasks.properties.bean.NestedRuntimeBeanNodeTest	42
+>>> Test class org.gradle.api.internal.tasks.execution.EventFiringTaskExecuterTest	111
+>>> Test class org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuterTest	36
+>>> Test class org.gradle.api.internal.tasks.options.OptionValueNotationParserFactorySpec	129
+>>> Test class org.gradle.api.internal.tasks.userinput.DefaultBuildScanUserInputHandlerTest	13
+>>> Test class org.gradle.api.internal.tasks.StaticValueTest	47
+>>> Test class org.gradle.api.internal.tasks.properties.DefaultTypeMetadataStoreTest	27625
+>>> Test class org.gradle.api.internal.tasks.properties.InspectionSchemeFactoryTest	50
+>>> Test class org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuterTest	44
+>>> Test class org.gradle.api.internal.tasks.execution.DefaultEmptySourceTaskSkipperTest	124
+>>> Test class org.gradle.api.internal.tasks.options.InstanceOptionDescriptorSpec	113
+>>> Test class org.gradle.api.internal.tasks.userinput.NonInteractiveUserInputHandlerTest	33
+>>> Test class org.gradle.api.internal.DefaultTaskTest	1370
+>>> Test class org.gradle.api.internal.tasks.DefaultFinalizingValidatingPropertyTest	85
+>>> Test class org.gradle.api.internal.initialization.DefaultScriptHandlerTest	334
+>>> Test class org.gradle.api.internal.initialization.ClassLoaderScopeIdentifierTest	39
+>>> Test class org.gradle.api.internal.initialization.loadercache.DefaultClassLoaderCacheTest	385
+>>> Test class org.gradle.api.tasks.AbstractCopyTaskTest	162
+>>> Test class org.gradle.api.tasks.ExecTest	388
+>>> Test class org.gradle.api.tasks.SourceTaskTest	518
+>>> Test class org.gradle.api.tasks.ant.AntTargetTest	78
+>>> Test class org.gradle.initialization.DefaultGradlePropertiesLoaderTest	133
+>>> Test class org.gradle.initialization.DefaultSettingsLoaderTest	281
+>>> Test class org.gradle.api.tasks.SyncTest	848
+>>> Test class org.gradle.initialization.ParallelismConfigurationCommandLineConverterTest	116
+>>> Test class org.gradle.initialization.BuildOperationSettingsProcessorTest	92
+>>> Test class org.gradle.initialization.layout.BuildLayoutFactoryTest	120
+>>> Test class org.gradle.initialization.BuildFileProjectSpecTest	24
+>>> Test class org.gradle.internal.execution.history.impl.FileCollectionFingerprintSerializerTest	2430
+>>> Test class org.gradle.internal.execution.history.changes.SortedMapDiffUtilTest	171
+>>> Test class org.gradle.internal.execution.history.changes.ImplementationChangesTest	1779
+>>> Test class org.gradle.internal.execution.steps.CaptureStateBeforeExecutionStepTest	711
+>>> Test class org.gradle.internal.execution.steps.CatchExceptionStepTest	64
+>>> Test class org.gradle.internal.execution.steps.ContextInsensitiveStepSpec	3
+>>> Test class org.gradle.internal.execution.steps.CreateOutputsStepTest	161
+>>> Test class org.gradle.internal.execution.steps.CacheStepTest	1654
+>>> Gradle Test Executor 2977	7020
+>>> Test class org.gradle.api.internal.file.collections.DefaultConfigurableFileCollectionSpec	4705
+>>> Test class org.gradle.api.internal.file.collections.UnpackingVisitorTest	290
+>>> Test class org.gradle.api.internal.file.collections.DirectoryFileTreeTest	9126
+>>> Test class org.gradle.api.internal.file.collections.DefaultConfigurableFileTreeTest	4321
+>>> Test class org.gradle.api.internal.file.collections.FileCollectionAdapterTest	79
+>>> Test class org.gradle.api.internal.file.DefaultFileTreeElementTest	49
+>>> Gradle Test Executor 2973	9478
+>>> Test class org.gradle.api.internal.file.collections.DefaultUnauthorizedDirectoryWalkerTest	627
+>>> Test class org.gradle.api.internal.file.collections.GeneratedSingletonFileTreeTest	316
+>>> Test class org.gradle.internal.file.impl.WindowsJunctionDeleterTest	2420
+>>> Test class org.gradle.api.internal.file.pattern.HasPrefixAndSuffixPatternStepTest	198
+>>> Test class org.gradle.api.internal.file.pattern.FixedPatternStepTest	28
+>>> Test class org.gradle.api.internal.file.pattern.PatternStepFactoryTest	161
+>>> Gradle Test Executor 2978	2831
+>>> Test class org.gradle.internal.file.impl.WindowsHardLinkDeleterTest	1868
+>>> Test class org.gradle.internal.file.impl.DefaultDeleterTest	1782
+>>> Test class org.gradle.internal.hash.HashingTest	3651
+>>> Gradle Test Executor 2976	3710
+>>> Test class org.gradle.internal.hash.DefaultStreamHasherTest	2315
+>>> Gradle Test Executor 2979	2339
+>>> Test class org.gradle.internal.hash.HashCodeTest	2251
+>>> Gradle Test Executor 2982	2272
+>>> Test class org.gradle.initialization.DefaultGradleLauncherSpec	447
+>>> Gradle Test Executor 2948	90117
+>>> Test class org.gradle.api.tasks.DeleteTest	792
+>>> Test class org.gradle.initialization.DefaultProjectDescriptorRegistryTest	2
+>>> Test class org.gradle.initialization.SettingsFactoryTest	96
+>>> Test class org.gradle.initialization.InstantiatingBuildLoaderTest	86
+>>> Test class org.gradle.initialization.DefaultBuildCancellationTokenSpec	20
+>>> Test class org.gradle.api.internal.file.pattern.GreedyPathMatcherTest	196
+>>> Test class org.gradle.api.internal.file.pattern.HasPrefixPatternStepTest	69
+>>> Gradle Test Executor 2981	3949
+>>> Test class org.gradle.api.internal.file.collections.DirectoryWalkerTest	856
+>>> Test class org.gradle.api.internal.file.DefaultFilePropertyFactoryTest	550
+>>> Test class org.gradle.api.internal.file.AbstractFileTreeElementTest	242
+>>> Gradle Test Executor 2972	11740
+>>> Test class org.gradle.plugins.ide.internal.generator.generator.PersistableConfigurationObjectGeneratorTest	2376
+>>> Test class org.gradle.initialization.MixInLegacyTypesClassLoaderTest	7643
+>>> Test class org.gradle.initialization.ProjectDirectoryProjectSpecTest	45
+>>> Test class org.gradle.initialization.GradleApiSpecAggregatorTest	372
+>>> Gradle Test Executor 2957	82485
+>>> Test class org.gradle.api.internal.file.collections.ImmutableFileCollectionTest	3055
+>>> Test class org.gradle.api.internal.file.collections.FileTreeAdapterTest	2450
+>>> Test class org.gradle.plugins.ide.internal.generator.PropertiesPersistableConfigurationObjectTest	3298
+>>> Test class org.gradle.plugins.ide.internal.tooling.TaskNameComparatorTest	84
+>>> Test class org.gradle.plugins.ide.internal.tooling.GradleBuildBuilderTest	4721
+>>> Test class org.gradle.plugins.ide.internal.tooling.eclipse.DefaultEclipseProjectTest	105
+>>> Test class org.gradle.plugins.ide.internal.tooling.idea.DefaultIdeaContentRootTest	1197
+>>> Test class org.gradle.plugins.ide.internal.GeneratorTaskTest	861
+>>> Test class org.gradle.plugins.ide.internal.tooling.BuildInvocationsBuilderTest	7796
+>>> Test class org.gradle.plugins.ide.internal.generator.XmlPersistableConfigurationObjectTest	3832
+>>> Test class org.gradle.plugins.ide.eclipse.EclipsePluginTest	4495
+>>> Test class org.gradle.api.internal.file.collections.DefaultFileCollectionResolveContextTest	1201
+>>> Test class org.gradle.api.internal.file.collections.ListBackedFileSetTest	107
+>>> Test class org.gradle.api.internal.file.DirectoryPropertyTest	2129
+>>> Test class org.gradle.api.internal.file.DefaultFileCollectionFactoryTest	644
+>>> Gradle Test Executor 2986	9603
+>>> Test class org.gradle.api.internal.file.collections.LazilyInitializedFileCollectionTest	3487
+>>> Test class org.gradle.api.internal.file.collections.BuildDependenciesOnlyFileCollectionResolveContextTest	251
+>>> Test class org.gradle.instantexecution.InstantExecutionTest	908
+>>> Gradle Test Executor 2988	938
+>>> Test class org.gradle.instantexecution.PropertyTraceTest	522
+>>> Gradle Test Executor 2990	539
+>>> Test class org.gradle.instantexecution.serialization.codecs.UserTypesCodecTest	9581
+>>> Gradle Test Executor 2989	9625
+>>> Test class org.gradle.plugins.ide.eclipse.model.internal.EclipseDependenciesCreatorTest	1292
+>>> Test class org.gradle.plugins.ide.eclipse.model.ResourceFilterMatcherTest	504
+>>> Test class org.gradle.plugins.ide.eclipse.model.SourceFolderTest	231
+>>> Test class org.gradle.plugins.ide.eclipse.model.ProjectTest	171
+>>> Test class org.gradle.plugins.ide.eclipse.model.WbResourceTest	24
+>>> Test class org.gradle.plugins.ide.eclipse.model.EclipseProjectTest	13
+>>> Test class org.gradle.plugins.ide.idea.model.IdeaProjectTest	646
+>>> Test class org.gradle.plugins.ide.internal.tooling.eclipse.RunBuildDependenciesTaskBuilderTest	10061
+>>> Test class org.gradle.plugins.ide.idea.model.IdeaModelTest	1109
+>>> Test class org.gradle.plugins.ide.idea.model.ProjectTest	995
+>>> Test class org.gradle.plugins.ide.idea.IdeaPluginTest	1789
+>>> Gradle Test Executor 2980	20570
+>>> Test class org.gradle.ide.visualstudio.internal.DefaultVisualStudioProjectTest	6964
+>>> Test class org.gradle.ide.visualstudio.internal.VisualStudioProjectConfigurationTest	32
+>>> Test class org.gradle.ide.visualstudio.tasks.internal.VisualStudioSolutionFileTest	1376
+>>> Test class org.gradle.ide.xcode.tasks.internal.XcodeWorkspaceSettingsFileTest	883
+>>> Gradle Test Executor 2985	9311
+>>> Test class org.gradle.ide.visualstudio.internal.VisualStudioProjectMapperTest	2122
+>>> Test class org.gradle.ide.visualstudio.tasks.internal.RelativeFileNameTransformerTest	1442
+>>> Test class org.gradle.api.internal.file.collections.SingleIncludePatternFileTreeSpec	1502
+>>> Test class org.gradle.api.internal.file.collections.DefaultSingletonFileTreeTest	361
+>>> Test class org.gradle.api.internal.file.FileSystemSubsetTest	107
+>>> Test class org.gradle.api.internal.file.FilePropertyTest	1766
+>>> Gradle Test Executor 2992	7522
+>>> Test class org.gradle.plugins.ide.internal.tooling.eclipse.EclipseModelBuilderDependenciesTest	10444
+>>> Test class org.gradle.plugins.ide.internal.tooling.ProjectPublicationsBuilderTest	159
+>>> Test class org.gradle.plugins.ide.internal.IdePluginTest	285
+>>> Test class org.gradle.plugins.ide.eclipse.GenerateEclipseClasspathTest	1555
+>>> Test class org.gradle.plugins.ide.eclipse.model.internal.ProjectDependencyBuilderTest	386
+>>> Test class org.gradle.plugins.ide.eclipse.model.VariableTest	712
+>>> Test class org.gradle.plugins.ide.eclipse.model.WbPropertyTest	52
+>>> Test class org.gradle.plugins.ide.eclipse.model.ContainerTest	87
+>>> Test class org.gradle.plugins.ide.eclipse.model.OutputTest	41
+>>> Test class org.gradle.plugins.ide.internal.tooling.idea.IdeaModelBuilderTest	8099
+>>> Test class org.gradle.plugins.ide.eclipse.model.WtpComponentTest	488
+>>> Test class org.gradle.plugins.ide.internal.configurer.HierarchicalElementDeduplicatorTest	460
+>>> Test class org.gradle.plugins.ide.idea.model.ModuleTest	191
+>>> Test class org.gradle.plugins.ide.idea.model.PathTest	49
+>>> Test class org.gradle.plugins.ide.idea.model.PathFactoryTest	155
+>>> Test class org.gradle.plugins.ide.idea.GenerateIdeaModuleTest	421
+>>> Gradle Test Executor 2983	22856
+>>> Test class org.gradle.ide.visualstudio.internal.VisualStudioProjectRegistryTest	7334
+>>> Test class org.gradle.ide.xcode.plugins.XcodePluginTest	6460
+>>> Gradle Test Executor 2991	10046
+>>> Test class org.gradle.test.fixtures.ivy.IvyDescriptorDependencyTest	2704
+>>> Test class org.gradle.plugins.ide.internal.tooling.eclipse.EclipseModelBuilderTest	15734
+>>> Test class org.gradle.plugins.ide.internal.tooling.TasksFactoryTest	282
+>>> Test class org.gradle.plugins.ide.internal.tooling.GradleProjectBuilderTest	106
+>>> Test class org.gradle.plugins.ide.eclipse.GenerateEclipseWtpComponentTest	1855
+>>> Test class org.gradle.plugins.ide.eclipse.model.internal.FileReferenceFactoryTest	96
+>>> Test class org.gradle.plugins.ide.eclipse.model.WbDependentModuleTest	385
+>>> Test class org.gradle.plugins.ide.eclipse.model.WtpFacetTest	323
+>>> Test class org.gradle.plugins.ide.eclipse.model.JdtTest	53
+>>> Test class org.gradle.plugins.ide.eclipse.model.ProjectDependencyTest	46
+>>> Test class org.gradle.plugins.ide.eclipse.GenerateEclipseWtpFacetTest	1858
+>>> Test class org.gradle.plugins.ide.eclipse.model.EclipseModelTest	1427
+>>> Test class org.gradle.plugins.ide.eclipse.EclipseWtpPluginTest	2464
+>>> Test class org.gradle.ide.visualstudio.plugins.VisualStudioPluginTest	3377
+>>> Test class org.gradle.ide.visualstudio.tasks.internal.VisualStudioFiltersFileTest	751
+>>> Test class org.gradle.ide.xcode.tasks.internal.XcodeSchemeFileTest	231
+>>> Gradle Test Executor 2993	11726
+>>> Test class org.gradle.plugins.ide.idea.model.internal.ModuleDependencyBuilderTest	230
+>>> Test class org.gradle.plugins.ide.idea.model.IdeaLanguageLevelTest	21
+>>> Test class org.gradle.plugins.ide.eclipse.model.internal.SourceFoldersCreatorTest	376
+>>> Test class org.gradle.plugins.ide.idea.model.ProjectLibraryTest	92
+>>> Gradle Test Executor 2984	27611
+>>> Test class org.gradle.plugins.ide.eclipse.model.ClasspathTest	187
+>>> Test class org.gradle.plugins.ide.eclipse.model.FacetTest	57
+>>> Test class org.gradle.plugins.ide.eclipse.model.ResourceFilterTest	921
+>>> Test class org.gradle.plugins.ide.eclipse.model.LibraryTest	51
+>>> Test class org.gradle.plugins.ide.idea.model.IdeaModuleTest	371
+>>> Test class org.gradle.plugins.ide.idea.model.internal.IdeaDependenciesProviderTest	1679
+>>> Test class org.gradle.plugins.ide.idea.model.ModuleDependencyTest	28
+>>> Test class org.gradle.plugins.ide.idea.model.ModuleLibraryTest	42
+>>> Gradle Test Executor 2987	26989
+>>> Test class org.gradle.test.fixtures.maven.MavenLocalModuleTest	2584
+>>> Test class org.gradle.integtests.fixtures.logging.NativeComponentReportOutputNormalizerTest	131
+>>> Test class org.gradle.test.fixtures.junitplatform.JUnitPlatformTestRewriterTest	3434
+>>> Test class org.gradle.integtests.fixtures.executer.TaskOrderSpecsTest	399
+>>> Test class org.gradle.integtests.fixtures.versions.ReleasedVersionDistributionsTest	740
+>>> Gradle Test Executor 2994	6580
+>>> Test class org.gradle.test.fixtures.maven.MavenScopeTest	1938
+>>> Test class org.gradle.integtests.fixtures.logging.GroupedOutputFixtureTest	363
+>>> Test class org.gradle.integtests.fixtures.executer.ForkingGradleHandleTest	470
+>>> Test class org.gradle.integtests.fixtures.executer.AbstractGradleExecuterTest	1410
+>>> Gradle Test Executor 3000	4212
+>>> Test class org.gradle.ide.visualstudio.internal.NativeSpecVisualStudioTargetBinaryTest	7173
+>>> Test class org.gradle.ide.visualstudio.tasks.internal.VisualStudioProjectFileTest	2035
+>>> Test class org.gradle.ide.xcode.internal.XcodePropertyAdapterTest	54
+>>> Gradle Test Executor 2997	9305
+>>> Test class org.gradle.performance.results.TestPageGeneratorTest	2708
+>>> Test class org.gradle.performance.results.FlakinessScenarioPageGeneratorTest	1922
+>>> Test class org.gradle.performance.fixture.PrettyCalculatorSpec	91
+>>> Test class org.gradle.performance.fixture.CrossVersionPerformanceTestRunnerTest	1934
+>>> Test class org.gradle.performance.measure.UnitsTest	19
+>>> Gradle Test Executor 2995	6730
+>>> Test class org.gradle.testing.internal.util.RetryUtilTest	4089
+>>> Gradle Test Executor 2998	4111
+>>> Test class org.gradle.util.TempDirIsUniquePerTestSpec	1963
+>>> Gradle Test Executor 2999	1986
+>>> Test class org.gradle.test.fixtures.maven.MavenFileModuleTest	4461
+>>> Test class org.gradle.integtests.fixtures.timeout.JavaProcessStackTracesMonitorSpec	587
+>>> Test class org.gradle.integtests.fixtures.BuildOperationNotificationsFixtureTest	3233
+>>> Test class org.gradle.integtests.fixtures.executer.OutputScrapingExecutionResultTest	466
+>>> Test class org.gradle.integtests.fixtures.jvm.UbuntuJvmLocatorTest	318
+>>> Gradle Test Executor 3003	9088
+>>> Test class org.gradle.performance.results.CrossVersionResultsStoreTest	6078
+>>> Test class org.gradle.performance.results.CompositeResultsStoreTest	247
+>>> Test class org.gradle.performance.fixture.CrossVersionPerformanceTestExecutionTest	200
+>>> Test class org.gradle.performance.generator.DependencyTreeTest	588
+>>> Test class org.gradle.performance.measure.AmountTest	180
+>>> Gradle Test Executor 3001	7317
+>>> Test class org.gradle.performance.results.TestDataGeneratorTest	3299
+>>> Test class org.gradle.performance.results.CrossBuildResultsStoreTest	5721
+>>> Test class org.gradle.test.fixtures.concurrent.ConcurrentSpecTest	13039
+>>> Gradle Test Executor 3002	13067
+>>> Test class org.gradle.api.publish.ivy.internal.publication.DefaultIvyModuleDescriptorSpecTest	3913
+>>> Test class org.gradle.api.publish.ivy.internal.artifact.IvyArtifactNotationParserFactoryTest	7531
+>>> Test class org.gradle.api.publish.ivy.tasks.PublishToIvyRepositoryTest	4455
+>>> Gradle Test Executor 3005	8420
+>>> Test class org.gradle.api.publish.ivy.internal.publication.DefaultIvyPublicationTest	1914
+>>> Gradle Test Executor 3004	9478
+>>> Test class org.gradle.performance.results.report.ReportGeneratorTest	3088
+>>> Test class org.gradle.performance.results.report.DefaultPerformanceExecutionDataProviderTest	2542
+>>> Test class org.gradle.performance.fixture.WaitingReaderTest	844
+>>> Test class org.gradle.performance.measure.DurationTest	51
+>>> Gradle Test Executor 3007	7309
+>>> Test class org.gradle.api.publish.ivy.internal.publisher.IvyDescriptorFileGeneratorTest	5318
+>>> Test class org.gradle.performance.fixture.GradleInternalCrossVersionPerformanceTestRunnerTest	3861
+>>> Test class org.gradle.performance.measure.DataSeriesTest	50
+>>> Gradle Test Executor 3006	12188
+>>> Test class org.gradle.internal.jacoco.rules.JacocoViolationRulesContainerImplTest	2076
+>>> Test class org.gradle.internal.jacoco.rules.JacocoLimitImplTest	1849
+>>> Gradle Test Executor 3013	1873
+>>> Test class org.gradle.api.publish.ivy.plugins.IvyPublishPluginTest	4293
+>>> Gradle Test Executor 3008	9632
+>>> Test class org.gradle.api.publish.ivy.internal.publisher.ValidatingIvyPublisherTest	6475
+>>> Test class org.gradle.api.publish.ivy.internal.publication.DefaultIvyExtraInfoSpecTest	28
+>>> Gradle Test Executor 3009	6527
+>>> Test class org.gradle.internal.jvm.inspection.DefaultJvmVersionDetectorTest	3216
+>>> Gradle Test Executor 3012	3243
+>>> Test class org.gradle.internal.jvm.inspection.CachingJvmVersionDetectorTest	1808
+>>> Gradle Test Executor 3014	1841
+>>> Test class org.gradle.test.fixtures.server.http.BlockingHttpServerTest	29220
+>>> Test class org.gradle.integtests.fixtures.SampleRuleTest	85
+>>> Test class org.gradle.integtests.fixtures.executer.OutputScrapingExecutionFailureTest	259
+>>> Test class org.gradle.integtests.fixtures.jvm.OsXJavaHomeParserTest	64
+>>> Gradle Test Executor 2996	33093
+>>> Test class org.gradle.testing.jacoco.plugins.JacocoTaskExtensionSpec	4620
+>>> Gradle Test Executor 3011	6713
+>>> Test class org.gradle.internal.jacoco.rules.JacocoViolationRuleImplTest	1955
+>>> Test class org.gradle.internal.jacoco.JacocoAgentJarTest	6121
+>>> Gradle Test Executor 3015	6159
+>>> Test class org.gradle.plugins.javascript.base.JavaScriptBasePluginTest	5937
+>>> Gradle Test Executor 3010	5974
+>>> Test class org.gradle.plugins.javascript.coffeescript.CoffeeScriptBasePluginTest	6517
+>>> Gradle Test Executor 3016	6553
+>>> Test class org.gradle.plugins.javascript.rhino.RhinoPluginTest	6629
+>>> Gradle Test Executor 3017	6655
+>>> Test class org.gradle.kotlin.dsl.ExtensionAwareExtensionsTest	3284
+>>> Test class org.gradle.kotlin.dsl.PluginDependenciesSpecScopeTest	209
+>>> Test class org.gradle.kotlin.dsl.ContentFilterableExtensionsTest	2004
+>>> Test class org.gradle.kotlin.dsl.codegen.UserGuideLinkTest	32
+>>> Test class org.gradle.kotlin.dsl.execution.LineAndColumnFromRangeTest	166
+>>> Test class org.gradle.kotlin.dsl.TaskContainerExtensionsTest	1666
+>>> Test class org.gradle.kotlin.dsl.ProjectExtensionsTest	3703
+>>> Test class org.gradle.kotlin.dsl.execution.PartialEvaluatorTest	82
+>>> Test class org.gradle.kotlin.dsl.execution.ProgramParserTest	210
+>>> Test class org.gradle.kotlin.dsl.execution.LinePreservingSubstringTest	5
+>>> Test class org.gradle.plugins.javascript.envjs.http.simple.SimpleHttpFileServerFactoryTest	3218
+>>> Gradle Test Executor 3023	3250
+>>> Test class org.gradle.kotlin.dsl.resolver.SourcePathProviderTest	1680
+>>> Test class org.gradle.kotlin.dsl.concurrent.DefaultAsyncIOScopeFactoryTest	696
+>>> Test class org.gradle.kotlin.dsl.BuildCacheConfigurationExtensionsTest	256
+>>> Test class org.gradle.kotlin.dsl.ExtensionContainerExtensionsTest	37
+>>> Test class org.gradle.kotlin.dsl.accessors.PluginTreeTest	8
+>>> Test class org.gradle.kotlin.dsl.accessors.ProjectSchemaTest	320
+>>> Test class org.gradle.kotlin.dsl.accessors.PluginAccessorsClassPathTest	287
+>>> Test class org.gradle.kotlin.dsl.codegen.UserGuideLinkIntegrationTest	4617
+>>> Test class org.gradle.kotlin.dsl.provider.plugins.precompiled.AccessorTypePrecedenceTest	791
+>>> Test class org.gradle.kotlin.dsl.provider.plugins.precompiled.tasks.ReduceGraphTest	22
+>>> Gradle Test Executor 3025	841
+>>> Test class org.gradle.kotlin.dsl.provider.plugins.precompiled.tasks.ExtractPrecompiledScriptPluginPluginsTest	3109
+>>> Gradle Test Executor 3026	3145
+>>> Test class org.gradle.testing.jacoco.plugins.JacocoPluginSpec	12636
+>>> Gradle Test Executor 3019	14607
+>>> Test class org.gradle.kotlin.dsl.ComponentSelectionRulesTest	655
+>>> Test class org.gradle.kotlin.dsl.execution.ProgramTextTest	37
+>>> Test class org.gradle.kotlin.dsl.execution.LexerTest	133
+>>> Test class org.gradle.kotlin.dsl.resolver.CompactTreeTest	20
+>>> Test class org.gradle.kotlin.dsl.provider.ScriptApiTest	3467
+>>> Test class org.gradle.kotlin.dsl.resolver.ProjectRootOfTest	1789
+>>> Test class org.gradle.kotlin.dsl.ArtifactHandlerExtensionsTest	125
+>>> Test class org.gradle.kotlin.dsl.provider.plugins.precompiled.PrecompiledScriptPluginTest	3244
+>>> Gradle Test Executor 3027	3281
+>>> Test class org.gradle.kotlin.dsl.tooling.builders.CommonListPrefixTest	356
+>>> Gradle Test Executor 3030	389
+>>> Test class org.gradle.kotlin.dsl.tooling.builders.EditorReportsBuilderTest	2583
+>>> Gradle Test Executor 3029	2613
+>>> Test class org.gradle.kotlin.dsl.provider.plugins.precompiled.DefaultProjectSchemaProviderTest	3666
+>>> Gradle Test Executor 3028	3696
+>>> Test class org.gradle.kotlin.dsl.integration.KotlinScriptCompilerTest	12268
+>>> Test class org.gradle.kotlin.dsl.accessors.DefaultPackageTypesTest	38
+>>> Test class org.gradle.kotlin.dsl.accessors.KotlinTypeStringTest	61
+>>> Test class org.gradle.api.internal.tasks.compile.SourceClassesMappingFileAccessorTest	2886
+>>> Test class org.gradle.api.internal.tasks.compile.DefaultGroovyJavaJointCompileSpecFactoryTest	2944
+>>> Test class org.gradle.api.tasks.compile.GroovyForkOptionsTest	612
+>>> Gradle Test Executor 3031	3522
+>>> Test class org.gradle.api.tasks.compile.GroovyCompileOptionsTest	795
+>>> Gradle Test Executor 3032	3775
+>>> Test class org.gradle.api.internal.tasks.compile.GroovyCompileTransformingClassLoaderTest	3260
+>>> Gradle Test Executor 3035	3276
+>>> Test class org.gradle.kotlin.dsl.fixtures.SimplifiedKotlinScriptEvaluatorTest	26140
+>>> Gradle Test Executor 3024	26162
+>>> Test class org.gradle.kotlin.dsl.execution.ResidualProgramCompilerTest	32879
+>>> Test class org.gradle.api.internal.tasks.compile.BaseForkOptionsConverterTest	2893
+>>> Gradle Test Executor 3034	2918
+>>> Test class org.gradle.api.tasks.compile.AbstractOptionsTest	5158
+>>> Gradle Test Executor 3036	5178
+>>> Test class org.gradle.api.internal.tasks.compile.NormalizingGroovyCompilerTest	5601
+>>> Test class org.gradle.api.tasks.javadoc.GroovydocTest	4747
+>>> Gradle Test Executor 3037	10384
+>>> Test class org.gradle.kotlin.dsl.execution.InterpreterTest	5421
+>>> Test class org.gradle.kotlin.dsl.codegen.GradleApiExtensionsTest	35545
+>>> Test class org.gradle.kotlin.dsl.CallableExtensionsTest	6
+>>> Test class org.gradle.kotlin.dsl.execution.TopLevelBlockExtractionTest	35
+>>> Test class org.gradle.kotlin.dsl.resolver.KotlinBuildScriptModelRepositoryTest	458
+>>> Test class org.gradle.kotlin.dsl.resolver.ConcurrentGroupingQueueTest	61
+>>> Test class org.gradle.kotlin.dsl.ConfigurableFileCollectionExtensionsTest	136
+>>> Test class org.gradle.kotlin.dsl.integration.GradleApiParameterNamesTest	1231
+>>> Test class org.gradle.kotlin.dsl.accessors.PluginAccessorsTest	38
+>>> Test class org.gradle.kotlin.dsl.accessors.KotlinMetadataIntegrationTest	2093
+>>> Test class org.gradle.kotlin.dsl.provider.ClassLoaderHierarchyTest	1452
+>>> Test class org.gradle.kotlin.dsl.ScriptHandlerScopeTest	318
+>>> Test class org.gradle.kotlin.dsl.caching.ScriptBuildCacheKeyTest	7
+>>> Test class org.gradle.kotlin.dsl.ExtraPropertiesExtensionsTest	104
+>>> Test class org.gradle.kotlin.dsl.DependencyHandlerExtensionsTest	476
+>>> Test class org.gradle.kotlin.dsl.support.ZipTest	40
+>>> Gradle Test Executor 3020	46955
+>>> Test class org.gradle.internal.util.AlignmentTest	2812
+>>> Test class org.gradle.external.javadoc.internal.LinksOfflineJavadocOptionFileOptionTest	1427
+>>> Test class org.gradle.external.javadoc.internal.FileJavadocOptionFileOptionTest	79
+>>> Test class org.gradle.external.javadoc.internal.JavadocOptionFileWriterTest	902
+>>> Test class org.gradle.api.internal.tasks.compile.incremental.analyzer.DefaultClassDependenciesAnalyzerTest	652
+>>> Test class org.gradle.api.internal.tasks.compile.incremental.deps.ClassSetAnalysisTest	316
+>>> Test class org.gradle.api.internal.tasks.compile.incremental.classpath.ClasspathEntrySnapshotTest	341
+>>> Test class org.gradle.api.internal.tasks.compile.AnnotationProcessorDiscoveringCompilerTest	2400
+>>> Test class org.gradle.api.internal.tasks.compile.processing.TimeTrackingProcessorTest	441
+>>> Test class org.gradle.api.internal.tasks.compile.processing.DynamicProcessorTest	42
+>>> Test class org.gradle.api.internal.tasks.compile.DefaultJavaCompilerFactoryTest	230
+>>> Test class org.gradle.api.internal.tasks.JavaHomeBasedJavaToolChainTest	512
+>>> Test class org.gradle.api.tasks.compile.CompileOptionsTest	440
+>>> Gradle Test Executor 3033	10612
+>>> Test class org.gradle.external.javadoc.internal.JavadocOptionFileWriterContextTest	3117
+>>> Test class org.gradle.external.javadoc.internal.StringsJavadocOptionFileOptionTest	1969
+>>> Test class org.gradle.external.javadoc.internal.OptionLessStringsJavadocOptionFileOptionTest	95
+>>> Test class org.gradle.external.javadoc.internal.GroupsJavadocOptionFileOptionTest	278
+>>> Test class org.gradle.external.javadoc.internal.BooleanJavadocOptionFileOptionTest	4875
+>>> Test class org.gradle.api.internal.tasks.compile.incremental.deps.ClassDependentsAccumulatorTest	490
+>>> Test class org.gradle.external.javadoc.internal.JavadocExecHandleBuilderTest	557
+>>> Test class org.gradle.external.javadoc.internal.EnumJavadocOptionFileOptionTest	62
+>>> Test class org.gradle.external.javadoc.internal.PathJavadocOptionFileOptionTest	92
+>>> Test class org.gradle.api.internal.tasks.compile.incremental.deps.ClassSetAnalysisDataSerializerTest	712
+>>> Test class org.gradle.api.internal.tasks.compile.incremental.classpath.DefaultClasspathEntrySnapshotterTest	1335
+>>> Test class org.gradle.api.internal.tasks.compile.incremental.recomp.GroovySourceFileClassNameConverterTest	322
+>>> Test class org.gradle.api.internal.tasks.compile.incremental.classpath.ClasspathSnapshotFactoryTest	870
+>>> Test class org.gradle.api.internal.tasks.compile.processing.IsolatingFilerTest	454
+>>> Test class org.gradle.api.internal.tasks.compile.incremental.recomp.CompilationSourceDirsTest	386
+>>> Test class org.gradle.api.internal.tasks.compile.processing.AggregatingProcessorTest	344
+>>> Test class org.gradle.external.javadoc.internal.StringJavadocOptionFileOptionTest	5172
+>>> Test class org.gradle.external.javadoc.internal.JavadocOptionFileTest	213
+>>> Test class org.gradle.external.javadoc.internal.MultilineStringsJavadocOptionFileOptionTest	124
+>>> Test class org.gradle.api.internal.tasks.compile.CommandLineJavaCompilerArgumentsGeneratorTest	2875
+>>> Test class org.gradle.api.internal.tasks.compile.NormalizingJavaCompilerTest	3307
+>>> Test class org.gradle.external.javadoc.StandardJavadocDocletOptionsTest	389
+>>> Test class org.gradle.api.internal.tasks.compile.JavaCompilerArgumentsBuilderTest	514
+>>> Test class org.gradle.api.tasks.compile.ForkOptionsTest	172
+>>> Test class org.gradle.api.internal.tasks.compile.incremental.deps.OutputToNameConverterTest	512
+>>> Test class org.gradle.api.internal.tasks.compile.processing.AnnotationProcessorDetectorTest	1033
+>>> Test class org.gradle.api.internal.tasks.compile.incremental.classpath.ClasspathSnapshotMakerTest	579
+>>> Test class org.gradle.api.internal.tasks.compile.incremental.recomp.RecompilationSpecTest	52
+>>> Test class org.gradle.api.internal.tasks.compile.JdkToolsTest	380
+>>> Test class org.gradle.api.internal.tasks.compile.processing.IsolatingProcessorTest	167
+>>> Test class org.gradle.api.internal.tasks.compile.DefaultJavaCompileSpecFactoryTest	129
+>>> Test class org.gradle.api.internal.tasks.compile.processing.AggregatingFilerTest	470
+>>> Test class org.gradle.api.internal.tasks.compile.JavaHomeBasedJavaCompilerFactoryTest	214
+>>> Test class org.gradle.api.internal.tasks.CurrentJvmJavaToolChainTest	518
+>>> Test class org.gradle.api.tasks.compile.DebugOptionsTest	164
+>>> Test class org.gradle.api.tasks.compile.JavaCompileTest	2905
+>>> Test class org.gradle.language.java.internal.DefaultJavaLanguageSourceSetTest	4946
+>>> Gradle Test Executor 3038	16949
+>>> Test class org.gradle.kotlin.dsl.accessors.ProjectAccessorsClassPathTest	29659
+>>> Test class org.gradle.kotlin.dsl.NamedContainersDslTest	43611
+>>> Test class org.gradle.kotlin.dsl.provider.KotlinScriptClassPathProviderTest	970
+>>> Test class org.gradle.kotlin.dsl.caching.BuildCacheFormatTest	36
+>>> Test class org.gradle.kotlin.dsl.PluginAwareExtensionsTest	384
+>>> Test class org.gradle.kotlin.dsl.GroovyInteroperabilityTest	419
+>>> Test class org.gradle.kotlin.dsl.SourceControlExtensionsTest	53
+>>> Gradle Test Executor 3021	55009
+>>> Test class org.gradle.api.tasks.javadoc.JavadocTest	1592
+>>> Gradle Test Executor 3039	16951
+>>> Test class org.gradle.language.java.plugins.JavaLanguagePluginTest	6680
+>>> Gradle Test Executor 3040	15299
+>>> Test class org.gradle.api.internal.tasks.scala.NormalizingScalaCompilerTest	6311
+>>> Test class org.gradle.kotlin.dsl.execution.ParserToCompilerTest	14860
+>>> Test class org.gradle.kotlin.dsl.ComponentMetadataHandlerExtensionsTest	60
+>>> Test class org.gradle.kotlin.dsl.resolver.ResolverCoordinatorTest	15
+>>> Test class org.gradle.kotlin.dsl.NamedDomainObjectContainerExtensionsTest	2894
+>>> Test class org.gradle.kotlin.dsl.DelegatedGradlePropertiesExtensionsTest	908
+>>> Test class org.gradle.kotlin.dsl.accessors.TypeAccessibilityProviderTest	108
+>>> Test class org.gradle.kotlin.dsl.accessors.ProjectSchemaHashCodeTest	100
+>>> Test class org.gradle.kotlin.dsl.accessors.tasks.PrintAccessorsTest	245
+>>> Test class org.gradle.kotlin.dsl.provider.PluginRequestsHandlerTest	336
+>>> Test class org.gradle.kotlin.dsl.caching.LoadDirectoryTest	35
+>>> Test class org.gradle.kotlin.dsl.SpecExtensionsTest	2
+>>> Test class org.gradle.kotlin.dsl.ConfigurationExtensionsTest	135
+>>> Test class org.gradle.kotlin.dsl.ObjectFactoryExtensionsTest	438
+>>> Gradle Test Executor 3022	56470
+>>> Test class org.gradle.language.objectivecpp.tasks.ObjectiveCppPreCompiledHeaderCompileTest	9720
+>>> Test class org.gradle.language.internal.DefaultComponentDependenciesTest	389
+>>> Test class org.gradle.language.objectivec.tasks.ObjectiveCPreCompiledHeaderCompileTest	297
+>>> Test class org.gradle.language.assembler.tasks.AssemblerTest	270
+>>> Test class org.gradle.language.cpp.internal.DefaultCppComponentTest	852
+>>> Test class org.gradle.swiftpm.plugins.SwiftPackageManagerExportPluginTest	16207
+>>> Test class org.gradle.language.objectivecpp.plugins.ObjectiveCppLangPluginTest	10552
+>>> Test class org.gradle.language.internal.DefaultBinaryCollectionTest	900
+>>> Test class org.gradle.language.objectivecpp.tasks.ObjectiveCppCompileTest	3329
+>>> Test class org.gradle.language.internal.DefaultLibraryDependenciesTest	336
+>>> Test class org.gradle.language.objectivec.tasks.ObjectiveCCompileTest	326
+>>> Test class org.gradle.language.cpp.plugins.CppApplicationPluginTest	6489
+>>> Test class org.gradle.language.cpp.tasks.CppCompileTest	2145
+>>> Test class org.gradle.language.plugins.NativeBasePluginTest	2778
+>>> Test class org.gradle.language.objectivec.plugins.ObjectiveCPluginTest	5255
+>>> Test class org.gradle.language.assembler.plugins.AssemblerLangPluginTest	126
+>>> Test class org.gradle.language.cpp.internal.DefaultCppLibraryTest	2004
+>>> Test class org.gradle.language.nativeplatform.internal.incremental.IncrementalCompileProcessorTest	2241
+>>> Test class org.gradle.language.nativeplatform.internal.incremental.sourceparser.DefaultSourceIncludesTest	102
+>>> Test class org.gradle.language.objectivecpp.plugins.ObjectiveCppPluginTest	15488
+>>> Test class org.gradle.language.nativeplatform.internal.incremental.SourceParseAndResolutionTest	1036
+>>> Test class org.gradle.language.internal.DefaultNativeBinaryTest	1488
+>>> Test class org.gradle.language.swift.internal.DefaultSwiftBinaryTest	942
+>>> Test class org.gradle.language.cpp.internal.DefaultCppApplicationTest	3322
+>>> Test class org.gradle.language.objectivec.plugins.ObjectiveCLangPluginTest	431
+>>> Test class org.gradle.language.cpp.plugins.CppLibraryPluginTest	3195
+>>> Test class org.gradle.language.cpp.tasks.CppPreCompiledHeaderCompileTest	180
+>>> Test class org.gradle.language.nativeplatform.internal.incremental.IncrementalNativeCompilerTest	294
+>>> Test class org.gradle.language.assembler.plugins.AssemblerPluginTest	1466
+>>> Test class org.gradle.language.swift.plugins.SwiftLibraryPluginTest	2479
+>>> Test class org.gradle.language.c.tasks.CCompileTest	189
+>>> Gradle Test Executor 3042	27182
+>>> Test class org.gradle.language.scala.internal.toolchain.DefaultScalaToolProviderTest	2551
+>>> Gradle Test Executor 3044	8887
+>>> Test class org.gradle.language.scala.internal.toolchain.DownloadingScalaToolChainTest	6858
+>>> Gradle Test Executor 3046	6884
+>>> Test class org.gradle.api.internal.tasks.scala.DefaultScalaJavaJointCompileSpecFactoryTest	3260
+>>> Gradle Test Executor 3049	3303
+>>> Test class org.gradle.api.internal.tasks.scala.ZincScalaCompilerArgumentsGeneratorTest	3214
+>>> Test class org.gradle.kotlin.dsl.architecture.PackageDependencyRulesTest	27837
+>>> Test class org.gradle.kotlin.dsl.RepositoryHandlerExtensionsTest	234
+>>> Test class org.gradle.kotlin.dsl.NamedDomainObjectCollectionExtensionsTest	318
+>>> Test class org.gradle.kotlin.dsl.support.WalkReproduciblyTest	20
+>>> Gradle Test Executor 3018	83555
+>>> Test class org.gradle.language.nativeplatform.internal.incremental.sourceparser.RegexBackedCSourceParserTest	2196
+>>> Test class org.gradle.language.nativeplatform.internal.NamesTest	19
+>>> Test class org.gradle.language.cpp.internal.DefaultCppBinaryTest	2054
+>>> Test class org.gradle.language.swift.internal.DefaultSwiftComponentTest	263
+>>> Test class org.gradle.language.cpp.internal.DefaultCppSourceSetTest	287
+>>> Test class org.gradle.language.c.plugins.CLangPluginTest	225
+>>> Gradle Test Executor 3041	31388
+>>> Test class org.gradle.language.cpp.plugins.CppBasePluginTest	4277
+>>> Test class org.gradle.language.cpp.plugins.CppLangPluginTest	55
+>>> Test class org.gradle.language.nativeplatform.internal.incremental.CompilationStateSerializerTest	113
+>>> Test class org.gradle.language.nativeplatform.internal.incremental.sourceparser.PreprocessingReaderTest	132
+>>> Test class org.gradle.language.nativeplatform.internal.incremental.DefaultSourceIncludesParserTest	24
+>>> Test class org.gradle.language.cpp.plugins.CppPluginTest	699
+>>> Test class org.gradle.language.swift.internal.DefaultSwiftApplicationTest	321
+>>> Test class org.gradle.language.nativeplatform.internal.toolchains.DefaultToolChainSelectorTest	301
+>>> Test class org.gradle.language.swift.plugins.SwiftApplicationPluginTest	513
+>>> Test class org.gradle.language.nativeplatform.internal.incremental.DefaultSourceIncludesResolverTest	756
+>>> Test class org.gradle.language.c.tasks.CPreCompiledHeaderCompileTest	540
+>>> Gradle Test Executor 3043	26175
+>>> Test class org.gradle.language.nativeplatform.internal.incremental.sourceparser.IncludeDirectivesSerializerTest	256
+>>> Test class org.gradle.language.swift.internal.DefaultSwiftLibraryTest	519
+>>> Test class org.gradle.language.scala.plugins.ScalaLanguagePluginTest	5900
+>>> Gradle Test Executor 3050	9144
+>>> Test class org.gradle.tooling.internal.provider.connection.BuildLogLevelMixInTest	2929
+>>> Test class org.gradle.tooling.internal.provider.LoggingBridgingBuildActionExecuterTest	322
+>>> Test class org.gradle.tooling.internal.provider.ParallelismConfigurationBuildActionExecuterTest	3385
+>>> Test class org.gradle.tooling.internal.provider.ConnectionScopeServicesTest	6605
+>>> Test class org.gradle.tooling.internal.provider.serialization.ClasspathInfererTest	1837
+>>> Test class org.gradle.launcher.exec.ChainingBuildActionRunnerTest	119
+>>> Test class org.gradle.tooling.internal.provider.TestExecutionRequestActionTest	3470
+>>> Test class org.gradle.tooling.internal.provider.serialization.ClientSidePayloadClassLoaderFactoryTest	250
+>>> Test class org.gradle.launcher.MainTest	323
+>>> Test class org.gradle.launcher.daemon.client.DaemonClientTest	1625
+>>> Test class org.gradle.language.swift.plugins.SwiftBasePluginTest	2241
+>>> Test class org.gradle.language.c.plugins.CPluginTest	535
+>>> Gradle Test Executor 3045	26557
+>>> Test class org.gradle.internal.logging.config.LoggingSystemAdapterTest	1831
+>>> Test class org.gradle.internal.logging.services.StreamBackedStandardOutputListenerTest	782
+>>> Test class org.gradle.internal.logging.serializer.UserInputResumeEventSerializerTest	139
+>>> Test class org.gradle.internal.logging.serializer.ProgressEventSerializerTest	53
+>>> Test class org.gradle.internal.logging.console.MultiLineBuildProgressAreaTest	1075
+>>> Test class org.gradle.internal.logging.events.StyledTextOutputEventTest	1712
+>>> Test class org.gradle.internal.logging.console.ThrottlingOutputEventListenerTest	94
+>>> Test class org.gradle.internal.logging.console.ProgressBarTest	55
+>>> Test class org.gradle.internal.logging.console.DefaultRedrawableLabelTest	173
+>>> Test class org.gradle.api.plugins.MavenPluginConventionTest	7325
+>>> Test class org.gradle.api.publish.maven.internal.publisher.ValidatingMavenPublisherTest	2521
+>>> Test class org.gradle.api.publish.maven.tasks.PublishToMavenRepositoryTest	404
+>>> Test class org.gradle.api.publication.maven.internal.DefaultArtifactPomContainerTest	183
+>>> Test class org.gradle.api.publication.maven.internal.DefaultPomFilterTest	12
+>>> Test class org.gradle.api.publication.maven.internal.pom.DefaultPomDependenciesConverterTest	468
+>>> Test class org.gradle.api.publication.maven.internal.action.DefaultMavenDeployRetrierTest	438
+>>> Gradle Test Executor 3054	11408
+>>> Test class org.gradle.internal.logging.console.StyledTextOutputBackedRendererTest	265
+>>> Test class org.gradle.internal.logging.services.LoggingServiceRegistryTest	1059
+>>> Test class org.gradle.internal.logging.serializer.ProgressCompleteEventSerializerTest	147
+>>> Test class org.gradle.internal.logging.serializer.UserInputRequestEventSerializerTest	50
+>>> Test class org.gradle.internal.logging.slf4j.OutputEventListenerBackedLoggerTest	1222
+>>> Test class org.gradle.internal.logging.progress.DefaultProgressLoggerFactoryTest	708
+>>> Test class org.gradle.internal.logging.console.ProgressOperationTest	1318
+>>> Test class org.gradle.internal.logging.sink.OutputEventRendererTest	805
+>>> Test class org.gradle.internal.logging.text.AbstractStyledTextOutputTest	88
+>>> Test class org.gradle.internal.featurelifecycle.FeatureUsageTest	73
+>>> Test class org.gradle.internal.logging.console.DefaultColorMapTest	1139
+>>> Test class org.gradle.internal.logging.console.UserInputConsoleRendererTest	137
+>>> Test class org.gradle.internal.logging.console.CursorTest	129
+>>> Test class org.gradle.internal.deprecation.LoggingDeprecatedFeatureHandlerTest	503
+>>> Test class org.gradle.api.logging.LogLevelTest	37
+>>> Gradle Test Executor 3051	7934
+>>> Test class org.gradle.internal.logging.slf4j.OutputEventListenerBackedLoggerDefaultConfigurationTest	231
+>>> Test class org.gradle.internal.logging.source.PrintStreamLoggingSystemTest	144
+>>> Test class org.gradle.internal.logging.sink.GroupingProgressLogEventGeneratorTest	368
+>>> Test class org.gradle.internal.logging.text.AbstractLineChoppingStyledTextOutputTest	121
+>>> Test class org.gradle.internal.logging.text.LinePrefixingStyledTextOutputTest	51
+>>> Test class org.gradle.internal.deprecation.DeprecationMessagesTest	530
+>>> Test class org.gradle.logging.ConsoleRendererTest	214
+>>> Gradle Test Executor 3053	7376
+>>> Test class org.gradle.internal.logging.events.LogEventTest	1888
+>>> Test class org.gradle.internal.logging.services.DefaultLoggingManagerTest	1376
+>>> Test class org.gradle.internal.logging.serializer.StyledTextOutputEventSerializerTest	350
+>>> Test class org.gradle.internal.logging.serializer.LogEventSerializerTest	122
+>>> Test class org.gradle.internal.logging.console.BuildLogLevelFilterRendererTest	141
+>>> Test class org.gradle.internal.logging.events.UserInputResumeEventTest	1898
+>>> Test class org.gradle.internal.logging.console.UserInputStandardOutputRendererTest	106
+>>> Test class org.gradle.internal.logging.console.DefaultAnsiExecutorTest	1081
+>>> Test class org.gradle.internal.logging.console.WorkInProgressRendererTest	380
+>>> Test class org.gradle.internal.logging.services.TextStreamOutputEventListenerTest	1579
+>>> Test class org.gradle.internal.logging.slf4j.Slf4jLoggingConfigurerTest	451
+>>> Test class org.gradle.internal.logging.serializer.ProgressStartEventSerializerTest	455
+>>> Test class org.gradle.internal.logging.serializer.LogSerializerSpec	1
+>>> Test class org.gradle.internal.logging.console.ConsoleLayoutCalculatorTest	55
+>>> Test class org.gradle.internal.logging.console.ProgressOperationsTest	109
+>>> Test class org.gradle.internal.logging.LoggingCommandLineConverterTest	243
+>>> Test class org.gradle.internal.logging.console.DefaultWorkInProgressFormatterTest	72
+>>> Test class org.gradle.internal.logging.sink.ProgressLogEventGeneratorTest	301
+>>> Test class org.gradle.internal.logging.format.PrettyPrefixedLogHeaderFormatterTest	19
+>>> Test class org.gradle.internal.logging.text.LoggingBackedStyledTextOutputTest	171
+>>> Test class org.gradle.internal.operations.OperationIdentifierTest	18
+>>> Test class org.gradle.internal.logging.console.BuildStatusRendererTest	501
+>>> Test class org.gradle.internal.logging.slf4j.OutputEventListenerBackedLoggerContextTest	153
+>>> Test class org.gradle.internal.logging.source.JavaUtilLoggingSystemTest	249
+>>> Test class org.gradle.internal.deprecation.DeprecationLoggerTest	553
+>>> Test class org.gradle.api.logging.LoggingTest	69
+>>> Gradle Test Executor 3057	7291
+>>> Test class org.gradle.internal.logging.sink.LogEventDispatcherTest	280
+>>> Test class org.gradle.internal.logging.text.StreamingStyledTextOutputTest	286
+>>> Test class org.gradle.internal.logging.text.TreeFormatterTest	404
+>>> Test class org.gradle.internal.deprecation.DocumentationReferenceTest	73
+>>> Test class org.gradle.internal.deprecation.DeprecatedFeatureUsageTest	82
+>>> Gradle Test Executor 3059	6226
+>>> Test class org.gradle.tooling.internal.provider.ProviderStartParameterConverterTest	3907
+>>> Test class org.gradle.launcher.daemon.client.DaemonClientInputForwarderTest	6296
+>>> Test class org.gradle.tooling.internal.provider.FailsafePhasedActionResultListenerTest	175
+>>> Test class org.gradle.tooling.internal.provider.ProviderConnectionTest	80
+>>> Test class org.gradle.launcher.daemon.client.ReportDaemonStatusClientTest	508
+>>> Test class org.gradle.tooling.internal.provider.serialization.DaemonSidePayloadClassLoaderFactoryTest	332
+>>> Test class org.gradle.launcher.daemon.registry.DaemonRegistryServicesTest	389
+>>> Test class org.gradle.launcher.bootstrap.EntryPointTest	387
+>>> Test class org.gradle.launcher.daemon.client.DaemonCancelForwarderTest	223
+>>> Test class org.gradle.launcher.daemon.registry.PersistentDaemonRegistryTest	346
+>>> Test class org.gradle.launcher.daemon.client.DaemonStartupMessageTest	107
+>>> Test class org.gradle.launcher.daemon.protocol.DaemonMessageSerializerTest	702
+>>> Test class org.gradle.launcher.daemon.bootstrap.DaemonStartupCommunicationSpec	56
+>>> Test class org.gradle.launcher.daemon.client.DaemonClientServicesTest	772
+>>> Test class org.gradle.launcher.daemon.registry.DaemonStopEventsTest	109
+>>> Test class org.gradle.launcher.daemon.configuration.DaemonJvmOptionsTest	148
+>>> Test class org.gradle.launcher.daemon.bootstrap.DaemonGreeterTest	325
+>>> Test class org.gradle.launcher.daemon.server.scaninfo.DefaultDaemonScanInfoSpec	1126
+>>> Test class org.gradle.launcher.daemon.server.DaemonRegistryUnavailableExpirationStrategyTest	215
+>>> Test class org.gradle.launcher.daemon.server.health.gc.GarbageCollectionStatsTest	42
+>>> Test class org.gradle.launcher.daemon.server.health.GcThrashingDaemonExpirationStrategyTest	60
+>>> Test class org.gradle.launcher.daemon.server.expiry.AllDaemonExpirationStrategyTest	65
+>>> Test class org.gradle.launcher.daemon.diagnostics.DaemonDiagnosticsTest	34
+>>> Test class org.gradle.launcher.cli.ReportDaemonStatusActionTest	92
+>>> Test class org.gradle.launcher.cli.converter.PropertiesToDaemonParametersConverterTest	179
+>>> Test class org.gradle.launcher.daemon.server.DefaultDaemonConnectionTest	2766
+>>> Test class org.gradle.launcher.daemon.server.health.LowMemoryDaemonExpirationStrategyTest	103
+>>> Test class org.gradle.launcher.daemon.server.health.gc.DefaultSlidingWindowTest	42
+>>> Test class org.gradle.launcher.daemon.server.health.HealthLoggerTest	131
+>>> Test class org.gradle.launcher.cli.RunBuildActionTest	733
+>>> Gradle Test Executor 3052	9156
+>>> Test class org.gradle.launcher.daemon.server.exec.LogAndCheckHealthTest	253
+>>> Test class org.gradle.launcher.continuous.ContinuousIntegrationTestFixtureTest	288
+>>> Test class org.gradle.launcher.cli.BuildActionSerializerTest	176
+>>> Test class org.gradle.launcher.cli.converter.DaemonCommandLineConverterTest	167
+>>> Test class org.gradle.launcher.cli.StopDaemonActionTest	97
+>>> Gradle Test Executor 3048	24631
+>>> Test class org.gradle.internal.event.ListenerBroadcastTest	2658
+>>> Test class org.gradle.internal.dispatch.MethodInvocationTest	237
+>>> Test class org.gradle.internal.dispatch.AsyncDispatchTest	1142
+>>> Test class org.gradle.internal.remote.internal.inet.MultiChoiceAddressTest	1118
+>>> Test class org.gradle.internal.remote.internal.hub.InterHubMessageSerializerTest	273
+>>> Test class org.gradle.internal.remote.internal.hub.protocol.ChannelIdentifierTest	5
+>>> Test class org.gradle.internal.remote.internal.hub.DefaultMethodArgsSerializerTest	206
+>>> Test class org.gradle.internal.serialize.StreamBackedCodecTest	957
+>>> Test class org.gradle.internal.serialize.BaseSerializerFactoryTest	227
+>>> Test class org.gradle.internal.serialize.kryo.KryoBackedCodecTest	316
+>>> Test class org.gradle.internal.stream.EncodedStreamTest	37
+>>> Gradle Test Executor 3055	7201
+>>> Test class org.gradle.internal.dispatch.ProxyDispatchAdapterTest	2616
+>>> Test class org.gradle.internal.dispatch.ContextClassLoaderDispatchTest	192
+>>> Test class org.gradle.internal.remote.internal.inet.MultiChoiceAddressSerializerTest	169
+>>> Test class org.gradle.internal.remote.internal.hub.MessageHubBackedClientTest	238
+>>> Test class org.gradle.internal.event.DefaultListenerManagerTest	12085
+>>> Test class org.gradle.internal.dispatch.FailureHandlingDispatchTest	45
+>>> Test class org.gradle.internal.remote.internal.inet.InetAddressesTest	640
+>>> Test class org.gradle.internal.remote.internal.inet.SocketInetAddressTest	75
+>>> Test class org.gradle.internal.remote.internal.hub.MessageHubBackedServerTest	173
+>>> Test class org.gradle.internal.remote.internal.hub.queue.MultiChannelQueueTest	1272
+>>> Test class org.gradle.internal.remote.internal.hub.MethodInvocationSerializerTest	1156
+>>> Test class org.gradle.internal.serialize.DefaultSerializerRegistryTest	240
+>>> Test class org.gradle.internal.serialize.SetSerializerTest	69
+>>> Test class org.gradle.internal.serialize.SerializersTest	60
+>>> Gradle Test Executor 3061	15846
+>>> Test class org.gradle.api.publish.maven.internal.artifact.MavenArtifactNotationParserFactoryTest	8591
+>>> Test class org.gradle.api.publish.maven.plugins.MavenPublishPluginTest	3333
+>>> Test class org.gradle.internal.instantiation.generator.AsmBackedClassGeneratorDecoratedTest	6097
+>>> Test class org.gradle.internal.instantiation.generator.DefaultInstantiatorFactoryTest	168
+>>> Test class org.gradle.internal.instantiation.generator.AsmBackedClassGeneratorInjectDecoratedTest	695
+>>> Test class org.gradle.internal.instantiation.generator.DependencyInjectionUsingLenientConstructorSelectorTest	2949
+>>> Test class org.gradle.internal.instantiation.generator.AsmBackedClassGeneratorInjectUndecoratedTest	2125
+>>> Test class org.gradle.internal.instantiation.generator.DependencyInjectionUsingClassGeneratorBackedInstantiatorTest	208
+>>> Test class org.gradle.internal.snapshot.impl.DefaultValueSnapshotterTest	3038
+>>> Test class org.gradle.internal.metaobject.MixInClosurePropertiesAsMethodsDynamicObjectTest	199
+>>> Test class org.gradle.internal.metaobject.BeanDynamicObjectTest	818
+>>> Test class org.gradle.internal.reflect.annotations.impl.DefaultTypeAnnotationMetadataStoreTest	636
+>>> Test class org.gradle.internal.reflect.ClassInspectorTest	105
+>>> Test class org.gradle.internal.reflect.JavaPropertyReflectionUtilTest	748
+>>> Test class org.gradle.internal.reflect.TypesTest	47
+>>> Test class org.gradle.internal.instantiation.generator.AsmBackedClassGeneratedManagedStateTest	7968
+>>> Test class org.gradle.internal.extensibility.ExtensionContainerTest	351
+>>> Test class org.gradle.internal.isolated.IsolationSchemeTest	132
+>>> Test class org.gradle.internal.instantiation.generator.ManagedTypeFactoryTest	171
+>>> Test class org.gradle.internal.extensibility.ExtensionsStorageTest	331
+>>> Test class org.gradle.internal.state.DefaultManagedFactoryRegistryTest	90
+>>> Test class org.gradle.internal.metaobject.AbstractDynamicObjectTest	47
+>>> Test class org.gradle.internal.reflect.MethodsTest	63
+>>> Test class org.gradle.internal.reflect.PropertyAccessorTypeTest	174
+>>> Test class org.gradle.internal.extensibility.DefaultConventionTest	292
+>>> Test class org.gradle.internal.extensibility.ExtraPropertiesDynamicObjectAdapterTest	40
+>>> Test class org.gradle.internal.extensibility.ExtensibleDynamicObjectTest	1050
+>>> Test class org.gradle.model.internal.registry.ModelGraphTest	484
+>>> Test class org.gradle.model.internal.typeregistration.BaseInstanceFactoryTest	505
+>>> Test class org.gradle.model.internal.registry.RuleBindingsTest	434
+>>> Test class org.gradle.model.internal.core.ModelPathTest	73
+>>> Test class org.gradle.model.internal.core.InstanceBackedModelRegistrationTest	50
+>>> Test class org.gradle.model.internal.inspect.FormattingValidationProblemCollectorTest	38
+>>> Test class org.gradle.internal.instantiation.generator.DefaultInstantiationSchemeTest	2827
+>>> Test class org.gradle.internal.instantiation.generator.DependencyInjectingInstantiatorTest	600
+>>> Test class org.gradle.model.internal.inspect.ModelRuleBindingTest	2309
+>>> Test class org.gradle.model.internal.registry.ScopedRuleTest	2792
+>>> Test class org.gradle.model.internal.core.ModelReferenceTest	99
+>>> Test class org.gradle.model.internal.core.UnmanagedModelProjectionTest	89
+>>> Test class org.gradle.model.internal.registry.DefaultModelRegistryTest	4732
+>>> Test class org.gradle.model.internal.manage.projection.ListModelProjectionTest	1447
+>>> Test class org.gradle.model.internal.registry.ModelNodeInternalTest	1418
+>>> Test class org.gradle.model.internal.core.ModelPathValidationTest	61
+>>> Test class org.gradle.model.internal.core.NamedEntityInstantiatorsTest	57
+>>> Test class org.gradle.model.internal.inspect.MutationRuleExecutionOrderTest	553
+>>> Test class org.gradle.model.internal.inspect.RuleDefinitionRuleExtractorTest	300
+>>> Test class org.gradle.model.internal.inspect.ManagedModelInitializerTest	3049
+>>> Test class org.gradle.model.internal.manage.projection.ModelSetModelProjectionTest	573
+>>> Test class org.gradle.model.internal.manage.schema.extract.RuleSourceSchemaExtractionStrategyTest	67
+>>> Test class org.gradle.model.internal.manage.schema.extract.UnmanagedImplStructStrategyTest	36
+>>> Test class org.gradle.model.internal.manage.schema.extract.SpecializedModelMapStrategyTest	42
+>>> Test class org.gradle.model.internal.report.unbound.UnboundRulesReporterTest	66
+>>> Test class org.gradle.internal.instantiation.generator.AsmBackedClassGeneratorTest	5494
+>>> Test class org.gradle.util.ConfigureUtilTest	167
+>>> Test class org.gradle.model.internal.inspect.ModelRuleSourceDetectorTest	716
+>>> Test class org.gradle.api.internal.provider.DefaultPropertyTest	529
+>>> Test class org.gradle.internal.snapshot.impl.SnapshotSerializerTest	676
+>>> Test class org.gradle.model.internal.manage.schema.extract.ScalarTypesInManagedModelTest	3159
+>>> Test class org.gradle.internal.metaobject.CompositeDynamicObjectTest	122
+>>> Test class org.gradle.internal.reflect.MethodDescriptionTest	31
+>>> Test class org.gradle.model.internal.manage.schema.extract.JavaUtilCollectionStrategyTest	58
+>>> Test class org.gradle.model.internal.manage.schema.extract.ModelSetStrategyTest	21
+>>> Test class org.gradle.api.internal.provider.DefaultValueSourceProviderFactoryTest	204
+>>> Test class org.gradle.api.internal.provider.MapPropertySpec	457
+>>> Test class org.gradle.api.internal.tasks.DefaultTaskDependencyTest	395
+>>> Gradle Test Executor 3056	21110
+>>> Test class org.gradle.model.internal.manage.binding.DefaultStructBindingsStoreTest	1326
+>>> Test class org.gradle.internal.extensibility.ConventionAwareHelperTest	2406
+>>> Test class org.gradle.model.internal.manage.schema.extract.DefaultModelSchemaExtractorTest	2562
+>>> Test class org.gradle.internal.extensibility.DefaultExtraPropertiesExtensionTest	190
+>>> Test class org.gradle.model.ManagedModelMapTypesTest	97
+>>> Test class org.gradle.api.internal.provider.TransformBackedProviderTest	340
+>>> Test class org.gradle.api.internal.provider.DefaultSetPropertyTest	995
+>>> Test class org.gradle.api.internal.provider.AbstractProviderTest	133
+>>> Test class org.gradle.api.internal.tasks.CachingTaskDependencyResolveContextTest	265
+>>> Gradle Test Executor 3058	21339
+>>> Test class org.gradle.model.UnmanagedNodeBackedModelMapTest	4284
+>>> Test class org.gradle.model.internal.manage.schema.extract.ManagedProxyClassGeneratorTest	6091
+>>> Test class org.gradle.model.internal.registry.UnboundRulesProcessorTest	177
+>>> Test class org.gradle.model.internal.manage.schema.extract.ModelMapStrategyTest	47
+>>> Test class org.gradle.model.internal.registry.ModelPathSuggestionProviderTest	31
+>>> Test class org.gradle.model.internal.manage.schema.extract.ManagedImplStructStrategyTest	44
+>>> Test class org.gradle.model.internal.core.rule.describe.MethodModelRuleDescriptorTest	35
+>>> Test class org.gradle.model.internal.manage.schema.extract.DefaultModelSchemaStoreTest	1875
+>>> Test class org.gradle.model.internal.inspect.ModelRuleExtractorTest	2220
+>>> Test class org.gradle.model.internal.inspect.ClassModelRuleSourceValidationTest	229
+>>> Test class org.gradle.model.internal.type.ModelTypesTest	29
+>>> Test class org.gradle.launcher.daemon.client.InputForwarderTest	44415
+>>> Test class org.gradle.launcher.daemon.client.ReportStatusDispatcherTest	69
+>>> Test class org.gradle.model.dsl.internal.NonTransformedModelDslBackingTest	7255
+>>> Gradle Test Executor 3065	7278
+>>> Test class org.gradle.api.publication.maven.internal.DefaultArtifactPomTest	322
+>>> Test class org.gradle.api.publication.maven.internal.wagon.RepositoryTransportWagonAdapterTest	1308
+>>> Test class org.gradle.api.publication.maven.internal.pom.DefaultMavenPomFactoryTest	71
+>>> Test class org.gradle.api.publication.maven.internal.pom.DefaultConf2ScopeMappingContainerTest	124
+>>> Gradle Test Executor 3062	13786
+>>> Test class org.gradle.internal.remote.internal.hub.MessageHubTest	7096
+>>> Test class org.gradle.internal.remote.internal.hub.queue.QueueInitializerTest	79
+>>> Test class org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnectionTest	231
+>>> Test class org.gradle.internal.serialize.DefaultSerializerTest	940
+>>> Test class org.gradle.internal.serialize.MessageTest	2196
+>>> Test class org.gradle.internal.event.BroadcastDispatchTest	2658
+>>> Test class org.gradle.internal.dispatch.ExceptionTrackingFailureHandlerTest	155
+>>> Test class org.gradle.internal.actor.internal.DefaultActorFactorySpec	4930
+>>> Gradle Test Executor 3064	18709
+>>> Test class org.gradle.model.internal.manage.projection.SetModelProjectionTest	558
+>>> Test class org.gradle.model.internal.manage.schema.extract.ManagedCollectionProxyClassGeneratorTest	102
+>>> Test class org.gradle.model.internal.manage.schema.extract.PrimitiveTypesTest	51
+>>> Test class org.gradle.model.internal.manage.schema.extract.ModelSchemaUtilsTest	162
+>>> Test class org.gradle.model.ManagedNamedTest	163
+>>> Test class org.gradle.api.internal.plugins.DslObjectTest	40
+>>> Test class org.gradle.api.internal.provider.sources.SystemPropertyValueSourceTest	81
+>>> Test class org.gradle.api.internal.provider.ProvidersTest	134
+>>> Test class org.gradle.api.internal.provider.DefaultProviderFactoryTest	130
+>>> Gradle Test Executor 3063	20815
+>>> Test class org.gradle.model.ManagedNodeBackedModelMapTest	3120
+>>> Test class org.gradle.api.internal.model.NamedObjectInstantiatorTest	544
+>>> Test class org.gradle.api.internal.provider.sources.EnvironmentVariableValueSourceTest	322
+>>> Test class org.gradle.api.internal.provider.DefaultListPropertyTest	796
+>>> Test class org.gradle.api.internal.provider.DefaultProviderTest	75
+>>> Gradle Test Executor 3060	29805
+>>> Test class org.gradle.internal.remote.internal.inet.TcpConnectorTest	2965
+>>> Test class org.gradle.internal.remote.internal.inet.InetAddressFactoryTest	1081
+>>> Test class org.gradle.internal.remote.internal.hub.ConnectionSetTest	135
+>>> Test class org.gradle.internal.remote.internal.hub.queue.MultiEndPointQueueTest	243
+>>> Test class org.gradle.internal.remote.internal.hub.JavaSerializationBackedMethodArgsSerializerTest	85
+>>> Test class org.gradle.internal.serialize.ListSerializerTest	58
+>>> Test class org.gradle.internal.serialize.MapSerializerTest	67
+>>> Test class org.gradle.internal.serialize.PlaceholderExceptionTest	59
+>>> Gradle Test Executor 3068	7536
+>>> Test class org.gradle.launcher.daemon.client.DefaultDaemonConnectorTest	978
+>>> Test class org.gradle.launcher.daemon.registry.EmbeddedDaemonRegistrySpec	90
+>>> Test class org.gradle.launcher.daemon.configuration.DaemonParametersTest	468
+>>> Test class org.gradle.launcher.daemon.protocol.DaemonStatusAndErrorReportingTest	24
+>>> Test class org.gradle.launcher.daemon.bootstrap.DaemonOutputConsumerTest	342
+>>> Test class org.gradle.launcher.daemon.server.CompatibleDaemonExpirationStrategyTest	337
+>>> Test class org.gradle.launcher.daemon.server.health.DaemonMemoryStatusTest	319
+>>> Test class org.gradle.launcher.daemon.server.health.gc.GarbageCollectionMonitorTest	70
+>>> Test class org.gradle.launcher.daemon.server.health.LowNonHeapDaemonExpirationStrategyTest	109
+>>> Test class org.gradle.launcher.daemon.server.DaemonIdleTimeoutExpirationStrategyTest	87
+>>> Test class org.gradle.launcher.cli.DefaultCommandLineActionFactoryTest	958
+>>> Test class org.gradle.internal.nativeintegration.jansi.JansiLibraryFactoryTest	2389
+>>> Test class org.gradle.internal.nativeintegration.console.NativePlatformConsoleDetectorTest	628
+>>> Test class org.gradle.internal.nativeintegration.filesystem.services.Jdk7FileMetadataAccessorTest	472
+>>> Test class org.gradle.internal.nativeintegration.filesystem.WindowsFileSystemTest	28
+>>> Test class org.gradle.internal.nativeintegration.filesystem.jdk7.PosixFilePermissionConverterTest	126
+>>> Gradle Test Executor 3066	3677
+>>> Test class org.gradle.internal.nativeintegration.services.NativeServicesTest	2421
+>>> Test class org.gradle.internal.nativeintegration.filesystem.MacOsFileSystemTest	228
+>>> Test class org.gradle.internal.nativeintegration.filesystem.services.FallbackFileMetadataAccessorTest	421
+>>> Test class org.gradle.internal.nativeintegration.filesystem.jdk7.PosixJdk7FilePermissionHandlerTest	100
+>>> Gradle Test Executor 3069	3197
+>>> Test class org.gradle.cache.internal.DefaultProcessMetaDataProviderTest	2260
+>>> Test class org.gradle.cache.internal.CompositeCleanupActionTest	2825
+>>> Test class org.gradle.launcher.cli.WelcomeMessageActionTest	493
+>>> Test class org.gradle.launcher.cli.converter.LayoutToPropertiesConverterTest	216
+>>> Gradle Test Executor 3047	57627
+>>> Test class org.gradle.tooling.internal.provider.PhasedActionEventConsumerTest	4234
+>>> Test class org.gradle.tooling.internal.provider.ContinuousBuildActionExecuterTest	1379
+>>> Test class org.gradle.tooling.internal.provider.SubscribableBuildActionExecuterSpec	244
+>>> Test class org.gradle.tooling.internal.provider.serialization.PayloadSerializerTest	1515
+>>> Test class org.gradle.launcher.exec.DefaultBuildActionParametersTest	95
+>>> Test class org.gradle.launcher.daemon.client.DaemonClientConnectionTest	139
+>>> Test class org.gradle.launcher.daemon.client.DaemonStopClientTest	437
+>>> Test class org.gradle.launcher.daemon.client.StopDispatcherTest	42
+>>> Test class org.gradle.launcher.daemon.registry.DaemonRegistryUpdaterTest	110
+>>> Test class org.gradle.launcher.daemon.configuration.BuildProcessTest	697
+>>> Test class org.gradle.launcher.daemon.context.DaemonCompatibilitySpecSpec	410
+>>> Test class org.gradle.launcher.daemon.server.NotMostRecentlyUsedDaemonExpirationStrategyTest	293
+>>> Test class org.gradle.internal.nativeintegration.services.NativeServicesInitializationTest	2661
+>>> Test class org.gradle.internal.nativeintegration.filesystem.CommonFileSystemTest	1046
+>>> Test class org.gradle.internal.nativeintegration.filesystem.services.UnsupportedFilePermissionsTest	308
+>>> Test class org.gradle.internal.nativeintegration.filesystem.jdk7.Jdk7SymlinkTest	268
+>>> Gradle Test Executor 3071	4307
+>>> Test class org.gradle.internal.nativeintegration.jansi.JansiStorageLocatorTest	3846
+>>> Test class org.gradle.internal.nativeintegration.processenvironment.ProcessEnvironmentTest	662
+>>> Test class org.gradle.internal.nativeintegration.filesystem.services.GenericFileSystemTest	219
+>>> Test class org.gradle.internal.nativeintegration.filesystem.LinuxFileSystemTest	103
+>>> Gradle Test Executor 3077	4866
+>>> Test class org.gradle.api.plugins.MavenPluginTest	9666
+>>> Test class org.gradle.api.artifacts.maven.Conf2ScopeMappingTest	2424
+>>> Test class org.gradle.api.publish.maven.internal.publication.DefaultMavenPublicationTest	1429
+>>> Test class org.gradle.api.publication.maven.internal.DefaultMavenRepositoryHandlerConventionTest	3150
+>>> Test class org.gradle.api.publication.maven.internal.BasePomFilterContainerTest	98
+>>> Test class org.gradle.api.publication.maven.internal.pom.DefaultExcludeRuleConverterTest	26
+>>> Test class org.gradle.api.publication.maven.internal.pom.DefaultGroovyPomFilterContainerTest	56
+>>> Test class org.gradle.api.publication.maven.internal.MavenVersionRangeMapperTest	11
+>>> Gradle Test Executor 3067	14467
+>>> Test class org.gradle.api.publish.maven.internal.tasks.MavenPomFileGeneratorTest	4979
+>>> Test class org.gradle.api.publication.maven.internal.deployer.DefaultGroovyMavenDeployerTest	480
+>>> Test class org.gradle.api.publication.maven.internal.wagon.RepositoryTransportDeployWagonTest	2570
+>>> Test class org.gradle.api.publication.maven.internal.pom.DefaultMavenPomTest	531
+>>> Test class org.gradle.api.publication.maven.internal.pom.ProjectDependencyArtifactIdExtractorHackTest	3958
+>>> Gradle Test Executor 3072	14978
+>>> Test class org.gradle.cache.internal.SimpleStateCacheTest	2019
+>>> Test class org.gradle.cache.internal.DefaultPersistentDirectoryCacheTest	5734
+>>> Test class org.gradle.cache.internal.LockOnDemandCrossProcessCacheAccessTest	1070
+>>> Test class org.gradle.cache.internal.UnusedVersionsCacheCleanupTest	201
+>>> Test class org.gradle.cache.internal.DefaultCacheKeyBuilderTest	1256
+>>> Test class org.gradle.cache.internal.btree.ByteInputTest	65
+>>> Test class org.gradle.cache.internal.btree.ByteOutputTest	59
+>>> Test class org.gradle.cache.internal.LeastRecentlyUsedCacheCleanupTest	168
+>>> Test class org.gradle.cache.internal.CacheAccessWorkerTest	6156
+>>> Test class org.gradle.cache.internal.DefaultFileLockManagerWithCrossVersionProtocolTest	1374
+>>> Test class org.gradle.cache.internal.InMemoryCacheDecoratorFactoryTest	405
+>>> Test class org.gradle.cache.internal.btree.BTreePersistentIndexedCacheTest	5756
+>>> Test class org.gradle.cache.internal.CacheVersionTest	75
+>>> Test class org.gradle.cache.internal.DefaultCacheFactoryTest	372
+>>> Test class org.gradle.cache.internal.AbstractCacheCleanupTest	159
+>>> Test class org.gradle.cache.internal.FixedSharedModeCrossProcessCacheAccessTest	115
+>>> Gradle Test Executor 3074	19277
+>>> Test class org.gradle.platform.base.internal.ToolSearchBuildAbilityTest	2371
+>>> Test class org.gradle.platform.base.internal.registry.BinaryTypeModelRuleExtractorTest	8949
+>>> Test class org.gradle.platform.base.internal.BuildableComponentSpecTest	217
+>>> Test class org.gradle.platform.base.plugins.ComponentBasePluginTest	814
+>>> Test class org.gradle.language.base.sources.BaseLanguageSourceSetTest	151
+>>> Test class org.gradle.language.base.plugins.LanguageBasePluginTest	542
+>>> Gradle Test Executor 3076	13075
+>>> Test class org.gradle.platform.base.internal.DefaultDependencySpecContainerTest	2862
+>>> Test class org.gradle.platform.base.internal.DefaultComponentSpecIdentifierTest	107
+>>> Test class org.gradle.platform.base.binary.BaseBinarySpecTest	6382
+>>> Test class org.gradle.model.internal.core.DomainObjectCollectionBackedModelMapTest	194
+>>> Test class org.gradle.language.base.internal.tasks.StaleOutputCleanerTest	186
+>>> Gradle Test Executor 3081	9747
+>>> Test class org.gradle.jvm.internal.resolve.DefaultVariantsMetaDataTest	7358
+>>> Test class org.gradle.jvm.internal.resolve.DefaultJavaPlatformVariantAxisCompatibilityTest	145
+>>> Test class org.gradle.jvm.internal.DefaultJarBinarySpecTest	5670
+>>> Test class org.gradle.jvm.toolchain.internal.JavaInstallationProbeTest	693
+>>> Test class org.gradle.jvm.internal.resolve.JvmLocalLibraryDependencyResolverTest	8606
+>>> Test class org.gradle.jvm.internal.resolve.JvmLibraryResolveContextTest	95
+>>> Test class org.gradle.jvm.internal.DefaultJvmLibrarySpecTest	3681
+>>> Test class org.gradle.jvm.tasks.api.internal.ApiClassExtractorAnnotationsTest	10613
+>>> Test class org.gradle.api.java.archives.internal.DefaultAttributesTest	90
+>>> Gradle Test Executor 3075	24602
+>>> Test class org.gradle.jvm.tasks.JarTest	4721
+>>> Test class org.gradle.launcher.daemon.server.DaemonStateCoordinatorTest	16769
+>>> Test class org.gradle.launcher.daemon.server.health.LowHeapSpaceDaemonExpirationStrategyTest	107
+>>> Test class org.gradle.launcher.daemon.server.health.DaemonHealthStatsTest	301
+>>> Test class org.gradle.launcher.daemon.server.expiry.AnyDaemonExpirationStrategyTest	104
+>>> Test class org.gradle.launcher.daemon.server.DaemonServicesTest	4987
+>>> Test class org.gradle.launcher.cli.BuildActionsFactoryTest	1567
+>>> Test class org.gradle.launcher.cli.converter.PropertiesToStartParameterConverterTest	146
+>>> Test class org.gradle.launcher.cli.ExceptionReportingActionTest	86
+>>> Gradle Test Executor 3070	33709
+>>> Test class org.gradle.nativeplatform.internal.configure.CreateDefaultBuildTypesTest	2049
+>>> Test class org.gradle.nativeplatform.internal.DefaultNativeComponentTest	5804
+>>> Test class org.gradle.nativeplatform.internal.resolve.NativeDependencyNotationParserTest	131
+>>> Test class org.gradle.nativeplatform.internal.NativeBinarySpecTest	1382
+>>> Test class org.gradle.nativeplatform.internal.prebuilt.DefaultPrebuiltStaticLibraryBinaryTest	2109
+>>> Test class org.gradle.nativeplatform.internal.DefaultNativeExecutableSpecTest	62
+>>> Test class org.gradle.nativeplatform.platform.internal.ArchitecturesTest	22
+>>> Test class org.gradle.nativeplatform.platform.internal.DefaultNativePlatformTest	82
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.metadata.GccMetadataProviderTest	390
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.GccToolChainTest	656
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.ObjectiveCppPCHCompilerTest	668
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.GccCompilerArgsTransformerTest	58
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.GccOptionsFileArgsWriterTest	63
+>>> Test class org.gradle.nativeplatform.toolchain.internal.swift.metadata.SwiftcMetadataProviderTest	51
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.VisualCppToolChainTest	690
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.CCompilerTest	238
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.AssemblerTest	239
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.version.DefaultVisualCppMetadataProviderTest	156
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.version.CommandLineToolVersionLocatorTest	387
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.WindowsResourceCompilerTest	168
+>>> Test class org.gradle.nativeplatform.toolchain.plugins.ClangCompilerPluginTest	1233
+>>> Gradle Test Executor 3078	16670
+>>> Test class org.gradle.nativeplatform.internal.configure.NativeComponentRulesTest	4478
+>>> Test class org.gradle.nativeplatform.internal.resolve.CachingLibraryBinaryLocatorTest	2510
+>>> Test class org.gradle.plugin.devel.plugins.JavaGradlePluginPluginTest	12424
+>>> Gradle Test Executor 3082	12441
+>>> Test class org.gradle.platform.base.internal.DefaultBinaryNamingSchemeTest	2554
+>>> Test class org.gradle.org.gradle.language.javascript.internal.DefaultJavaScriptSourceSetTest	4608
+>>> Test class org.gradle.play.internal.routes.RoutesCompilerAdapterFactoryTest	116
+>>> Test class org.gradle.play.internal.toolchain.DefaultPlayToolProviderTest	2261
+>>> Test class org.gradle.play.plugins.PlayTestPluginTest	265
+>>> Gradle Test Executor 3080	7262
+>>> Test class org.gradle.play.internal.PlayPlatformResolverTest	2808
+>>> Test class org.gradle.play.internal.javascript.JavaScriptCompileDestinationCalculatorTest	69
+>>> Test class org.gradle.play.internal.DefaultPlayApplicationBinarySpecTest	8729
+>>> Test class org.gradle.play.integtest.fixtures.RunningPlayAppTest	2646
+>>> Test class org.gradle.play.internal.run.PlayApplicationDeploymentHandleTest	1613
+>>> Test class org.gradle.play.internal.DefaultPlayToolChainTest	2249
+>>> Test class org.gradle.play.plugins.PlayDistributionPluginRenameArtifactFilesTest	285
+>>> Gradle Test Executor 3083	11293
+>>> Test class org.gradle.play.internal.toolchain.DaemonPlayCompilerTest	1401
+>>> Test class org.gradle.play.plugins.PlayDistributionPluginTest	7939
+>>> Test class org.gradle.platform.base.internal.registry.ComponentBinariesModelRuleExtractorTest	6348
+>>> Test class org.gradle.platform.base.internal.DefaultBinaryTasksCollectionTest	3484
+>>> Test class org.gradle.jvm.tasks.api.internal.ApiClassExtractorInnerClassTest	14148
+>>> Test class org.gradle.api.java.archives.internal.DefaultManifestMergeSpecTest	193
+>>> Gradle Test Executor 3079	31466
+>>> Test class org.gradle.play.tasks.PlayRunTest	3338
+>>> Gradle Test Executor 3085	14186
+>>> Test class org.gradle.play.tasks.TwirlCompileTest	5156
+>>> Gradle Test Executor 3087	10841
+>>> Test class org.gradle.cache.internal.cacheops.CacheAccessOperationsStackTest	33928
+>>> Test class org.gradle.cache.internal.locklistener.FileLockPacketPayloadTest	204
+>>> Test class org.gradle.cache.internal.InMemoryDecoratedCacheTest	998
+>>> Gradle Test Executor 3073	45971
+>>> Test class org.gradle.cache.internal.DefaultFileLockManagerAwaitableFileLockReleasedSignalTest	2827
+>>> Test class org.gradle.cache.internal.DefaultCacheRepositoryTest	577
+>>> Test class org.gradle.cache.internal.OnDemandFileAccessTest	418
+>>> Test class org.gradle.cache.internal.MapBackedCacheTest	116
+>>> Test class org.gradle.cache.internal.MultiProcessSafePersistentIndexedCacheTest	1505
+>>> Test class org.gradle.cache.internal.btree.KeyHasherTest	433
+>>> Test class org.gradle.cache.internal.CacheVersionMappingTest	244
+>>> Test class org.gradle.cache.internal.NonReservedFileFilterTest	58
+>>> Test class org.gradle.cache.internal.filelock.LockOptionsBuilderTest	27
+>>> Test class org.gradle.cache.internal.locklistener.FileLockCommunicatorTest	524
+>>> Test class org.gradle.cache.internal.DefaultPersistentDirectoryStoreConcurrencyTest	4147
+>>> Gradle Test Executor 3090	10902
+>>> Test class org.gradle.plugin.use.resolve.internal.ArtifactRepositoriesPluginResolverTest	3545
+>>> Gradle Test Executor 3091	3569
+>>> Test class org.gradle.plugin.use.resolve.internal.CorePluginResolverTest	3364
+>>> Gradle Test Executor 3096	3392
+>>> Test class org.gradle.platform.base.plugins.BinaryBasePluginTest	3277
+>>> Test class org.gradle.language.base.internal.registry.LanguageTypeModelRuleExtractorTest	439
+>>> Test class org.gradle.language.base.plugins.LifecycleBasePluginTest	493
+>>> Gradle Test Executor 3086	16636
+>>> Test class org.gradle.platform.base.internal.FixedBuildAbilityTest	2832
+>>> Test class org.gradle.platform.base.internal.registry.BinaryTasksModelRuleExtractorTest	6565
+>>> Test class org.gradle.platform.base.internal.toolchain.ToolChainAvailabilityTest	62
+>>> Test class org.gradle.platform.base.component.BaseComponentSpecTest	2233
+>>> Test class org.gradle.language.base.internal.ComponentTypeModelRuleExtractorTest	2760
+>>> Test class org.gradle.nativeplatform.internal.DefaultNativeExecutableBinarySpecTest	4719
+>>> Test class org.gradle.nativeplatform.internal.DefaultSharedLibraryBinarySpecTest	1355
+>>> Test class org.gradle.nativeplatform.internal.DefaultStaticLibraryBinarySpecTest	419
+>>> Test class org.gradle.nativeplatform.plugins.NativeComponentModelPluginTest	2287
+>>> Test class org.gradle.nativeplatform.platform.internal.DefaultArchitectureTest	24
+>>> Test class org.gradle.nativeplatform.toolchain.internal.OutputCleaningCompilerTest	209
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.CCompilerTest	425
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.ObjectiveCppCompilerTest	220
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.ObjectiveCCompilerTest	192
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.GccPlatformToolProviderTest	411
+>>> Test class org.gradle.nativeplatform.toolchain.internal.tools.ToolSearchPathTest	287
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.DefaultUcrtLocatorTest	303
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.CppCompilerTest	192
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.LegacyWindowsSdkLocatorTest	155
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.VisualCppOptionsFileArgsWriterTest	19
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.version.VswhereSpec	7
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.LinkExeLinkerTest	75
+>>> Test class org.gradle.nativeplatform.toolchain.internal.UnavailableNativePlatformToolProviderTest	28
+>>> Test class org.gradle.nativeplatform.tasks.LinkSharedLibraryTest	314
+>>> Gradle Test Executor 3084	18665
+>>> Test class org.gradle.nativeplatform.internal.configure.NativeBinaryRulesTest	4277
+>>> Test class org.gradle.nativeplatform.internal.modulemap.GenerateModuleMapFileTest	214
+>>> Test class org.gradle.nativeplatform.internal.DefaultTargetMachineFactoryTest	2786
+>>> Test class org.gradle.nativeplatform.internal.DefaultFlavorTest	24
+>>> Test class org.gradle.nativeplatform.internal.prebuilt.DefaultPrebuiltLibraryTest	339
+>>> Test class org.gradle.nativeplatform.internal.CompilerOutputFileNamingSchemeTest	87
+>>> Test class org.gradle.nativeplatform.platform.internal.DefaultOperatingSystemTest	51
+>>> Test class org.gradle.nativeplatform.toolchain.internal.UnavailablePlatformToolProviderTest	101
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.CPCHCompilerTest	436
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.ClangToolChainTest	1976
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.AbstractGccCompatibleToolChainTest	993
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.CppPCHCompilerTest	280
+>>> Test class org.gradle.nativeplatform.toolchain.internal.DefaultCommandLineToolInvocationWorkerTest	684
+>>> Test class org.gradle.nativeplatform.toolchain.internal.swift.SwiftLinkerTest	361
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.CPCHCompilerTest	307
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.VisualCppCompilerArgsTransformerTest	102
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.CppPCHCompilerTest	211
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.version.SystemPathVersionLocatorTest	184
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.version.DefaultVswhereVersionLocatorTest	159
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.WindowsKitWindowsSdkLocatorTest	656
+>>> Test class org.gradle.language.base.plugins.ComponentModelBasePluginTest	2744
+>>> Gradle Test Executor 3094	17223
+>>> Test class org.gradle.cache.internal.DefaultCacheAccessTest	6658
+>>> Test class org.gradle.cache.internal.DefaultPersistentDirectoryStoreTest	344
+>>> Test class org.gradle.cache.internal.DefaultCleanupProgressMonitorTest	48
+>>> Test class org.gradle.cache.internal.FixedExclusiveModeCrossProcessCacheAccessTest	150
+>>> Test class org.gradle.cache.internal.LoggingEvictionListenerTest	475
+>>> Test class org.gradle.cache.internal.btree.BlockPointerTest	59
+>>> Test class org.gradle.jvm.internal.resolve.VariantsMatcherTest	20325
+>>> Test class org.gradle.jvm.internal.plugins.CreateJvmBinariesTest	5408
+>>> Test class org.gradle.jvm.platform.internal.DefaultJavaPlatformTest	30
+>>> Test class org.gradle.jvm.tasks.api.internal.ApiClassExtractorTestSupport	11
+>>> Test class org.gradle.api.internal.plugins.StartScriptGeneratorTest	2915
+>>> Test class org.gradle.api.internal.plugins.DefaultArtifactPublicationSetTest	619
+>>> Test class org.gradle.api.internal.jvm.ClassDirectoryBinaryNamingSchemeTest	66
+>>> Test class org.gradle.api.internal.plugins.GroovyJarFileTest	2350
+>>> Test class org.gradle.api.internal.java.DefaultJvmResourceSetTest	332
+>>> Test class org.gradle.api.internal.plugins.UnixStartScriptGeneratorTest	5105
+>>> Test class org.gradle.api.plugins.JavaLibraryDistributionPluginTest	7125
+>>> Test class org.gradle.api.plugins.GroovyBasePluginTest	1898
+>>> Test class org.gradle.api.internal.tasks.DefaultSourceSetTest	3892
+>>> Test class org.gradle.api.internal.jvm.DefaultClassDirectoryBinarySpecTest	3415
+>>> Test class org.gradle.api.internal.tasks.DefaultSourceSetContainerTest	558
+>>> Test class org.gradle.api.plugins.BasePluginTest	1718
+>>> Test class org.gradle.api.distribution.plugins.DistributionPluginTest	851
+>>> Test class org.gradle.api.tasks.testing.TestReportTest	360
+>>> Test class org.gradle.api.tasks.application.CreateStartScriptsTest	189
+>>> Gradle Test Executor 3089	15777
+>>> Test class org.gradle.api.plugins.JavaPlatformPluginTest	5299
+>>> Test class org.gradle.api.plugins.GroovyPluginTest	6563
+>>> Test class org.gradle.api.plugins.DefaultBasePluginConventionTest	191
+>>> Test class org.gradle.api.plugins.JavaLibraryPluginTest	2775
+>>> Test class org.gradle.api.plugins.JavaBasePluginTest	6488
+>>> Test class org.gradle.api.tasks.testing.TestTaskSpec	3407
+>>> Test class org.gradle.api.tasks.UploadTest	254
+>>> Gradle Test Executor 3093	19792
+>>> Test class org.gradle.nativeplatform.internal.configure.CreateDefaultFlavorsTest	6152
+>>> Test class org.gradle.nativeplatform.internal.resolve.ProjectLibraryBinaryLocatorTest	1144
+>>> Test class org.gradle.nativeplatform.internal.DefaultBuildTypeTest	26
+>>> Test class org.gradle.nativeplatform.toolchain.plugins.MicrosoftVisualCppCompilerPluginTest	5235
+>>> Gradle Test Executor 3095	19505
+>>> Test class org.gradle.nativeplatform.internal.DefaultNativeLibrarySpecTest	3784
+>>> Test class org.gradle.nativeplatform.internal.prebuilt.DefaultPrebuiltSharedLibraryBinaryTest	1638
+>>> Test class org.gradle.nativeplatform.plugins.NativeComponentPluginTest	2643
+>>> Test class org.gradle.nativeplatform.platform.internal.ReadelfBinaryInfoTest	278
+>>> Test class org.gradle.cache.internal.ProducerGuardTest	9669
+>>> Test class org.gradle.cache.internal.DefaultFileLockManagerWithNewProtocolTest	1091
+>>> Test class org.gradle.process.internal.health.memory.MemInfoOsMemoryInfoTest	2371
+>>> Test class org.gradle.process.internal.health.memory.MaximumHeapHelperTest	169
+>>> Gradle Test Executor 3100	2568
+>>> Test class org.gradle.process.internal.health.memory.DefaultOsMemoryInfoTest	2807
+>>> Gradle Test Executor 3101	2827
+>>> Test class org.gradle.process.internal.health.memory.MemoryAmountTest	2095
+>>> Gradle Test Executor 3103	2117
+>>> Test class org.gradle.process.internal.health.memory.DefaultMemoryManagerTest	3732
+>>> Gradle Test Executor 3107	3760
+>>> Test class org.gradle.jvm.internal.resolve.VariantsMetaDataHelperTest	9776
+>>> Test class org.gradle.jvm.internal.JvmPackageNameTest	167
+>>> Test class org.gradle.jvm.toolchain.internal.DefaultJavaInstallationRegistryTest	2491
+>>> Test class org.gradle.jvm.tasks.api.internal.ApiClassExtractorTestSupportTest	8620
+>>> Gradle Test Executor 3088	34460
+>>> Test class org.gradle.nativeplatform.toolchain.internal.metadata.CompilerMetaDataProviderFactoryTest	306
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.CppCompilerTest	547
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.GccLinkerTest	239
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.AssemblerTest	229
+>>> Test class org.gradle.nativeplatform.toolchain.internal.gcc.ObjectiveCPCHCompilerTest	231
+>>> Test class org.gradle.nativeplatform.toolchain.internal.PCHUtilsTest	283
+>>> Test class org.gradle.nativeplatform.toolchain.internal.swift.SwiftDepsHandlerTest	759
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.DefaultWindowsSdkLocatorTest	265
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.DefaultVisualStudioLocatorTest	972
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.VisualCppPlatformToolProviderTest	351
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.version.WindowsRegistryVersionLocatorTest	230
+>>> Test class org.gradle.nativeplatform.toolchain.internal.msvcpp.version.VisualStudioVersionDeterminerTest	219
+>>> Test class org.gradle.nativeplatform.toolchain.internal.DefaultNativeToolChainRegistryTest	432
+>>> Test class org.gradle.nativeplatform.toolchain.plugins.GccCompilerPluginTest	573
+>>> Gradle Test Executor 3099	21340
+>>> Test class org.gradle.cache.internal.DefaultFileLockManagerContentionTest	4485
+>>> Test class org.gradle.api.plugins.JavaPluginTest	1795
+>>> Test class org.gradle.api.tasks.testing.testng.TestNGOptionsTest	48
+>>> Test class org.gradle.api.tasks.bundling.WarTest	2628
+>>> Gradle Test Executor 3092	25368
+>>> Test class org.gradle.api.internal.plugins.WindowsStartScriptGeneratorTest	4331
+>>> Test class org.gradle.api.internal.java.DefaultJavaSourceSetTest	283
+>>> Test class org.gradle.api.internal.tasks.DefaultGroovySourceSetTest	2365
+>>> Test class org.gradle.cache.internal.locklistener.DefaultFileLockContentionHandlerTest	998
+>>> Test class org.gradle.cache.internal.SingleDepthFilesFinderTest	103
+>>> Gradle Test Executor 3097	24105
+>>> Test class org.gradle.api.publish.internal.DefaultPublicationContainerTest	4018
+>>> Gradle Test Executor 3102	4046
+>>> Test class org.gradle.api.publish.plugins.PublishingPluginTest	7320
+>>> Gradle Test Executor 3105	7348
+>>> Test class org.gradle.api.publish.internal.ModuleMetadataFileGeneratorTest	7493
+>>> Gradle Test Executor 3106	7545
+>>> Test class org.gradle.api.plugins.ReportingBasePluginTest	6720
+>>> Test class org.gradle.api.reporting.internal.TaskGeneratedSingleDirectoryReportTest	702
+>>> Gradle Test Executor 3108	7439
+>>> Test class org.gradle.api.reporting.internal.TaskReportContainerTest	7548
+>>> Test class org.gradle.api.reporting.internal.TaskGeneratedSingleFileReportTest	909
+>>> Gradle Test Executor 3109	8478
+>>> Test class org.gradle.api.plugins.DefaultJavaPluginConventionTest	2416
+>>> Test class org.gradle.api.plugins.ApplicationPluginTest	3953
+>>> Test class org.gradle.api.plugins.WarPluginTest	1638
+>>> Test class org.gradle.api.tasks.GroovyRuntimeTest	810
+>>> Test class org.gradle.api.tasks.testing.TestTest	2361
+>>> Gradle Test Executor 3104	18189
+>>> Test class org.gradle.internal.resource.metadata.ExternalResourceMetaDataCompareTest	2410
+>>> Test class org.gradle.internal.resource.local.ModificationTimeFileAccessTimeJournalTest	574
+>>> Test class org.gradle.internal.resource.CachingTextResourceTest	173
+>>> Test class org.gradle.internal.resource.BuildOperationFiringExternalResourceDecoratorTest	2229
+>>> Gradle Test Executor 3110	5407
+>>> Test class org.gradle.internal.resource.metadata.DefaultExternalResourceMetaDataTest	2202
+>>> Test class org.gradle.internal.resource.local.SingleDepthFileAccessTrackerTest	703
+>>> Test class org.gradle.internal.resource.StringTextResourceTest	70
+>>> Test class org.gradle.internal.resource.DownloadedUriTextResourceTest	390
+>>> Gradle Test Executor 3114	3399
+>>> Test class org.gradle.jvm.tasks.api.internal.ApiClassExtractorTest	21867
+>>> Test class org.gradle.api.java.archives.internal.DefaultManifestTest	401
+>>> Gradle Test Executor 3098	34742
+>>> Test class org.gradle.internal.resource.local.DefaultLocallyAvailableResourceTest	2945
+>>> Test class org.gradle.internal.resource.ExternalResourceNameTest	776
+>>> Test class org.gradle.internal.resource.transfer.AccessorBackedExternalResourceTest	557
+>>> Gradle Test Executor 3116	4314
+>>> Test class org.gradle.internal.resource.transport.gcp.gcs.GcsResourceTest	3829
+>>> Test class org.gradle.internal.resource.transport.gcp.gcs.GcsResourceConnectorTest	4340
+>>> Gradle Test Executor 3112	4373
+>>> Test class org.gradle.internal.resource.transport.gcp.gcs.GcsClientTest	3728
+>>> Gradle Test Executor 3111	7578
+>>> Test class org.gradle.internal.resource.transport.gcp.gcs.GcsConnectionPropertiesTest	2747
+>>> Test class org.gradle.internal.resource.transport.gcp.gcs.ResourceMapperTest	375
+>>> Gradle Test Executor 3119	3153
+>>> Test class org.gradle.internal.resource.transport.gcp.gcs.RetryHttpInitializerWrapperTest	5140
+>>> Gradle Test Executor 3121	5161
+>>> Test class org.gradle.api.reporting.internal.DefaultReportContainerTest	4413
+>>> Test class org.gradle.api.reporting.internal.BuildDashboardGeneratorSpec	3344
+>>> Test class org.gradle.internal.resource.transport.http.HttpClientHelperTest	5527
+>>> Test class org.gradle.internal.resource.transport.http.ntlm.NTLMCredentialsTest	211
+>>> Test class org.gradle.internal.resource.transport.http.JavaSystemPropertiesSecureHttpProxySettingsTest	81
+>>> Test class org.gradle.internal.resource.transport.http.HttpHeaderAuthSchemeTest	101
+>>> Test class org.gradle.internal.resource.transport.http.HttpResourceListerTest	709
+>>> Gradle Test Executor 3113	6670
+>>> Test class org.gradle.internal.resource.transport.http.HttpClientConfigurerTest	3592
+>>> Test class org.gradle.internal.resource.transport.http.AlwaysRedirectRedirectStrategyTest	2498
+>>> Test class org.gradle.internal.resource.transport.http.HttpClientHttpHeaderCredentialsTest	42
+>>> Test class org.gradle.internal.resource.transport.http.DefaultSslContextFactoryTest	3138
+>>> Test class org.gradle.internal.resource.transport.http.HttpResourceUploaderTest	1943
+>>> Test class org.gradle.internal.resource.transport.http.JavaSystemPropertiesHttpTimeoutSettingsTest	238
+>>> Test class org.gradle.internal.resource.transport.http.JavaSystemPropertiesHttpProxySettingsTest	39
+>>> Test class org.gradle.internal.resource.transport.http.HttpErrorStatusCodeExceptionTest	110
+>>> Test class org.gradle.internal.resource.transport.http.JavaSystemPropertiesProxySettingsTest	114
+>>> Gradle Test Executor 3115	5803
+>>> Test class org.gradle.internal.resource.transport.http.HttpResponseResourceTest	1517
+>>> Test class org.gradle.internal.resource.transport.http.ApacheDirectoryListingParserTest	553
+>>> Test class org.gradle.internal.resource.transport.http.HttpResourceAccessorTest	1330
+>>> Gradle Test Executor 3120	5323
+>>> Test class org.gradle.internal.resource.transport.http.HttpClientHelperTimeoutTest	2529
+>>> Gradle Test Executor 3118	6605
+>>> Test class org.gradle.api.reporting.GenerateBuildDashboardSpec	2779
+>>> Gradle Test Executor 3117	7244
+>>> Test class org.gradle.internal.resource.local.LocalFileStandInExternalResourceTest	3449
+>>> Test class org.gradle.internal.resource.UriTextResourceTest	756
+>>> Test class org.gradle.internal.resource.transfer.UrlExternalResourceTest	224
+>>> Test class org.gradle.internal.resource.ResourceExceptionsTest	86
+>>> Gradle Test Executor 3123	4544
+>>> Test class org.gradle.api.reporting.ReportingExtensionTest	3416
+>>> Gradle Test Executor 3122	6797
+>>> Test class org.gradle.internal.resource.transport.sftp.SftpClientFactoryTest	4094
+>>> Gradle Test Executor 3127	4148
+>>> Test class org.gradle.internal.resource.transport.aws.s3.S3ConnectionPropertiesTest	3624
+>>> Gradle Test Executor 3125	3647
+>>> Test class org.gradle.internal.resource.transport.aws.s3.S3RegionalResourceTest	3299
+>>> Test class org.gradle.internal.resource.transport.aws.s3.S3ResourceResolverTest	3797
+>>> Gradle Test Executor 3128	3831
+>>> Test class org.gradle.internal.resource.transport.aws.s3.S3ConnectorFactoryTest	5172
+>>> Test class org.gradle.internal.resource.transport.aws.s3.S3ClientTest	5445
+>>> Gradle Test Executor 3124	8773
+>>> Test class org.gradle.api.internal.tasks.DefaultScalaSourceSetTest	4377
+>>> Test class org.gradle.internal.resource.transport.aws.s3.S3ResourceConnectorTest	2226
+>>> Gradle Test Executor 3126	7426
+>>> Test class org.gradle.plugins.signing.signatory.pgp.PgpKeyIdSpec	2650
+>>> Gradle Test Executor 3130	2688
+>>> Test class org.gradle.plugins.signing.type.type.AbstractSignatureTypeSpec	2156
+>>> Gradle Test Executor 3136	2181
+>>> Test class org.gradle.api.tasks.scala.ScalaDocSpec	5034
+>>> Gradle Test Executor 3129	9442
+>>> Test class org.gradle.api.plugins.scala.ScalaBasePluginTest	10776
+>>> Test class org.gradle.api.tasks.scala.ScalaDocOptionsTest	445
+>>> Gradle Test Executor 3131	11241
+>>> Test class org.gradle.plugins.signing.signatory.pgp.PgpSignatoryFactoryTest	7969
+>>> Gradle Test Executor 3135	7994
+>>> Test class org.gradle.plugins.signing.SignatoriesConfigurationSpec	10759
+>>> Test class org.gradle.plugins.signing.SigningTasksSpec	2913
+>>> Gradle Test Executor 3132	13705
+>>> Test class org.gradle.plugins.signing.SigningConfigurationsSpec	11132
+>>> Gradle Test Executor 3133	11151
+>>> Test class org.gradle.plugins.signing.SignOperationSpec	11337
+>>> Gradle Test Executor 3134	11357
+>>> Test class org.gradle.internal.vfs.impl.WatchRootUtilTest	3088
+>>> Test class org.gradle.internal.fingerprint.impl.PathNormalizationStrategyTest	1334
+>>> Test class org.gradle.internal.snapshot.impl.ImplementationSnapshotTest	74
+>>> Test class org.gradle.internal.snapshot.UnknownSnapshotTest	4101
+>>> Test class org.gradle.internal.snapshot.CompleteDirectorySnapshotTest	906
+>>> Test class org.gradle.internal.snapshot.SnapshotUtilTest	42
+>>> Gradle Test Executor 3137	9575
+>>> Test class org.gradle.plugins.signing.type.type.AbstractSignatureTypeProviderSpec	2013
+>>> Gradle Test Executor 3141	2032
+>>> Test class org.gradle.api.plugins.scala.ScalaPluginTest	9891
+>>> Test class org.gradle.api.tasks.scala.ScalaCompileTest	2848
+>>> Gradle Test Executor 3138	12765
+>>> Test class org.gradle.internal.vfs.impl.DefaultVirtualFileSystemTest	3522
+>>> Test class org.gradle.internal.snapshot.impl.DirectorySnapshotterAsDirectoryWalkerTest	3186
+>>> Test class org.gradle.internal.snapshot.RegularFileSnapshotTest	111
+>>> Test class org.gradle.internal.snapshot.VfsRelativePathTest	48
+>>> Test class org.gradle.internal.snapshot.MissingFileSnapshotTest	32
+>>> Gradle Test Executor 3140	6922
+>>> Test class org.gradle.internal.vfs.impl.DefaultSnapshotHierarchyTest	4622
+>>> Test class org.gradle.internal.fingerprint.overlap.impl.DefaultOverlappingOutputDetectorTest	183
+>>> Test class org.gradle.internal.snapshot.impl.DirectorySnapshotterTest	891
+>>> Test class org.gradle.internal.vfs.impl.DefaultVirtualFileSystemConcurrencyTest	12691
+>>> Test class org.gradle.internal.snapshot.impl.FileSystemSnapshotFilterTest	497
+>>> Test class org.gradle.internal.snapshot.SearchUtilTest	72
+>>> Test class org.gradle.internal.snapshot.CaseSensitiveVfsRelativePathTest	2571
+>>> Test class org.gradle.internal.snapshot.PathUtilTest	11
+>>> Gradle Test Executor 3139	15868
+>>> Test class org.gradle.internal.snapshot.PartialDirectorySnapshotTest	4755
+>>> Test class org.gradle.api.tasks.ScalaRuntimeTest	10148
+>>> Gradle Test Executor 3143	10184
+>>> Test class org.gradle.api.internal.tasks.testing.results.AttachParentTestResultProcessorTest	2349
+>>> Test class org.gradle.api.internal.tasks.testing.filter.DefaultTestFilterTest	116
+>>> Test class org.gradle.api.internal.tasks.testing.logging.TruncatedStackTraceSpecTest	57
+>>> Test class org.gradle.api.internal.tasks.testing.logging.DefaultTestLoggingTest	103
+>>> Test class org.gradle.api.internal.tasks.testing.logging.StackTraceFilterTest	249
+>>> Test class org.gradle.api.internal.tasks.testing.worker.ForkingTestClassProcessorTest	2859
+>>> Test class org.gradle.api.internal.tasks.testing.processors.MaxNParallelTestClassProcessorTest	103
+>>> Test class org.gradle.api.internal.tasks.testing.processors.DefaultStandardOutputRedirectorTest	137
+>>> Test class org.gradle.api.internal.tasks.testing.operations.TestListenerBuildOperationAdapterTest	340
+>>> Test class org.gradle.api.internal.tasks.testing.junit.result.TestClassResultSpec	52
+>>> Test class org.gradle.api.internal.tasks.testing.junit.result.AggregateTestResultsProviderTest	752
+>>> Test class org.gradle.api.internal.tasks.testing.testng.TestNGListenerAdapterFactorySpec	3531
+>>> Test class org.gradle.api.internal.tasks.testing.detection.DefaultTestClassScannerTest	437
+>>> Test class org.gradle.api.internal.tasks.testing.junit.ACustomSuite	153
+>>> Test class org.gradle.api.internal.tasks.testing.junit.BJunit3TestClass	83
+>>> Test class org.gradle.api.internal.tasks.testing.junit.JUnitTestEventAdapterTest	116
+>>> Gradle Test Executor 3147	4352
+>>> Test class org.gradle.plugins.signing.SigningPublicationsSpec	11595
+>>> Test class org.gradle.plugins.signing.ConventionSmokeSpec	982
+>>> Gradle Test Executor 3142	12607
+>>> Test class org.gradle.internal.snapshot.CaseInsensitiveVfsRelativePathTest	1988
+>>> Gradle Test Executor 3144	12478
+>>> Test class org.gradle.testing.base.plugins.TestingModelBasePluginTest	9467
+>>> Test class org.gradle.api.internal.tasks.testing.DefaultTestClassDescriptorTest	15
+>>> Test class org.gradle.api.internal.tasks.testing.logging.TestCountLoggerTest	331
+>>> Test class org.gradle.api.internal.tasks.testing.logging.JavaClassNameFormatterTest	18
+>>> Test class org.gradle.api.internal.tasks.testing.logging.GroovyStackTraceSpecTest	177
+>>> Test class org.gradle.api.internal.tasks.testing.logging.ShortExceptionFormatterTest	181
+>>> Test class org.gradle.api.internal.tasks.testing.processors.RunSortedBySizeTestClassProcessorTest	62
+>>> Test class org.gradle.api.internal.tasks.testing.processors.TestOutputRedirectorTest	90
+>>> Test class org.gradle.api.internal.tasks.testing.processors.JULRedirectorTest	235
+>>> Test class org.gradle.api.internal.tasks.testing.junit.result.TestOutputStoreSpec	209
+>>> Test class org.gradle.api.internal.tasks.testing.junit.result.TestResultSerializerTest	54
+>>> Test class org.gradle.api.internal.tasks.testing.report.LocaleSafeDecimalFormatTest	27
+>>> Test class org.gradle.api.internal.tasks.testing.report.DefaultTestReportTest	3220
+>>> Test class org.gradle.api.internal.tasks.testing.report.TestResultTest	371
+>>> Gradle Test Executor 3146	10738
+>>> Test class org.gradle.api.internal.tasks.testing.report.CompositeTestResultsTest	1361
+>>> Gradle Test Executor 3145	12253
+>>> Test class org.gradle.api.internal.tasks.testing.testng.TestNGTestFrameworkTest	7813
+>>> Test class org.gradle.api.internal.tasks.testing.junit.AJunit3TestThatRenamesItself	50
+>>> Test class org.gradle.testkit.runner.internal.DefaultBuildTaskTest	1780
+>>> Test class org.gradle.testkit.runner.internal.feature.BuildResultOutputFeatureCheckTest	200
+>>> Gradle Test Executor 3151	2016
+>>> Test class org.gradle.testkit.runner.internal.DefaultBuildResultTest	2047
+>>> Gradle Test Executor 3152	2084
+>>> Test class org.gradle.testkit.runner.internal.TempTestKitDirProviderTest	3246
+>>> Test class org.gradle.testkit.runner.internal.DefaultGradleRunnerTest	1293
+>>> Gradle Test Executor 3150	4576
+>>> Test class org.gradle.testkit.runner.internal.FeatureCheckBuildResultTest	2283
+>>> Gradle Test Executor 3154	2325
+>>> Test class org.gradle.nativeplatform.test.internal.DefaultNativeTestSuiteBinarySpecTest	6962
+>>> Test class org.gradle.nativeplatform.test.cpp.internal.DefaultCppTestSuiteTest	3661
+>>> Test class org.gradle.nativeplatform.test.xctest.internal.execution.XCTestSelectionTest	157
+>>> Gradle Test Executor 3149	10807
+>>> Test class org.gradle.api.internal.tasks.testing.results.DefaultTestResultTest	2391
+>>> Test class org.gradle.api.internal.tasks.testing.DefaultTestSuiteDescriptorTest	41
+>>> Test class org.gradle.api.internal.tasks.testing.logging.FullExceptionFormatterTest	689
+>>> Test class org.gradle.api.internal.tasks.testing.logging.AbstractTestLoggerTest	263
+>>> Test class org.gradle.api.internal.tasks.testing.logging.ClassMethodNameStackTraceSpecTest	99
+>>> Test class org.gradle.api.internal.tasks.testing.worker.TestWorkerTest	1565
+>>> Test class org.gradle.api.internal.tasks.testing.processors.TestMainActionTest	140
+>>> Test class org.gradle.api.internal.tasks.testing.processors.CaptureTestOutputTestResultProcessorTest	1356
+>>> Test class org.gradle.api.internal.tasks.testing.junit.result.JUnitXmlResultWriterSpec	1324
+>>> Test class org.gradle.api.internal.tasks.testing.junit.result.Binary2JUnitXmlReportGeneratorSpec	663
+>>> Test class org.gradle.api.internal.tasks.testing.SuiteTestClassProcessorTest	180
+>>> Test class org.gradle.api.internal.tasks.testing.report.ClassTestResultsTest	80
+>>> Gradle Test Executor 3155	8816
+>>> Test class org.gradle.api.internal.tasks.testing.results.StateTrackingTestResultProcessorTest	2688
+>>> Test class org.gradle.api.internal.tasks.testing.filter.TestSelectionMatcherTest	229
+>>> Test class org.gradle.api.internal.tasks.testing.logging.TestEventLoggerTest	311
+>>> Test class org.gradle.api.internal.tasks.testing.junit.JUnitTestClassProcessorTest	2504
+>>> Test class org.gradle.api.internal.tasks.testing.junit.AnIgnoredTestClass	3
+>>> Gradle Test Executor 3148	10414
+>>> Test class org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessorTest	7302
+>>> Test class org.gradle.api.internal.tasks.testing.junit.BTestClass	50
+>>> Test class org.gradle.api.internal.tasks.testing.junit.AParameterizedTest	35
+>>> Test class org.gradle.api.internal.tasks.testing.junit.ATestSuite	15
+>>> Test class org.gradle.api.internal.tasks.testing.junit.JUnitTestFrameworkTest	3407
+>>> Gradle Test Executor 3159	10848
+>>> Test class org.gradle.api.internal.tasks.testing.logging.DefaultTestLoggingContainerTest	1837
+>>> Test class org.gradle.api.internal.tasks.testing.logging.TestWorkerProgressListenerTest	186
+>>> Test class org.gradle.api.internal.tasks.testing.worker.TestEventSerializerTest	450
+>>> Test class org.gradle.api.internal.tasks.testing.processors.RestartEveryNTestClassProcessorTest	178
+>>> Test class org.gradle.api.internal.tasks.testing.processors.RunPreviousFailedFirstTestClassProcessorTest	31
+>>> Test class org.gradle.api.internal.tasks.testing.TestStartEventTest	20
+>>> Test class org.gradle.tooling.internal.provider.runner.ClientProvidedPhasedActionRunnerTest	5737
+>>> Test class org.gradle.tooling.internal.provider.runner.TestExecutionResultEvaluatorTest	1098
+>>> Gradle Test Executor 3160	6872
+>>> Test class org.gradle.tooling.internal.provider.runner.ProgressListenerToProgressLoggerAdapterTest	2059
+>>> Gradle Test Executor 3162	2087
+>>> Test class org.gradle.tooling.internal.provider.runner.TestExecutionRequestActionRunnerTest	1810
+>>> Test class org.gradle.tooling.internal.provider.runner.TestExecutionBuildConfigurationActionTest	6154
+>>> Test class org.gradle.tooling.internal.provider.runner.ClientProvidedBuildActionRunnerTest	3208
+>>> Gradle Test Executor 3165	5055
+>>> Test class org.gradle.tooling.internal.provider.runner.DefaultBuildControllerTest	380
+>>> Gradle Test Executor 3164	6574
+>>> Test class org.gradle.tooling.internal.adapter.ProtocolToModelAdapterTest	3355
+>>> Test class org.gradle.tooling.internal.adapter.TypeInspectorTest	2091
+>>> Test class org.gradle.tooling.internal.consumer.DefaultTestLauncherTest	2305
+>>> Test class org.gradle.tooling.internal.consumer.parameters.BuildProgressListenerAdapterForTestOutputOperationsTest	288
+>>> Test class org.gradle.tooling.internal.consumer.parameters.ProgressListenerAdapterTest	157
+>>> Test class org.gradle.tooling.internal.consumer.DefaultPhasedBuildActionExecuterTest	2085
+>>> Test class org.gradle.tooling.internal.consumer.parameters.BuildProgressListenerAdapterForWorkItemOperationsTest	291
+>>> Test class org.gradle.tooling.internal.consumer.connection.ToolingParameterProxyTest	130
+>>> Test class org.gradle.tooling.internal.consumer.parameters.BuildProgressListenerAdapterForProjectConfigurationOperationsTest	748
+>>> Test class org.gradle.tooling.internal.consumer.connection.PluginClasspathInjectionSupportedCheckModelProducerTest	201
+>>> Test class org.gradle.tooling.internal.consumer.parameters.BuildProgressListenerAdapterForTransformOperationsTest	279
+>>> Test class org.gradle.tooling.internal.consumer.parameters.BuildProgressListenerAdapterForTaskOperationsTest	761
+>>> Test class org.gradle.tooling.internal.consumer.DefaultPhasedActionResultListenerTest	107
+>>> Test class org.gradle.tooling.internal.consumer.parameters.BuildProgressListenerAdapterForBuildOperationsTest	206
+>>> Test class org.gradle.tooling.internal.adapter.CollectionMapperTest	2514
+>>> Test class org.gradle.tooling.internal.consumer.connection.ProgressLoggingConsumerActionExecutorTest	2064
+>>> Test class org.gradle.tooling.internal.consumer.connection.LazyConsumerActionExecutorTest	2326
+>>> Test class org.gradle.tooling.internal.consumer.connection.TestExecutionConsumerConnectionTest	2001
+>>> Test class org.gradle.tooling.internal.consumer.parameters.BuildProgressListenerAdapterForTestOperationsTest	1389
+>>> Test class org.gradle.tooling.internal.consumer.ConnectorServicesTest	212
+>>> Test class org.gradle.tooling.internal.consumer.connection.BuildControllerWithoutParameterSupportTest	263
+>>> Test class org.gradle.tooling.internal.consumer.parameters.ConsumerOperationParametersTest	265
+>>> Test class org.gradle.tooling.internal.consumer.loader.CachingToolingImplementationLoaderTest	119
+>>> Test class org.gradle.tooling.internal.consumer.connection.UnsupportedOlderVersionConnectionTest	166
+>>> Test class org.gradle.tooling.internal.consumer.versioning.ModelMappingTest	66
+>>> Test class org.gradle.tooling.internal.consumer.DefaultCancellationTokenSourceTest	69
+>>> Test class org.gradle.plugins.ide.internal.tooling.DefaultGradleProjectTest	67
+>>> Gradle Test Executor 3157	6067
+>>> Test class org.gradle.tooling.internal.consumer.connection.PhasedActionAwareConsumerConnectionTest	789
+>>> Test class org.gradle.tooling.internal.consumer.async.DefaultAsyncConsumerActionExecutorTest	544
+>>> Test class org.gradle.tooling.internal.consumer.AbstractLongRunningOperationTest	37
+>>> Test class org.gradle.tooling.internal.consumer.parameters.BuildProgressListenerAdapterTest	710
+>>> Test class org.gradle.tooling.internal.consumer.DefaultPhasedBuildActionExecuterBuilderTest	79
+>>> Test class org.gradle.tooling.internal.consumer.connection.CancellableModelBuilderBackedModelProducerTest	252
+>>> Test class org.gradle.tooling.internal.consumer.connection.CancellableConsumerActionExecutorTest	92
+>>> Test class org.gradle.tooling.internal.consumer.loader.SynchronizedToolingImplementationLoaderTest	988
+>>> Test class org.gradle.tooling.internal.consumer.DistributionFactoryTest	1270
+>>> Test class org.gradle.integtests.tooling.fixture.GradleVersionSpecTest	124
+>>> Gradle Test Executor 3156	8011
+>>> Test class org.gradle.tooling.internal.consumer.connection.CancellableConsumerConnectionTest	1859
+>>> Test class org.gradle.tooling.internal.consumer.connection.BuildControllerAdapterTest	220
+>>> Test class org.gradle.tooling.internal.consumer.connection.ParameterAcceptingConsumerConnectionTest	148
+>>> Test class org.gradle.tooling.internal.consumer.DefaultProjectConnectionTest	181
+>>> Test class org.gradle.tooling.internal.consumer.DefaultBuildActionExecuterTest	1669
+>>> Test class org.gradle.tooling.internal.consumer.DefaultModelBuilderTest	1782
+>>> Test class org.gradle.tooling.internal.consumer.DefaultBuildLauncherTest	1940
+>>> Gradle Test Executor 3153	15958
+>>> Test class org.gradle.tooling.internal.consumer.loader.DefaultToolingImplementationLoaderTest	7945
+>>> Test class org.gradle.tooling.internal.consumer.SynchronizedLoggingTest	295
+>>> Test class org.gradle.tooling.internal.consumer.DefaultGradleConnectorTest	203
+>>> Test class org.gradle.api.internal.tasks.testing.junit.result.TestReportDataCollectorSpec	1599
+>>> Test class org.gradle.api.internal.tasks.testing.FailFastTestListenerInternalTest	156
+>>> Test class org.gradle.api.internal.tasks.testing.report.AllTestResultsTest	88
+>>> Test class org.gradle.api.internal.tasks.testing.report.TestResultModelTest	46
+>>> Gradle Test Executor 3163	7847
+>>> Test class org.gradle.tooling.model.internal.ImmutableDomainObjectSetTest	53
+>>> Gradle Test Executor 3158	15800
+>>> Test class org.gradle.api.internal.tasks.testing.testng.TestNGTestResultProcessorAdapterTest	2541
+>>> Test class org.gradle.api.internal.tasks.testing.junit.AnEmptyParameterizedTest	63
+>>> Test class org.gradle.api.internal.tasks.testing.junit.AnEmptyTestSuite	5
+>>> Test class org.gradle.api.internal.tasks.testing.junit.TestClassExecutionEventGeneratorTest	214
+>>> Test class org.gradle.api.internal.tasks.testing.junit.AJunit3TestClass	37
+>>> Gradle Test Executor 3167	2890
+>>> Test class org.gradle.nativeplatform.test.plugins.NativeBinariesTestPluginTest	9244
+>>> Test class org.gradle.nativeplatform.test.xctest.internal.DefaultSwiftXCTestSuiteTest	1940
+>>> Gradle Test Executor 3161	11211
+>>> Test class org.gradle.nativeplatform.test.plugins.NativeTestingBasePluginTest	7804
+>>> Test class org.gradle.nativeplatform.test.googletest.GoogleTestTest	4300
+>>> Gradle Test Executor 3166	12123
+>>> Test class org.gradle.nativeplatform.test.cunit.CUnitTest	10723
+>>> Test class org.gradle.vcs.internal.DefaultVcsMappingStoreTest	2449
+>>> Test class org.gradle.vcs.git.internal.GitVersionControlSystemSpec	8303
+>>> Gradle Test Executor 3168	10782
+>>> Test class org.gradle.vcs.internal.DefaultVersionControlRepositoryTest	2206
+>>> Gradle Test Executor 3175	2222
+>>> Test class org.gradle.vcs.git.internal.DefaultGitVersionControlSpecSpec	1855
+>>> Gradle Test Executor 3180	1886
+>>> Test class org.gradle.vcs.internal.DefaultSourceControlTest	2987
+>>> Gradle Test Executor 3178	3019
+>>> Test class org.gradle.workers.internal.DefaultWorkerConfigurationTest	2659
+>>> Test class org.gradle.workers.internal.HierarchicalClassLoaderStructureSerializerTest	2562
+>>> Test class org.gradle.workers.internal.FilteringClassLoaderSpecSerializerTest	45
+>>> Test class org.gradle.workers.internal.VisitableURLClassLoaderSpecSerializerTest	154
+>>> Test class org.gradle.workers.internal.WorkerDaemonExpirationTest	5625
+>>> Test class org.gradle.workers.internal.WorkerDaemonClientsManagerTest	2847
+>>> Test class org.gradle.workers.internal.IsolatableSerializerRegistryTest	2803
+>>> Test class org.gradle.process.internal.worker.child.BootstrapSecurityManagerTest	265
+>>> Gradle Test Executor 3173	5745
+>>> Test class org.gradle.process.internal.worker.child.WorkerProcessClassPathProviderTest	456
+>>> Gradle Test Executor 3172	6086
+>>> Test class org.gradle.workers.internal.DefaultWorkerExecutorTest	2768
+>>> Test class org.gradle.workers.internal.WorkerDaemonClientTest	314
+>>> Test class org.gradle.workers.internal.TransportableActionExecutionSpecSerializerTest	276
+>>> Gradle Test Executor 3171	9003
+>>> Test class org.gradle.workers.internal.WorkerDaemonFactoryTest	3446
+>>> Test class org.gradle.workers.internal.DefaultWorkerExecutorParallelTest	1469
+>>> Test class org.gradle.workers.internal.DaemonForkOptionsTest	271
+>>> Test class org.gradle.process.internal.worker.child.WorkerLogEventListenerTest	147
+>>> Gradle Test Executor 3176	5350
+>>> Test class org.gradle.wrapper.WrapperExecutorTest	4519
+>>> Test class org.gradle.wrapper.DownloadTest	94
+>>> Gradle Test Executor 3169	4633
+>>> Test class org.gradle.wrapper.SystemPropertiesHandlerTest	2755
+>>> Gradle Test Executor 3174	2771
+>>> Test class org.gradle.wrapper.PathAssemblerTest	248
+>>> Test class org.gradle.wrapper.GradleUserHomeLookupTest	2577
+>>> Test class org.gradle.wrapper.ExclusiveFileAccessManagerTest	247
+>>> Gradle Test Executor 3177	2859
+>>> Test class org.gradle.wrapper.InstallTest	3175
+>>> Gradle Test Executor 3179	3442
+>>> Test class org.gradle.nativeplatform.test.cpp.plugins.CppUnitTestPluginTest	1191
+>>> Test class org.gradle.nativeplatform.test.xctest.plugins.XCTestConventionPluginTest	314
+>>> Gradle Test Executor 3170	12256
+#DIFF 495
